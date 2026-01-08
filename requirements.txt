@@ -1,0 +1,31 @@
+# Core Data Processing
+pandas
+numpy
+scipy
+
+# Machine Learning - AutoGluon
+autogluon
+autogluon.tabular[all]
+autogluon.core[all]
+
+# Scikit-learn (AutoGluon dependency)
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Time Series Analysis
+statsmodels
+
+# Jupyter Notebook Support
+jupyter
+ipykernel
+ipywidgets
+notebook
+
+# Progress Bars
+tqdm
+
+

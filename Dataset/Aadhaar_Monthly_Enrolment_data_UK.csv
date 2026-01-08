@@ -1,0 +1,4087 @@
+date,state,district,pincode,age_0_5,age_5_17,age_18_greater
+15-03-2025,Uttarakhand,Haridwar,247667,17,15,28
+03-09-2025,Uttarakhand,Chamoli,246427,2,0,0
+03-09-2025,Uttarakhand,Dehradun,248008,5,0,0
+03-09-2025,Uttarakhand,Dehradun,248009,2,0,0
+03-09-2025,Uttarakhand,Dehradun,248121,1,0,0
+03-09-2025,Uttarakhand,Dehradun,248171,6,3,0
+03-09-2025,Uttarakhand,Dehradun,249205,1,0,0
+03-09-2025,Uttarakhand,Hardwar,249407,1,0,0
+03-09-2025,Uttarakhand,Haridwar,247662,2,1,0
+03-09-2025,Uttarakhand,Haridwar,247668,1,1,0
+03-09-2025,Uttarakhand,Haridwar,249402,2,1,0
+03-09-2025,Uttarakhand,Haridwar,249407,3,1,0
+03-09-2025,Uttarakhand,Nainital,262402,7,0,0
+03-09-2025,Uttarakhand,Nainital,263002,1,0,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246155,3,0,0
+03-09-2025,Uttarakhand,Pithoragarh,262502,1,0,0
+03-09-2025,Uttarakhand,Tehri Garhwal,249145,1,1,0
+03-09-2025,Uttarakhand,Tehri Garhwal,249155,7,0,0
+03-09-2025,Uttarakhand,Tehri Garhwal,249175,4,0,0
+03-09-2025,Uttarakhand,Tehri Garhwal,249180,2,0,0
+03-09-2025,Uttarakhand,Tehri Garhwal,249186,1,0,0
+03-09-2025,Uttarakhand,Udham Singh Nagar,244713,17,1,0
+03-09-2025,Uttarakhand,Udham Singh Nagar,262401,12,4,0
+03-09-2025,Uttarakhand,Udham Singh Nagar,263152,6,0,0
+02-09-2025,Uttarakhand,Almora,263655,1,0,0
+02-09-2025,Uttarakhand,Bageshwar,263641,1,0,0
+02-09-2025,Uttarakhand,Chamoli,246440,1,0,0
+02-09-2025,Uttarakhand,Dehradun,248005,3,0,0
+02-09-2025,Uttarakhand,Dehradun,248007,1,1,0
+02-09-2025,Uttarakhand,Dehradun,248009,1,0,0
+02-09-2025,Uttarakhand,Dehradun,248122,1,0,0
+02-09-2025,Uttarakhand,Dehradun,248125,2,0,0
+02-09-2025,Uttarakhand,Dehradun,248140,4,0,0
+02-09-2025,Uttarakhand,Dehradun,248142,4,0,0
+02-09-2025,Uttarakhand,Dehradun,248171,1,0,0
+02-09-2025,Uttarakhand,Haridwar,247665,1,1,0
+02-09-2025,Uttarakhand,Haridwar,247666,1,2,0
+02-09-2025,Uttarakhand,Haridwar,247668,2,0,0
+02-09-2025,Uttarakhand,Nainital,263132,2,0,0
+02-09-2025,Uttarakhand,Pauri Garhwal,246123,0,1,0
+02-09-2025,Uttarakhand,Pauri Garhwal,246179,1,0,0
+02-09-2025,Uttarakhand,Pithoragarh,262547,1,0,0
+02-09-2025,Uttarakhand,Tehri Garhwal,249155,3,1,0
+02-09-2025,Uttarakhand,Tehri Garhwal,249180,5,1,0
+01-09-2025,Uttarakhand,Almora,263628,1,0,0
+01-09-2025,Uttarakhand,Bageshwar,263631,1,0,0
+01-09-2025,Uttarakhand,Chamoli,246428,2,0,0
+01-09-2025,Uttarakhand,Chamoli,246455,1,0,0
+01-09-2025,Uttarakhand,Chamoli,246481,1,0,0
+01-09-2025,Uttarakhand,Dehradun,248141,1,0,0
+01-09-2025,Uttarakhand,Dehradun,248171,2,1,0
+01-09-2025,Uttarakhand,Garhwal,246149,1,0,0
+01-09-2025,Uttarakhand,Garhwal,246155,1,0,0
+01-09-2025,Uttarakhand,Haridwar,247656,1,0,0
+01-09-2025,Uttarakhand,Haridwar,247661,3,0,0
+01-09-2025,Uttarakhand,Haridwar,247666,1,0,0
+01-09-2025,Uttarakhand,Haridwar,249403,1,0,0
+01-09-2025,Uttarakhand,Nainital,263132,2,0,0
+01-09-2025,Uttarakhand,Pauri Garhwal,246127,0,1,0
+01-09-2025,Uttarakhand,Pauri Garhwal,246147,1,1,0
+01-09-2025,Uttarakhand,Pithoragarh,262501,1,0,0
+01-09-2025,Uttarakhand,Pithoragarh,262533,1,0,0
+01-09-2025,Uttarakhand,Pithoragarh,262544,0,0,1
+01-09-2025,Uttarakhand,Pithoragarh,262545,2,0,0
+01-09-2025,Uttarakhand,Rudraprayag,246425,1,0,0
+01-09-2025,Uttarakhand,Rudraprayag,246439,2,0,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249121,0,1,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249130,2,1,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249161,3,1,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249180,1,0,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249192,2,0,0
+01-09-2025,Uttarakhand,Udham Singh Nagar,244713,7,0,0
+01-09-2025,Uttarakhand,Udham Singh Nagar,262405,0,1,0
+01-09-2025,Uttarakhand,Uttarkashi,249196,1,0,0
+06-09-2025,Uttarakhand,Almora,263645,1,0,0
+06-09-2025,Uttarakhand,Almora,263664,1,0,0
+06-09-2025,Uttarakhand,Almora,263676,0,1,0
+06-09-2025,Uttarakhand,Bageshwar,263641,2,0,0
+06-09-2025,Uttarakhand,Chamoli,246427,2,0,0
+06-09-2025,Uttarakhand,Chamoli,246429,1,0,0
+06-09-2025,Uttarakhand,Dehradun,248001,27,7,0
+06-09-2025,Uttarakhand,Dehradun,248007,6,2,0
+06-09-2025,Uttarakhand,Dehradun,248140,9,0,0
+06-09-2025,Uttarakhand,Dehradun,248196,2,0,0
+06-09-2025,Uttarakhand,Hardwar,247667,0,2,0
+06-09-2025,Uttarakhand,Hardwar,249407,0,1,0
+06-09-2025,Uttarakhand,Haridwar,249403,1,0,0
+06-09-2025,Uttarakhand,Haridwar,249404,4,1,0
+06-09-2025,Uttarakhand,Haridwar,249408,2,0,0
+06-09-2025,Uttarakhand,Nainital,263132,1,0,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246001,1,0,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246128,0,1,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246149,5,1,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246194,1,0,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246275,1,0,0
+06-09-2025,Uttarakhand,Pithoragarh,262531,1,0,0
+06-09-2025,Uttarakhand,Rudraprayag,246439,2,0,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249001,1,0,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249131,1,0,0
+06-09-2025,Uttarakhand,Udham Singh Nagar,244712,8,0,0
+06-09-2025,Uttarakhand,Udham Singh Nagar,262308,6,2,0
+06-09-2025,Uttarakhand,Udham Singh Nagar,263149,1,3,0
+06-09-2025,Uttarakhand,Udham Singh Nagar,263153,14,2,0
+06-09-2025,Uttarakhand,Udham Singh Nagar,263160,3,1,0
+06-09-2025,Uttarakhand,Uttarkashi,249152,2,0,0
+05-09-2025,Uttarakhand,Almora,263645,1,0,0
+05-09-2025,Uttarakhand,Bageshwar,263679,1,0,0
+05-09-2025,Uttarakhand,Chamoli,246455,1,1,0
+05-09-2025,Uttarakhand,Chamoli,246474,1,0,0
+05-09-2025,Uttarakhand,Dehradun,248011,1,1,0
+05-09-2025,Uttarakhand,Dehradun,248121,1,0,0
+05-09-2025,Uttarakhand,Hardwar,247663,1,1,0
+05-09-2025,Uttarakhand,Haridwar,247663,3,2,0
+05-09-2025,Uttarakhand,Haridwar,247668,0,1,0
+05-09-2025,Uttarakhand,Haridwar,247671,2,3,0
+05-09-2025,Uttarakhand,Nainital,263139,2,0,0
+05-09-2025,Uttarakhand,Nainital,263140,0,1,0
+05-09-2025,Uttarakhand,Nainital,263157,0,1,0
+05-09-2025,Uttarakhand,Pithoragarh,262547,1,0,0
+05-09-2025,Uttarakhand,Pithoragarh,262554,2,0,0
+05-09-2025,Uttarakhand,Rudraprayag,246475,1,0,0
+05-09-2025,Uttarakhand,Tehri Garhwal,249131,2,0,0
+05-09-2025,Uttarakhand,Tehri Garhwal,249165,1,0,0
+05-09-2025,Uttarakhand,Tehri Garhwal,249175,1,1,0
+05-09-2025,Uttarakhand,Tehri Garhwal,249180,0,1,0
+05-09-2025,Uttarakhand,Tehri Garhwal,249186,2,0,0
+05-09-2025,Uttarakhand,Udham Singh Nagar,263160,1,0,0
+04-09-2025,Uttarakhand,Almora,263622,1,1,0
+04-09-2025,Uttarakhand,Chamoli,246401,2,0,0
+04-09-2025,Uttarakhand,Chamoli,246435,2,0,0
+04-09-2025,Uttarakhand,Chamoli,246443,0,0,1
+04-09-2025,Uttarakhand,Chamoli,246449,5,0,0
+04-09-2025,Uttarakhand,Chamoli,246486,1,0,0
+04-09-2025,Uttarakhand,Dehradun,248158,2,0,0
+04-09-2025,Uttarakhand,Dehradun,248159,2,0,0
+04-09-2025,Uttarakhand,Haridwar,249401,1,0,0
+04-09-2025,Uttarakhand,Nainital,262402,4,0,0
+04-09-2025,Uttarakhand,Nainital,263138,1,0,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246127,1,0,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246144,0,1,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246155,2,0,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246159,1,1,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246166,1,0,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246172,0,1,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246176,1,0,0
+04-09-2025,Uttarakhand,Pauri Garhwal,249302,1,0,0
+04-09-2025,Uttarakhand,Pithoragarh,262530,0,1,0
+04-09-2025,Uttarakhand,Pithoragarh,262534,1,0,0
+04-09-2025,Uttarakhand,Pithoragarh,262541,2,0,0
+04-09-2025,Uttarakhand,Pithoragarh,262554,4,0,0
+04-09-2025,Uttarakhand,Rudraprayag,246419,1,0,0
+04-09-2025,Uttarakhand,Rudraprayag,246421,2,0,0
+04-09-2025,Uttarakhand,Rudraprayag,246439,2,1,0
+04-09-2025,Uttarakhand,Rudraprayag,246475,2,0,0
+04-09-2025,Uttarakhand,Udham Singh Nagar,244713,8,2,0
+04-09-2025,Uttarakhand,Udham Singh Nagar,262401,15,1,0
+04-09-2025,Uttarakhand,Udham Singh Nagar,262405,4,1,0
+04-09-2025,Uttarakhand,Udham Singh Nagar,263150,1,0,0
+07-09-2025,Uttarakhand,Dehradun,248001,9,3,0
+07-09-2025,Uttarakhand,Dehradun,248005,2,0,0
+07-09-2025,Uttarakhand,Haridwar,249402,2,0,0
+07-09-2025,Uttarakhand,Pauri Garhwal,246149,1,0,0
+07-09-2025,Uttarakhand,Rudraprayag,246475,2,0,0
+07-09-2025,Uttarakhand,Tehri Garhwal,249155,10,0,0
+07-09-2025,Uttarakhand,Udham Singh Nagar,263160,1,0,0
+09-09-2025,Uttarakhand,Almora,263623,0,1,0
+09-09-2025,Uttarakhand,Almora,263676,1,0,0
+09-09-2025,Uttarakhand,Bageshwar,263679,1,0,0
+09-09-2025,Uttarakhand,Chamoli,246473,1,0,0
+09-09-2025,Uttarakhand,Champawat,262580,3,0,0
+09-09-2025,Uttarakhand,Dehradun,248003,1,0,0
+09-09-2025,Uttarakhand,Dehradun,248197,10,3,0
+09-09-2025,Uttarakhand,Haridwar,247656,3,1,0
+09-09-2025,Uttarakhand,Haridwar,247662,2,2,0
+09-09-2025,Uttarakhand,Haridwar,247663,20,8,0
+09-09-2025,Uttarakhand,Haridwar,247666,9,0,0
+09-09-2025,Uttarakhand,Haridwar,247671,1,0,0
+09-09-2025,Uttarakhand,Nainital,263158,4,0,0
+09-09-2025,Uttarakhand,Nainital,263159,3,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246001,1,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246149,7,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246161,2,0,0
+09-09-2025,Uttarakhand,Pithoragarh,262576,1,0,0
+09-09-2025,Uttarakhand,Rudraprayag,246171,2,0,0
+09-09-2025,Uttarakhand,Tehri Garhwal,249181,4,0,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,244712,6,5,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,262308,20,4,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,262405,15,0,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,263145,2,0,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,263149,4,0,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,263160,5,2,0
+08-09-2025,Uttarakhand,Almora,263653,2,1,0
+08-09-2025,Uttarakhand,Almora,263661,4,0,0
+08-09-2025,Uttarakhand,Almora,263680,1,0,0
+08-09-2025,Uttarakhand,Chamoli,246428,4,0,0
+08-09-2025,Uttarakhand,Chamoli,246444,1,0,1
+08-09-2025,Uttarakhand,Chamoli,246473,4,0,0
+08-09-2025,Uttarakhand,Chamoli,246486,1,0,0
+08-09-2025,Uttarakhand,Champawat,262310,2,0,0
+08-09-2025,Uttarakhand,Dehradun,248001,39,6,0
+08-09-2025,Uttarakhand,Dehradun,248003,2,1,0
+08-09-2025,Uttarakhand,Dehradun,248007,5,0,0
+08-09-2025,Uttarakhand,Dehradun,248008,1,0,0
+08-09-2025,Uttarakhand,Dehradun,248011,1,0,0
+08-09-2025,Uttarakhand,Dehradun,249204,2,0,0
+08-09-2025,Uttarakhand,Haridwar,247665,2,0,0
+08-09-2025,Uttarakhand,Haridwar,247666,2,1,0
+08-09-2025,Uttarakhand,Haridwar,247668,2,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246130,1,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246149,10,0,0
+08-09-2025,Uttarakhand,Pithoragarh,262501,6,0,0
+08-09-2025,Uttarakhand,Pithoragarh,262522,1,0,0
+08-09-2025,Uttarakhand,Pithoragarh,262530,3,0,0
+08-09-2025,Uttarakhand,Pithoragarh,262532,1,0,0
+08-09-2025,Uttarakhand,Pithoragarh,262534,4,0,0
+08-09-2025,Uttarakhand,Pithoragarh,262541,1,0,0
+08-09-2025,Uttarakhand,Rudraprayag,246469,2,0,0
+08-09-2025,Uttarakhand,Rudraprayag,246471,1,0,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+08-09-2025,Uttarakhand,Udham Singh Nagar,244713,18,3,0
+08-09-2025,Uttarakhand,Udham Singh Nagar,263153,22,6,0
+10-09-2025,Uttarakhand,Bageshwar,263631,1,0,0
+10-09-2025,Uttarakhand,Bageshwar,263635,1,0,0
+10-09-2025,Uttarakhand,Bageshwar,263641,3,0,0
+10-09-2025,Uttarakhand,Dehradun,248005,4,0,0
+10-09-2025,Uttarakhand,Dehradun,248009,2,0,0
+10-09-2025,Uttarakhand,Dehradun,248197,10,0,0
+10-09-2025,Uttarakhand,Dehradun,248198,2,0,0
+10-09-2025,Uttarakhand,Dehradun,249204,4,0,0
+10-09-2025,Uttarakhand,Hardwar,249403,1,0,0
+10-09-2025,Uttarakhand,Hardwar,249407,1,0,0
+10-09-2025,Uttarakhand,Haridwar,247656,2,2,0
+10-09-2025,Uttarakhand,Haridwar,247661,10,4,0
+10-09-2025,Uttarakhand,Haridwar,247667,25,3,0
+10-09-2025,Uttarakhand,Haridwar,247668,1,0,0
+10-09-2025,Uttarakhand,Haridwar,249401,6,2,0
+10-09-2025,Uttarakhand,Haridwar,249402,4,3,0
+10-09-2025,Uttarakhand,Haridwar,249407,4,1,0
+10-09-2025,Uttarakhand,Nainital,263159,2,0,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246149,11,1,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246161,4,0,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246163,1,0,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246173,1,0,1
+10-09-2025,Uttarakhand,Pauri Garhwal,246174,2,0,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246277,0,2,0
+10-09-2025,Uttarakhand,Pauri Garhwal,249304,1,0,0
+10-09-2025,Uttarakhand,Pithoragarh,262544,2,1,0
+10-09-2025,Uttarakhand,Pithoragarh,262555,0,1,0
+10-09-2025,Uttarakhand,Rudraprayag,246469,1,1,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249122,3,0,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249155,4,3,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249180,3,0,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249181,5,1,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,244713,27,5,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,263146,1,0,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,263160,2,0,0
+10-09-2025,Uttarakhand,Uttarkashi,249135,3,0,0
+11-09-2025,Uttarakhand,Almora,263622,2,1,0
+11-09-2025,Uttarakhand,Almora,263624,1,0,0
+11-09-2025,Uttarakhand,Almora,263625,1,0,0
+11-09-2025,Uttarakhand,Almora,263661,2,1,0
+11-09-2025,Uttarakhand,Bageshwar,263631,1,0,0
+11-09-2025,Uttarakhand,Bageshwar,263633,2,0,0
+11-09-2025,Uttarakhand,Chamoli,246428,2,0,0
+11-09-2025,Uttarakhand,Chamoli,246455,2,0,0
+11-09-2025,Uttarakhand,Chamoli,246474,1,0,0
+11-09-2025,Uttarakhand,Dehradun,248001,28,2,0
+11-09-2025,Uttarakhand,Dehradun,248012,1,0,0
+11-09-2025,Uttarakhand,Dehradun,248140,9,0,0
+11-09-2025,Uttarakhand,Dehradun,248165,1,0,0
+11-09-2025,Uttarakhand,Dehradun,248196,2,2,0
+11-09-2025,Uttarakhand,Dehradun,249201,1,0,0
+11-09-2025,Uttarakhand,Dehradun,249205,2,0,0
+11-09-2025,Uttarakhand,Haridwar,247662,2,1,0
+11-09-2025,Uttarakhand,Nainital,263132,4,1,0
+11-09-2025,Uttarakhand,Nainital,263139,19,5,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246172,1,0,0
+11-09-2025,Uttarakhand,Pithoragarh,262521,3,0,0
+11-09-2025,Uttarakhand,Pithoragarh,262531,4,0,0
+11-09-2025,Uttarakhand,Pithoragarh,262534,2,0,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249146,1,0,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249155,3,0,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249180,1,1,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249199,1,0,0
+11-09-2025,Uttarakhand,Udham Singh Nagar,262308,11,5,0
+11-09-2025,Uttarakhand,Udham Singh Nagar,263148,10,3,0
+14-09-2025,Uttarakhand,Champawat,262527,1,0,0
+14-09-2025,Uttarakhand,Haridwar,247662,0,1,0
+14-09-2025,Uttarakhand,Pauri Garhwal,246149,6,0,0
+14-09-2025,Uttarakhand,Tehri Garhwal,249125,1,0,0
+14-09-2025,Uttarakhand,Tehri Garhwal,249146,1,0,0
+12-09-2025,Uttarakhand,Almora,263637,2,0,0
+12-09-2025,Uttarakhand,Almora,263663,1,0,0
+12-09-2025,Uttarakhand,Bageshwar,263642,1,0,0
+12-09-2025,Uttarakhand,Dehradun,248142,2,1,0
+12-09-2025,Uttarakhand,Dehradun,248197,7,2,0
+12-09-2025,Uttarakhand,Dehradun,248199,2,0,0
+12-09-2025,Uttarakhand,Garhwal,246162,1,0,0
+12-09-2025,Uttarakhand,Hardwar,247661,1,0,0
+12-09-2025,Uttarakhand,Haridwar,247656,9,3,0
+12-09-2025,Uttarakhand,Haridwar,249403,2,0,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246174,1,1,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246179,6,0,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246285,1,0,0
+12-09-2025,Uttarakhand,Pithoragarh,262553,1,0,0
+12-09-2025,Uttarakhand,Rudraprayag,246171,3,0,0
+12-09-2025,Uttarakhand,Rudraprayag,246425,1,0,0
+12-09-2025,Uttarakhand,Rudraprayag,246475,2,0,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249125,1,0,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249131,1,0,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249146,1,1,0
+12-09-2025,Uttarakhand,Udham Singh Nagar,262405,2,1,0
+12-09-2025,Uttarakhand,Udham Singh Nagar,263146,0,1,0
+12-09-2025,Uttarakhand,Uttarkashi,249165,1,1,0
+13-09-2025,Uttarakhand,Almora,263676,1,1,0
+13-09-2025,Uttarakhand,Chamoli,246401,1,0,0
+13-09-2025,Uttarakhand,Chamoli,246435,1,0,0
+13-09-2025,Uttarakhand,Chamoli,246474,2,0,0
+13-09-2025,Uttarakhand,Dehradun,248001,18,5,0
+13-09-2025,Uttarakhand,Dehradun,248158,1,0,0
+13-09-2025,Uttarakhand,Haridwar,249402,5,1,0
+13-09-2025,Uttarakhand,Nainital,244715,3,1,0
+13-09-2025,Uttarakhand,Nainital,263002,1,1,0
+13-09-2025,Uttarakhand,Nainital,263126,3,0,0
+13-09-2025,Uttarakhand,Pithoragarh,262553,4,5,0
+13-09-2025,Uttarakhand,Pithoragarh,262554,2,0,0
+13-09-2025,Uttarakhand,Udham Singh Nagar,262401,14,1,0
+13-09-2025,Uttarakhand,Udham Singh Nagar,263145,0,1,0
+13-09-2025,Uttarakhand,Udham Singh Nagar,263148,6,1,0
+13-09-2025,Uttarakhand,Udham Singh Nagar,263152,1,0,0
+15-09-2025,Uttarakhand,Haridwar,249403,1,1,0
+15-09-2025,Uttarakhand,Nainital,263139,24,3,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246144,1,0,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246162,1,1,0
+15-09-2025,Uttarakhand,Pithoragarh,262545,2,0,0
+15-09-2025,Uttarakhand,Rudraprayag,246425,3,0,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249165,1,0,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249192,1,0,0
+15-09-2025,Uttarakhand,Udham Singh Nagar,263148,8,1,0
+15-09-2025,Uttarakhand,Uttarkashi,249165,1,0,0
+15-09-2025,Uttarakhand,Almora,263623,1,0,0
+15-09-2025,Uttarakhand,Almora,263625,0,1,0
+15-09-2025,Uttarakhand,Almora,263629,1,0,0
+15-09-2025,Uttarakhand,Almora,263637,1,0,0
+15-09-2025,Uttarakhand,Almora,263659,1,0,0
+15-09-2025,Uttarakhand,Bageshwar,263619,2,1,0
+15-09-2025,Uttarakhand,Chamoli,246440,1,0,0
+15-09-2025,Uttarakhand,Chamoli,246444,3,1,0
+15-09-2025,Uttarakhand,Chamoli,246473,2,0,0
+15-09-2025,Uttarakhand,Chamoli,246487,1,0,0
+15-09-2025,Uttarakhand,Champawat,262528,10,4,0
+15-09-2025,Uttarakhand,Dehradun,248008,3,1,0
+15-09-2025,Uttarakhand,Dehradun,248121,1,0,0
+16-09-2025,Uttarakhand,Almora,263645,2,0,0
+16-09-2025,Uttarakhand,Almora,263663,1,0,0
+16-09-2025,Uttarakhand,Almora,263680,0,1,0
+16-09-2025,Uttarakhand,Chamoli,246435,1,0,0
+16-09-2025,Uttarakhand,Champawat,262528,4,1,0
+16-09-2025,Uttarakhand,Dehradun,248002,3,2,0
+16-09-2025,Uttarakhand,Dehradun,248005,4,0,0
+16-09-2025,Uttarakhand,Dehradun,248142,1,1,0
+16-09-2025,Uttarakhand,Dehradun,248196,3,0,0
+16-09-2025,Uttarakhand,Dehradun,248197,4,0,0
+16-09-2025,Uttarakhand,Dehradun,248198,0,1,0
+16-09-2025,Uttarakhand,Haridwar,247662,1,1,0
+16-09-2025,Uttarakhand,Haridwar,249407,5,1,0
+16-09-2025,Uttarakhand,Nainital,244715,13,1,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246131,1,0,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246162,1,1,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246285,1,0,0
+16-09-2025,Uttarakhand,Pithoragarh,262522,1,0,0
+16-09-2025,Uttarakhand,Pithoragarh,262541,1,0,0
+16-09-2025,Uttarakhand,Pithoragarh,262545,7,0,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249001,2,1,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249145,1,0,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,262308,12,5,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,262401,11,3,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,262405,6,1,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,263146,0,1,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,263148,15,4,0
+16-09-2025,Uttarakhand,Uttarkashi,249171,1,1,0
+19-09-2025,Uttarakhand,Almora,263622,0,1,0
+19-09-2025,Uttarakhand,Almora,263645,4,0,0
+19-09-2025,Uttarakhand,Almora,263651,4,0,0
+19-09-2025,Uttarakhand,Almora,263656,1,1,0
+19-09-2025,Uttarakhand,Bageshwar,263628,1,0,0
+19-09-2025,Uttarakhand,Bageshwar,263630,1,0,0
+19-09-2025,Uttarakhand,Chamoli,246443,0,1,0
+19-09-2025,Uttarakhand,Champawat,262523,2,0,0
+19-09-2025,Uttarakhand,Champawat,262580,1,0,0
+19-09-2025,Uttarakhand,Dehradun,248002,3,1,0
+19-09-2025,Uttarakhand,Dehradun,248005,2,0,0
+19-09-2025,Uttarakhand,Dehradun,248009,2,0,0
+19-09-2025,Uttarakhand,Dehradun,248123,1,0,0
+19-09-2025,Uttarakhand,Dehradun,248141,2,0,0
+19-09-2025,Uttarakhand,Dehradun,248199,5,1,0
+19-09-2025,Uttarakhand,Dehradun,249201,3,1,0
+19-09-2025,Uttarakhand,Haridwar,247663,7,3,0
+19-09-2025,Uttarakhand,Haridwar,249402,7,3,0
+19-09-2025,Uttarakhand,Nainital,244713,1,0,0
+19-09-2025,Uttarakhand,Nainital,263002,1,0,0
+19-09-2025,Uttarakhand,Nainital,263138,3,1,0
+19-09-2025,Uttarakhand,Pauri Garhwal,246149,5,0,0
+19-09-2025,Uttarakhand,Pauri Garhwal,246166,1,0,0
+19-09-2025,Uttarakhand,Pauri Garhwal,246169,1,0,0
+19-09-2025,Uttarakhand,Pauri Garhwal,246175,1,0,0
+19-09-2025,Uttarakhand,Pauri Garhwal,246275,2,0,0
+19-09-2025,Uttarakhand,Pithoragarh,262501,3,0,0
+19-09-2025,Uttarakhand,Pithoragarh,262529,1,0,0
+19-09-2025,Uttarakhand,Pithoragarh,262544,1,0,0
+19-09-2025,Uttarakhand,Pithoragarh,262546,1,0,0
+19-09-2025,Uttarakhand,Rudraprayag,246171,5,0,0
+19-09-2025,Uttarakhand,Tehri Garhwal,249001,2,0,0
+19-09-2025,Uttarakhand,Tehri Garhwal,249131,3,0,0
+19-09-2025,Uttarakhand,Udham Singh Nagar,262308,16,2,0
+19-09-2025,Uttarakhand,Udham Singh Nagar,262401,9,0,0
+19-09-2025,Uttarakhand,Uttarkashi,249185,0,2,0
+19-09-2025,Uttarakhand,Uttarkashi,249193,3,0,0
+17-09-2025,Uttarakhand,Almora,263637,1,0,0
+17-09-2025,Uttarakhand,Almora,263653,2,0,0
+17-09-2025,Uttarakhand,Bageshwar,263628,1,0,0
+17-09-2025,Uttarakhand,Bageshwar,263642,4,0,0
+17-09-2025,Uttarakhand,Chamoli,246424,1,0,0
+17-09-2025,Uttarakhand,Chamoli,246428,1,0,0
+17-09-2025,Uttarakhand,Chamoli,246443,1,0,0
+17-09-2025,Uttarakhand,Chamoli,246481,2,0,0
+17-09-2025,Uttarakhand,Champawat,262523,4,0,0
+17-09-2025,Uttarakhand,Champawat,262528,2,2,0
+17-09-2025,Uttarakhand,Dehradun,248141,1,0,0
+17-09-2025,Uttarakhand,Dehradun,248197,7,0,0
+17-09-2025,Uttarakhand,Dehradun,248198,0,2,0
+17-09-2025,Uttarakhand,Dehradun,249201,0,1,0
+17-09-2025,Uttarakhand,Dehradun,249204,7,0,0
+17-09-2025,Uttarakhand,Hardwar,247663,1,0,0
+17-09-2025,Uttarakhand,Haridwar,247662,4,0,0
+17-09-2025,Uttarakhand,Haridwar,247664,1,1,0
+17-09-2025,Uttarakhand,Haridwar,249407,5,0,0
+17-09-2025,Uttarakhand,Nainital,263002,2,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246121,2,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246162,1,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246163,1,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246285,3,0,0
+17-09-2025,Uttarakhand,Tehri Garhwal,249121,1,0,0
+17-09-2025,Uttarakhand,Tehri Garhwal,249132,1,0,0
+17-09-2025,Uttarakhand,Tehri Garhwal,249180,7,3,0
+17-09-2025,Uttarakhand,Udham Singh Nagar,262401,5,3,0
+17-09-2025,Uttarakhand,Udham Singh Nagar,262405,1,1,0
+17-09-2025,Uttarakhand,Udham Singh Nagar,263152,2,1,0
+17-09-2025,Uttarakhand,Uttarkashi,249141,1,0,0
+17-09-2025,Uttarakhand,Uttarkashi,249165,1,0,0
+18-09-2025,Uttarakhand,Almora,263645,2,0,0
+18-09-2025,Uttarakhand,Almora,263655,1,0,0
+18-09-2025,Uttarakhand,Almora,263656,2,3,0
+18-09-2025,Uttarakhand,Bageshwar,263628,1,0,0
+18-09-2025,Uttarakhand,Bageshwar,263634,1,0,0
+18-09-2025,Uttarakhand,Bageshwar,263641,1,0,0
+18-09-2025,Uttarakhand,Chamoli,246426,0,1,0
+18-09-2025,Uttarakhand,Dehradun,248009,1,0,0
+18-09-2025,Uttarakhand,Dehradun,248123,6,0,0
+18-09-2025,Uttarakhand,Haridwar,246763,1,0,0
+18-09-2025,Uttarakhand,Haridwar,247656,3,1,0
+18-09-2025,Uttarakhand,Haridwar,247661,7,1,0
+18-09-2025,Uttarakhand,Haridwar,247663,12,2,0
+18-09-2025,Uttarakhand,Haridwar,247670,2,0,0
+18-09-2025,Uttarakhand,Haridwar,249408,3,0,0
+18-09-2025,Uttarakhand,Nainital,263139,20,1,0
+18-09-2025,Uttarakhand,Nainital,263140,1,0,0
+18-09-2025,Uttarakhand,Rudraprayag,246475,4,0,0
+18-09-2025,Uttarakhand,Tehri Garhwal,249122,1,0,0
+18-09-2025,Uttarakhand,Tehri Garhwal,249146,3,0,0
+18-09-2025,Uttarakhand,Tehri Garhwal,249155,7,0,0
+18-09-2025,Uttarakhand,Tehri Garhwal,249165,2,1,0
+18-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+18-09-2025,Uttarakhand,Tehri Garhwal,249196,1,0,0
+18-09-2025,Uttarakhand,Udham Singh Nagar,263148,13,2,0
+18-09-2025,Uttarakhand,Uttarkashi,249165,2,0,0
+22-09-2025,Uttarakhand,Almora,263601,3,0,0
+22-09-2025,Uttarakhand,Chamoli,246429,1,0,0
+22-09-2025,Uttarakhand,Chamoli,246487,1,0,0
+22-09-2025,Uttarakhand,Champawat,262309,1,0,0
+22-09-2025,Uttarakhand,Dehradun,248002,2,1,0
+22-09-2025,Uttarakhand,Dehradun,248125,1,0,0
+22-09-2025,Uttarakhand,Dehradun,248145,1,0,0
+22-09-2025,Uttarakhand,Dehradun,248198,2,1,0
+22-09-2025,Uttarakhand,Haridwar,247656,1,0,0
+22-09-2025,Uttarakhand,Haridwar,247670,1,0,0
+22-09-2025,Uttarakhand,Haridwar,249401,0,2,0
+22-09-2025,Uttarakhand,Nainital,244715,5,1,0
+22-09-2025,Uttarakhand,Pauri Garhwal,246278,0,1,0
+22-09-2025,Uttarakhand,Pauri Garhwal,246285,6,2,0
+22-09-2025,Uttarakhand,Pithoragarh,262551,1,0,0
+22-09-2025,Uttarakhand,Tehri Garhwal,249155,1,0,0
+22-09-2025,Uttarakhand,Udham Singh Nagar,262308,9,2,0
+22-09-2025,Uttarakhand,Udham Singh Nagar,262405,4,0,0
+22-09-2025,Uttarakhand,Uttarkashi,249171,2,0,0
+20-09-2025,Uttarakhand,Almora,263661,1,0,0
+20-09-2025,Uttarakhand,Almora,263665,0,1,0
+20-09-2025,Uttarakhand,Champawat,262524,2,0,0
+20-09-2025,Uttarakhand,Champawat,262525,2,0,0
+20-09-2025,Uttarakhand,Dehradun,248001,15,4,0
+20-09-2025,Uttarakhand,Dehradun,248007,9,1,0
+20-09-2025,Uttarakhand,Dehradun,248121,1,0,0
+20-09-2025,Uttarakhand,Dehradun,248125,4,0,0
+20-09-2025,Uttarakhand,Dehradun,248179,1,0,0
+20-09-2025,Uttarakhand,Haridwar,247661,4,2,0
+20-09-2025,Uttarakhand,Haridwar,247667,8,2,0
+20-09-2025,Uttarakhand,Haridwar,249401,1,0,0
+20-09-2025,Uttarakhand,Haridwar,249403,2,2,0
+20-09-2025,Uttarakhand,Haridwar,249407,4,1,0
+20-09-2025,Uttarakhand,Haridwar,249410,1,0,0
+20-09-2025,Uttarakhand,Nainital,244715,6,0,0
+20-09-2025,Uttarakhand,Nainital,263126,3,0,0
+20-09-2025,Uttarakhand,Nainital,263136,0,1,0
+20-09-2025,Uttarakhand,Pauri Garhwal,246173,1,0,0
+20-09-2025,Uttarakhand,Pithoragarh,262542,1,0,0
+20-09-2025,Uttarakhand,Pithoragarh,262545,1,0,0
+20-09-2025,Uttarakhand,Rudraprayag,246419,2,0,0
+20-09-2025,Uttarakhand,Rudraprayag,246439,1,0,0
+20-09-2025,Uttarakhand,Uttarkashi,249171,0,1,0
+21-09-2025,Uttarakhand,Dehradun,248002,1,0,0
+21-09-2025,Uttarakhand,Dehradun,248005,2,0,0
+21-09-2025,Uttarakhand,Dehradun,248171,1,0,0
+21-09-2025,Uttarakhand,Dehradun,248197,2,0,0
+21-09-2025,Uttarakhand,Haridwar,247671,2,0,0
+25-09-2025,Uttarakhand,Almora,263625,2,0,0
+25-09-2025,Uttarakhand,Almora,263656,1,0,0
+25-09-2025,Uttarakhand,Chamoli,246428,2,0,0
+25-09-2025,Uttarakhand,Chamoli,246444,1,0,0
+25-09-2025,Uttarakhand,Champawat,262523,6,1,0
+25-09-2025,Uttarakhand,Dehradun,248005,2,0,0
+25-09-2025,Uttarakhand,Dehradun,248122,1,0,0
+25-09-2025,Uttarakhand,Dehradun,248140,3,0,0
+25-09-2025,Uttarakhand,Dehradun,248198,2,0,0
+25-09-2025,Uttarakhand,Haridwar,246763,2,0,0
+25-09-2025,Uttarakhand,Nainital,244715,4,0,0
+25-09-2025,Uttarakhand,Nainital,263002,1,1,0
+25-09-2025,Uttarakhand,Pauri Garhwal,246130,1,0,0
+25-09-2025,Uttarakhand,Pauri Garhwal,246149,4,1,0
+25-09-2025,Uttarakhand,Pauri Garhwal,246275,2,0,0
+25-09-2025,Uttarakhand,Pauri Garhwal,249304,1,0,0
+25-09-2025,Uttarakhand,Pithoragarh,262501,3,0,0
+25-09-2025,Uttarakhand,Pithoragarh,262545,4,0,0
+25-09-2025,Uttarakhand,Pithoragarh,262547,2,0,0
+25-09-2025,Uttarakhand,Rudraprayag,246141,2,0,0
+25-09-2025,Uttarakhand,Rudraprayag,246171,3,0,0
+25-09-2025,Uttarakhand,Rudraprayag,246425,2,0,0
+25-09-2025,Uttarakhand,Rudraprayag,246439,3,0,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249125,1,0,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249137,2,1,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249145,1,1,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249181,2,3,0
+25-09-2025,Uttarakhand,Udham Singh Nagar,244712,1,2,0
+25-09-2025,Uttarakhand,Udham Singh Nagar,244713,18,3,0
+25-09-2025,Uttarakhand,Udham Singh Nagar,263148,12,2,0
+25-09-2025,Uttarakhand,Uttarkashi,249151,3,0,0
+24-09-2025,Uttarakhand,Almora,263623,3,0,0
+24-09-2025,Uttarakhand,Bageshwar,263628,2,0,0
+24-09-2025,Uttarakhand,Bageshwar,263634,2,0,0
+24-09-2025,Uttarakhand,Bageshwar,263635,1,0,0
+24-09-2025,Uttarakhand,Bageshwar,263679,0,1,0
+24-09-2025,Uttarakhand,Chamoli,246426,2,0,0
+24-09-2025,Uttarakhand,Chamoli,246486,1,0,0
+24-09-2025,Uttarakhand,Champawat,262528,1,0,0
+24-09-2025,Uttarakhand,Dehradun,248001,20,11,0
+24-09-2025,Uttarakhand,Dehradun,248002,1,0,0
+24-09-2025,Uttarakhand,Dehradun,248007,7,1,0
+24-09-2025,Uttarakhand,Dehradun,248165,2,0,0
+24-09-2025,Uttarakhand,Dehradun,248197,7,2,0
+24-09-2025,Uttarakhand,Dehradun,249202,1,0,0
+24-09-2025,Uttarakhand,Hardwar,249403,1,0,0
+24-09-2025,Uttarakhand,Haridwar,247661,1,0,0
+24-09-2025,Uttarakhand,Haridwar,247662,1,0,0
+24-09-2025,Uttarakhand,Haridwar,247666,1,0,0
+24-09-2025,Uttarakhand,Haridwar,247671,3,1,0
+24-09-2025,Uttarakhand,Nainital,263126,1,0,0
+24-09-2025,Uttarakhand,Pauri Garhwal,246124,1,0,0
+24-09-2025,Uttarakhand,Pauri Garhwal,246147,1,0,0
+24-09-2025,Uttarakhand,Pauri Garhwal,246162,1,0,0
+24-09-2025,Uttarakhand,Pauri Garhwal,246164,1,0,0
+24-09-2025,Uttarakhand,Pithoragarh,262529,1,0,0
+24-09-2025,Uttarakhand,Pithoragarh,262544,1,0,0
+24-09-2025,Uttarakhand,Pithoragarh,262545,3,0,0
+24-09-2025,Uttarakhand,Pithoragarh,262546,1,0,0
+24-09-2025,Uttarakhand,Rudraprayag,246471,1,0,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249132,1,0,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249161,3,1,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,262308,15,4,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,262401,11,0,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,263151,1,0,0
+23-09-2025,Uttarakhand,Almora,263625,2,0,0
+23-09-2025,Uttarakhand,Almora,263661,0,1,0
+23-09-2025,Uttarakhand,Bageshwar,263628,1,0,0
+23-09-2025,Uttarakhand,Chamoli,246443,1,0,0
+23-09-2025,Uttarakhand,Chamoli,246444,1,0,0
+23-09-2025,Uttarakhand,Dehradun,248141,1,0,0
+23-09-2025,Uttarakhand,Dehradun,248165,2,0,0
+23-09-2025,Uttarakhand,Haridwar,247661,5,2,0
+23-09-2025,Uttarakhand,Haridwar,247663,12,2,0
+23-09-2025,Uttarakhand,Haridwar,247671,1,1,0
+23-09-2025,Uttarakhand,Haridwar,249402,0,1,0
+23-09-2025,Uttarakhand,Haridwar,249408,0,1,0
+23-09-2025,Uttarakhand,Nainital,263135,2,0,0
+23-09-2025,Uttarakhand,Nainital,263157,3,0,0
+23-09-2025,Uttarakhand,Nainital,263159,1,0,0
+23-09-2025,Uttarakhand,Pauri Garhwal,249301,2,1,0
+23-09-2025,Uttarakhand,Rudraprayag,246171,3,0,0
+23-09-2025,Uttarakhand,Tehri Garhwal,249121,1,0,0
+23-09-2025,Uttarakhand,Tehri Garhwal,249181,1,0,0
+23-09-2025,Uttarakhand,Udham Singh Nagar,262308,22,2,0
+23-09-2025,Uttarakhand,Uttarkashi,249135,1,0,0
+23-09-2025,Uttarakhand,Uttarkashi,249193,1,0,0
+27-09-2025,Uttarakhand,Almora,263601,1,0,0
+27-09-2025,Uttarakhand,Almora,263652,1,0,0
+27-09-2025,Uttarakhand,Almora,263655,1,0,0
+27-09-2025,Uttarakhand,Chamoli,246481,0,1,0
+27-09-2025,Uttarakhand,Dehradun,248007,1,0,0
+27-09-2025,Uttarakhand,Dehradun,248158,0,1,0
+27-09-2025,Uttarakhand,Hardwar,247670,1,0,0
+27-09-2025,Uttarakhand,Haridwar,249404,1,1,1
+27-09-2025,Uttarakhand,Nainital,263126,2,0,0
+27-09-2025,Uttarakhand,Nainital,263139,1,3,0
+27-09-2025,Uttarakhand,Pauri Garhwal,246285,1,1,0
+27-09-2025,Uttarakhand,Pithoragarh,262529,1,0,0
+27-09-2025,Uttarakhand,Pithoragarh,262552,1,0,0
+27-09-2025,Uttarakhand,Pithoragarh,262553,0,1,0
+27-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+27-09-2025,Uttarakhand,Udham Singh Nagar,262401,2,0,0
+27-09-2025,Uttarakhand,Udham Singh Nagar,262405,2,0,0
+27-09-2025,Uttarakhand,Udham Singh Nagar,263152,1,0,0
+28-09-2025,Uttarakhand,Haridwar,247656,1,1,0
+28-09-2025,Uttarakhand,Haridwar,249408,1,0,0
+29-09-2025,Uttarakhand,Almora,263645,0,1,0
+29-09-2025,Uttarakhand,Chamoli,246449,1,1,0
+29-09-2025,Uttarakhand,Dehradun,248001,3,0,0
+29-09-2025,Uttarakhand,Dehradun,248003,0,1,0
+29-09-2025,Uttarakhand,Dehradun,248140,1,0,0
+29-09-2025,Uttarakhand,Dehradun,248197,1,0,0
+29-09-2025,Uttarakhand,Dehradun,248199,1,0,0
+29-09-2025,Uttarakhand,Haridwar,247661,0,1,0
+29-09-2025,Uttarakhand,Haridwar,249403,1,0,0
+29-09-2025,Uttarakhand,Nainital,263159,1,0,0
+29-09-2025,Uttarakhand,Udham Singh Nagar,263148,0,0,1
+26-09-2025,Uttarakhand,Almora,263676,1,0,0
+26-09-2025,Uttarakhand,Bageshwar,263642,2,0,0
+26-09-2025,Uttarakhand,Chamoli,246474,1,0,0
+26-09-2025,Uttarakhand,Champawat,262527,1,0,0
+26-09-2025,Uttarakhand,Champawat,262580,2,0,0
+26-09-2025,Uttarakhand,Dehradun,248007,4,1,0
+26-09-2025,Uttarakhand,Dehradun,248008,1,0,0
+26-09-2025,Uttarakhand,Dehradun,248009,1,0,0
+26-09-2025,Uttarakhand,Dehradun,248141,2,0,0
+26-09-2025,Uttarakhand,Dehradun,248158,1,0,0
+26-09-2025,Uttarakhand,Dehradun,248165,1,0,0
+26-09-2025,Uttarakhand,Dehradun,248171,7,1,0
+26-09-2025,Uttarakhand,Dehradun,249201,1,0,0
+26-09-2025,Uttarakhand,Hardwar,247670,0,1,0
+26-09-2025,Uttarakhand,Haridwar,247666,1,0,0
+26-09-2025,Uttarakhand,Nainital,244713,0,1,0
+26-09-2025,Uttarakhand,Nainital,244715,3,0,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246149,1,0,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246155,0,1,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246179,1,0,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246275,1,0,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246277,2,0,0
+26-09-2025,Uttarakhand,Pithoragarh,262531,2,0,0
+26-09-2025,Uttarakhand,Pithoragarh,262545,3,0,0
+26-09-2025,Uttarakhand,Pithoragarh,262550,1,0,0
+26-09-2025,Uttarakhand,Rudraprayag,246419,1,0,0
+26-09-2025,Uttarakhand,Tehri Garhwal,249121,1,0,0
+26-09-2025,Uttarakhand,Tehri Garhwal,249161,2,0,0
+26-09-2025,Uttarakhand,Udham Singh Nagar,262308,8,7,0
+26-09-2025,Uttarakhand,Udham Singh Nagar,263153,8,1,0
+30-09-2025,Uttarakhand,Haridwar,247656,0,1,0
+30-09-2025,Uttarakhand,Haridwar,247667,1,0,0
+13-10-2025,Uttarakhand,Almora,263601,4,0,0
+13-10-2025,Uttarakhand,Almora,263622,2,1,0
+13-10-2025,Uttarakhand,Almora,263659,2,0,0
+13-10-2025,Uttarakhand,Bageshwar,263642,6,1,0
+13-10-2025,Uttarakhand,Chamoli,246424,2,0,0
+13-10-2025,Uttarakhand,Dehradun,248006,0,1,0
+13-10-2025,Uttarakhand,Dehradun,248008,3,1,0
+13-10-2025,Uttarakhand,Dehradun,248142,2,0,0
+13-10-2025,Uttarakhand,Dehradun,248171,4,2,0
+13-10-2025,Uttarakhand,Dehradun,248199,1,0,0
+13-10-2025,Uttarakhand,Hardwar,247667,1,0,0
+13-10-2025,Uttarakhand,Haridwar,247656,9,2,0
+13-10-2025,Uttarakhand,Haridwar,249401,2,1,0
+13-10-2025,Uttarakhand,Haridwar,249407,3,0,0
+13-10-2025,Uttarakhand,Haridwar,249408,6,1,0
+13-10-2025,Uttarakhand,Nainital,263135,1,0,0
+13-10-2025,Uttarakhand,Nainital,263136,3,0,0
+13-10-2025,Uttarakhand,Nainital,263140,1,0,0
+13-10-2025,Uttarakhand,Nainital,263157,1,0,0
+13-10-2025,Uttarakhand,Pithoragarh,262501,3,0,0
+13-10-2025,Uttarakhand,Pithoragarh,262502,3,0,0
+13-10-2025,Uttarakhand,Pithoragarh,262520,1,0,0
+13-10-2025,Uttarakhand,Pithoragarh,262522,2,0,0
+13-10-2025,Uttarakhand,Pithoragarh,262552,2,0,0
+13-10-2025,Uttarakhand,Rudraprayag,246171,3,0,0
+13-10-2025,Uttarakhand,Rudraprayag,246425,1,0,0
+13-10-2025,Uttarakhand,Rudraprayag,246439,4,1,0
+13-10-2025,Uttarakhand,Tehri Garhwal,249180,5,0,0
+13-10-2025,Uttarakhand,Tehri Garhwal,249181,2,0,0
+13-10-2025,Uttarakhand,Tehri Garhwal,249186,2,0,0
+13-10-2025,Uttarakhand,Tehri Garhwal,249192,1,0,0
+13-10-2025,Uttarakhand,Udham Singh Nagar,244713,16,3,0
+13-10-2025,Uttarakhand,Udham Singh Nagar,262311,5,1,0
+13-10-2025,Uttarakhand,Udham Singh Nagar,263148,8,4,0
+13-10-2025,Uttarakhand,Udham Singh Nagar,263153,6,0,0
+13-10-2025,Uttarakhand,Uttarkashi,249141,1,0,0
+15-10-2025,Uttarakhand,Almora,263623,0,1,0
+15-10-2025,Uttarakhand,Almora,263626,1,0,0
+15-10-2025,Uttarakhand,Almora,263638,1,0,0
+15-10-2025,Uttarakhand,Almora,263655,0,1,0
+15-10-2025,Uttarakhand,Bageshwar,263628,1,0,0
+15-10-2025,Uttarakhand,Bageshwar,263642,1,0,0
+15-10-2025,Uttarakhand,Chamoli,246443,1,0,0
+15-10-2025,Uttarakhand,Dehradun,248002,3,2,0
+15-10-2025,Uttarakhand,Dehradun,248007,6,0,0
+15-10-2025,Uttarakhand,Dehradun,248196,2,0,0
+15-10-2025,Uttarakhand,Dehradun,249201,3,0,0
+15-10-2025,Uttarakhand,Dehradun,249204,5,0,0
+15-10-2025,Uttarakhand,Haridwar,249403,1,0,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246165,1,0,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246285,7,0,0
+15-10-2025,Uttarakhand,Pithoragarh,262530,1,0,0
+15-10-2025,Uttarakhand,Pithoragarh,262552,1,1,0
+15-10-2025,Uttarakhand,Pithoragarh,262576,2,0,0
+15-10-2025,Uttarakhand,Tehri Garhwal,249126,1,0,0
+15-10-2025,Uttarakhand,Udham Singh Nagar,262311,2,0,0
+15-10-2025,Uttarakhand,Udham Singh Nagar,262405,5,1,0
+15-10-2025,Uttarakhand,Uttarkashi,249193,3,0,0
+16-10-2025,Uttarakhand,Almora,263601,1,0,0
+16-10-2025,Uttarakhand,Almora,263621,1,0,0
+16-10-2025,Uttarakhand,Almora,263645,1,0,0
+16-10-2025,Uttarakhand,Almora,263653,2,0,0
+16-10-2025,Uttarakhand,Bageshwar,263640,1,0,0
+16-10-2025,Uttarakhand,Chamoli,246481,1,0,0
+16-10-2025,Uttarakhand,Chamoli,246486,1,0,0
+16-10-2025,Uttarakhand,Champawat,262524,3,0,0
+16-10-2025,Uttarakhand,Dehradun,248008,2,0,0
+16-10-2025,Uttarakhand,Dehradun,248140,3,1,0
+16-10-2025,Uttarakhand,Dehradun,249204,1,0,0
+16-10-2025,Uttarakhand,Garhwal,246174,1,0,0
+16-10-2025,Uttarakhand,Hardwar,247666,1,0,0
+16-10-2025,Uttarakhand,Hardwar,247670,0,2,0
+16-10-2025,Uttarakhand,Haridwar,247656,4,1,0
+16-10-2025,Uttarakhand,Haridwar,247670,2,1,0
+16-10-2025,Uttarakhand,Haridwar,249401,2,1,0
+16-10-2025,Uttarakhand,Nainital,263126,1,1,0
+16-10-2025,Uttarakhand,Nainital,263132,2,0,0
+16-10-2025,Uttarakhand,Nainital,263135,1,0,0
+16-10-2025,Uttarakhand,Tehri Garhwal,249130,1,0,0
+16-10-2025,Uttarakhand,Udham Singh Nagar,262308,10,0,0
+16-10-2025,Uttarakhand,Udham Singh Nagar,263153,4,1,0
+16-10-2025,Uttarakhand,Uttarkashi,249165,1,0,0
+16-10-2025,Uttarakhand,Uttarkashi,249193,1,0,0
+17-10-2025,Uttarakhand,Almora,263601,6,0,0
+17-10-2025,Uttarakhand,Almora,263624,2,0,0
+17-10-2025,Uttarakhand,Almora,263653,4,0,0
+17-10-2025,Uttarakhand,Almora,263680,3,0,0
+17-10-2025,Uttarakhand,Bageshwar,263632,1,0,0
+17-10-2025,Uttarakhand,Bageshwar,263640,1,0,0
+17-10-2025,Uttarakhand,Chamoli,246424,1,0,0
+17-10-2025,Uttarakhand,Chamoli,246435,1,0,0
+17-10-2025,Uttarakhand,Chamoli,246446,1,0,0
+17-10-2025,Uttarakhand,Champawat,262309,1,0,0
+17-10-2025,Uttarakhand,Champawat,262527,3,0,0
+17-10-2025,Uttarakhand,Dehradun,248159,2,0,0
+17-10-2025,Uttarakhand,Dehradun,248196,2,0,0
+17-10-2025,Uttarakhand,Dehradun,249202,2,0,0
+17-10-2025,Uttarakhand,Dehradun,249203,1,0,0
+17-10-2025,Uttarakhand,Hardwar,247667,2,0,0
+17-10-2025,Uttarakhand,Haridwar,247668,1,0,0
+17-10-2025,Uttarakhand,Nainital,263127,0,1,0
+17-10-2025,Uttarakhand,Nainital,263139,61,5,0
+17-10-2025,Uttarakhand,Nainital,263140,2,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246130,23,1,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246146,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246175,1,0,0
+17-10-2025,Uttarakhand,Pithoragarh,262501,3,1,0
+17-10-2025,Uttarakhand,Pithoragarh,262542,1,0,0
+17-10-2025,Uttarakhand,Rudraprayag,246425,2,0,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249137,7,0,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249145,5,1,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249155,4,1,0
+17-10-2025,Uttarakhand,Udham Singh Nagar,244717,1,0,0
+17-10-2025,Uttarakhand,Udham Singh Nagar,262311,1,1,0
+17-10-2025,Uttarakhand,Udham Singh Nagar,263151,1,0,0
+17-10-2025,Uttarakhand,Udham Singh Nagar,263153,22,7,0
+17-10-2025,Uttarakhand,Uttarkashi,249151,2,0,0
+01-04-2025,Uttarakhand,Nainital,263139,488,66,48
+02-09-2025,Uttarakhand,Almora,263625,0,1,0
+02-09-2025,Uttarakhand,Bageshwar,263630,0,1,0
+02-09-2025,Uttarakhand,Dehradun,248124,1,0,0
+02-09-2025,Uttarakhand,Dehradun,248158,1,0,0
+02-09-2025,Uttarakhand,Dehradun,248197,2,0,0
+02-09-2025,Uttarakhand,Dehradun,248198,2,1,0
+02-09-2025,Uttarakhand,Dehradun,249201,2,0,0
+02-09-2025,Uttarakhand,Dehradun,249202,0,1,0
+02-09-2025,Uttarakhand,Haridwar,247656,1,0,0
+02-09-2025,Uttarakhand,Haridwar,247661,3,1,0
+02-09-2025,Uttarakhand,Nainital,244716,1,0,0
+02-09-2025,Uttarakhand,Nainital,262402,3,0,0
+02-09-2025,Uttarakhand,Nainital,263136,1,0,0
+02-09-2025,Uttarakhand,Pauri Garhwal,246173,1,0,0
+02-09-2025,Uttarakhand,Pithoragarh,262533,1,0,0
+02-09-2025,Uttarakhand,Pithoragarh,262542,1,0,0
+02-09-2025,Uttarakhand,Pithoragarh,262555,2,0,0
+02-09-2025,Uttarakhand,Tehri Garhwal,249123,1,0,0
+02-09-2025,Uttarakhand,Tehri Garhwal,249165,0,1,0
+02-09-2025,Uttarakhand,Udham Singh Nagar,244712,8,0,0
+02-09-2025,Uttarakhand,Udham Singh Nagar,262308,0,1,0
+02-09-2025,Uttarakhand,Udham Singh Nagar,263160,10,0,0
+02-09-2025,Uttarakhand,Uttarkashi,249165,1,0,0
+03-09-2025,Uttarakhand,Almora,263622,1,0,0
+03-09-2025,Uttarakhand,Almora,263680,1,0,0
+03-09-2025,Uttarakhand,Chamoli,246449,1,0,0
+03-09-2025,Uttarakhand,Chamoli,246455,3,0,0
+03-09-2025,Uttarakhand,Dehradun,248125,2,0,0
+03-09-2025,Uttarakhand,Dehradun,248197,12,0,0
+03-09-2025,Uttarakhand,Dehradun,249202,1,0,0
+03-09-2025,Uttarakhand,Haridwar,247656,1,1,0
+03-09-2025,Uttarakhand,Haridwar,247661,7,7,0
+03-09-2025,Uttarakhand,Haridwar,247667,13,2,0
+03-09-2025,Uttarakhand,Haridwar,247671,2,0,0
+03-09-2025,Uttarakhand,Haridwar,249401,1,1,0
+03-09-2025,Uttarakhand,Nainital,244713,1,0,0
+03-09-2025,Uttarakhand,Nainital,244715,4,0,0
+03-09-2025,Uttarakhand,Nainital,263134,1,0,0
+03-09-2025,Uttarakhand,Nainital,263139,19,3,0
+03-09-2025,Uttarakhand,Nainital,263159,5,0,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246162,2,0,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246174,1,0,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246275,1,0,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246285,2,0,0
+03-09-2025,Uttarakhand,Pithoragarh,262521,1,0,0
+03-09-2025,Uttarakhand,Rudraprayag,246439,1,0,0
+03-09-2025,Uttarakhand,Rudraprayag,246469,2,0,0
+03-09-2025,Uttarakhand,Tehri Garhwal,249132,1,0,0
+03-09-2025,Uttarakhand,Udham Singh Nagar,262311,6,0,0
+03-09-2025,Uttarakhand,Udham Singh Nagar,263151,2,0,0
+03-09-2025,Uttarakhand,Uttarkashi,249141,2,3,0
+03-09-2025,Uttarakhand,Uttarkashi,249171,1,0,0
+03-09-2025,Uttarakhand,Uttarkashi,249185,1,0,0
+01-09-2025,Uttarakhand,Chamoli,246427,2,0,0
+01-09-2025,Uttarakhand,Dehradun,248002,2,0,0
+01-09-2025,Uttarakhand,Dehradun,248007,3,0,0
+01-09-2025,Uttarakhand,Dehradun,248142,7,0,0
+01-09-2025,Uttarakhand,Dehradun,248198,3,0,0
+01-09-2025,Uttarakhand,Dehradun,249201,1,0,0
+01-09-2025,Uttarakhand,Haridwar,247663,1,1,0
+01-09-2025,Uttarakhand,Haridwar,249408,0,1,0
+01-09-2025,Uttarakhand,Pauri Garhwal,246164,1,0,0
+01-09-2025,Uttarakhand,Pauri Garhwal,246166,2,0,0
+01-09-2025,Uttarakhand,Pithoragarh,262530,1,0,0
+01-09-2025,Uttarakhand,Pithoragarh,262554,0,1,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249145,2,0,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249155,2,1,0
+01-09-2025,Uttarakhand,Udham Singh Nagar,263152,3,0,0
+01-09-2025,Uttarakhand,Udham Singh Nagar,263160,6,0,0
+01-09-2025,Uttarakhand,Uttarkashi,249165,1,1,0
+01-09-2025,Uttarakhand,Uttarkashi,249193,3,0,0
+04-09-2025,Uttarakhand,Bageshwar,263631,1,0,0
+04-09-2025,Uttarakhand,Bageshwar,263632,1,0,0
+04-09-2025,Uttarakhand,Bageshwar,263634,1,0,0
+04-09-2025,Uttarakhand,Bageshwar,263642,1,0,0
+04-09-2025,Uttarakhand,Bageshwar,263679,2,0,0
+04-09-2025,Uttarakhand,Champawat,262523,4,2,0
+04-09-2025,Uttarakhand,Champawat,262580,5,0,0
+04-09-2025,Uttarakhand,Dehradun,248002,5,0,0
+04-09-2025,Uttarakhand,Dehradun,248122,1,0,0
+04-09-2025,Uttarakhand,Dehradun,248123,1,0,0
+04-09-2025,Uttarakhand,Dehradun,248142,3,0,0
+04-09-2025,Uttarakhand,Dehradun,248197,7,1,0
+04-09-2025,Uttarakhand,Dehradun,248198,3,0,0
+04-09-2025,Uttarakhand,Dehradun,249201,1,0,0
+04-09-2025,Uttarakhand,Dehradun,249202,1,0,0
+04-09-2025,Uttarakhand,Dehradun,249204,7,0,0
+04-09-2025,Uttarakhand,Haridwar,247662,2,1,0
+04-09-2025,Uttarakhand,Haridwar,247671,1,0,0
+04-09-2025,Uttarakhand,Nainital,244715,8,0,0
+04-09-2025,Uttarakhand,Nainital,263126,4,0,0
+04-09-2025,Uttarakhand,Nainital,263132,4,0,0
+04-09-2025,Uttarakhand,Pithoragarh,262531,2,0,0
+04-09-2025,Uttarakhand,Pithoragarh,262551,2,1,0
+04-09-2025,Uttarakhand,Pithoragarh,262552,1,0,0
+04-09-2025,Uttarakhand,Tehri Garhwal,249137,1,0,0
+04-09-2025,Uttarakhand,Tehri Garhwal,249175,2,0,0
+04-09-2025,Uttarakhand,Tehri Garhwal,249181,1,0,0
+04-09-2025,Uttarakhand,Udham Singh Nagar,263148,5,1,0
+06-09-2025,Uttarakhand,Almora,263601,5,1,0
+06-09-2025,Uttarakhand,Almora,263622,1,0,0
+06-09-2025,Uttarakhand,Almora,263625,4,0,0
+06-09-2025,Uttarakhand,Almora,263661,1,0,0
+06-09-2025,Uttarakhand,Bageshwar,263642,1,0,0
+06-09-2025,Uttarakhand,Chamoli,246428,2,0,0
+06-09-2025,Uttarakhand,Chamoli,246443,1,0,0
+06-09-2025,Uttarakhand,Chamoli,246444,1,0,0
+06-09-2025,Uttarakhand,Chamoli,246455,1,0,0
+06-09-2025,Uttarakhand,Chamoli,246473,2,0,0
+06-09-2025,Uttarakhand,Champawat,262523,4,0,0
+06-09-2025,Uttarakhand,Dehradun,248009,1,0,0
+06-09-2025,Uttarakhand,Dehradun,248011,0,2,0
+06-09-2025,Uttarakhand,Dehradun,248142,2,0,0
+06-09-2025,Uttarakhand,Dehradun,248195,1,0,0
+06-09-2025,Uttarakhand,Dehradun,248197,12,2,0
+06-09-2025,Uttarakhand,Haridwar,247663,5,3,0
+06-09-2025,Uttarakhand,Haridwar,247667,14,3,0
+06-09-2025,Uttarakhand,Haridwar,247668,3,2,0
+06-09-2025,Uttarakhand,Nainital,262402,2,0,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246155,1,0,1
+06-09-2025,Uttarakhand,Pithoragarh,262522,1,0,0
+06-09-2025,Uttarakhand,Pithoragarh,262541,1,0,0
+06-09-2025,Uttarakhand,Pithoragarh,262552,2,0,0
+06-09-2025,Uttarakhand,Rudraprayag,246141,2,0,0
+06-09-2025,Uttarakhand,Rudraprayag,246425,2,0,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249126,1,0,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249155,4,2,0
+06-09-2025,Uttarakhand,Udham Singh Nagar,263145,1,1,0
+06-09-2025,Uttarakhand,Udham Singh Nagar,263148,9,3,0
+06-09-2025,Uttarakhand,Uttarkashi,249171,2,2,0
+05-09-2025,Uttarakhand,Almora,263653,1,0,0
+05-09-2025,Uttarakhand,Almora,263667,1,0,0
+05-09-2025,Uttarakhand,Bageshwar,263641,1,0,0
+05-09-2025,Uttarakhand,Dehradun,248001,22,1,0
+05-09-2025,Uttarakhand,Dehradun,248197,4,0,0
+05-09-2025,Uttarakhand,Haridwar,247661,0,1,0
+05-09-2025,Uttarakhand,Haridwar,249407,2,0,0
+05-09-2025,Uttarakhand,Nainital,263132,1,0,0
+05-09-2025,Uttarakhand,Pauri Garhwal,246130,1,0,0
+05-09-2025,Uttarakhand,Pauri Garhwal,246131,1,0,0
+05-09-2025,Uttarakhand,Tehri Garhwal,249199,1,0,0
+05-09-2025,Uttarakhand,Udham Singh Nagar,262401,2,1,0
+05-09-2025,Uttarakhand,Uttarkashi,249141,0,1,0
+05-09-2025,Uttarakhand,Uttarkashi,249193,3,0,0
+07-09-2025,Uttarakhand,Tehri Garhwal,249001,1,0,0
+07-09-2025,Uttarakhand,Tehri Garhwal,249130,1,0,0
+07-09-2025,Uttarakhand,Tehri Garhwal,249180,2,0,0
+07-09-2025,Uttarakhand,Udham Singh Nagar,244712,0,1,0
+07-09-2025,Uttarakhand,Udham Singh Nagar,244713,1,0,0
+09-09-2025,Uttarakhand,Almora,263601,3,0,0
+09-09-2025,Uttarakhand,Almora,263645,5,0,0
+09-09-2025,Uttarakhand,Bageshwar,263635,1,1,0
+09-09-2025,Uttarakhand,Bageshwar,263642,2,0,0
+09-09-2025,Uttarakhand,Chamoli,246424,4,2,0
+09-09-2025,Uttarakhand,Chamoli,246428,3,1,0
+09-09-2025,Uttarakhand,Chamoli,246443,2,0,0
+09-09-2025,Uttarakhand,Chamoli,246453,1,0,0
+09-09-2025,Uttarakhand,Dehradun,248005,3,0,0
+09-09-2025,Uttarakhand,Dehradun,248121,2,0,0
+09-09-2025,Uttarakhand,Dehradun,248141,2,0,0
+09-09-2025,Uttarakhand,Dehradun,248165,3,0,0
+09-09-2025,Uttarakhand,Haridwar,247661,7,1,0
+09-09-2025,Uttarakhand,Haridwar,247668,1,2,0
+09-09-2025,Uttarakhand,Haridwar,249404,1,0,0
+09-09-2025,Uttarakhand,Haridwar,249410,1,0,0
+09-09-2025,Uttarakhand,Nainital,263136,5,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246275,2,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246276,1,0,0
+09-09-2025,Uttarakhand,Pithoragarh,262501,3,0,0
+09-09-2025,Uttarakhand,Pithoragarh,262521,2,1,0
+09-09-2025,Uttarakhand,Pithoragarh,262543,2,0,0
+09-09-2025,Uttarakhand,Pithoragarh,262554,2,0,0
+09-09-2025,Uttarakhand,Rudraprayag,246439,3,0,0
+09-09-2025,Uttarakhand,Rudraprayag,246475,4,0,0
+09-09-2025,Uttarakhand,Tehri Garhwal,249132,29,2,0
+09-09-2025,Uttarakhand,Tehri Garhwal,249145,1,2,0
+09-09-2025,Uttarakhand,Tehri Garhwal,249165,2,0,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,244713,14,5,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,262311,3,0,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,262401,15,2,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,263148,6,5,0
+08-09-2025,Uttarakhand,Almora,263601,3,0,0
+08-09-2025,Uttarakhand,Almora,263624,2,0,0
+08-09-2025,Uttarakhand,Almora,263625,2,1,0
+08-09-2025,Uttarakhand,Almora,263637,1,0,0
+08-09-2025,Uttarakhand,Almora,263656,1,0,0
+08-09-2025,Uttarakhand,Bageshwar,263632,1,0,0
+08-09-2025,Uttarakhand,Bageshwar,263635,1,0,0
+08-09-2025,Uttarakhand,Champawat,262525,1,0,0
+08-09-2025,Uttarakhand,Dehradun,248002,6,0,0
+08-09-2025,Uttarakhand,Dehradun,248140,13,0,0
+08-09-2025,Uttarakhand,Dehradun,248171,6,0,0
+08-09-2025,Uttarakhand,Dehradun,248179,1,0,0
+08-09-2025,Uttarakhand,Dehradun,249201,1,0,0
+08-09-2025,Uttarakhand,Garhwal,246149,1,0,0
+08-09-2025,Uttarakhand,Haridwar,247661,6,1,0
+08-09-2025,Uttarakhand,Haridwar,249407,2,3,0
+08-09-2025,Uttarakhand,Nainital,263158,3,2,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246001,1,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246166,1,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246173,1,1,0
+08-09-2025,Uttarakhand,Pauri Garhwal,249304,5,0,0
+08-09-2025,Uttarakhand,Pithoragarh,262529,2,0,0
+08-09-2025,Uttarakhand,Pithoragarh,262544,1,0,0
+08-09-2025,Uttarakhand,Rudraprayag,246171,5,1,0
+08-09-2025,Uttarakhand,Rudraprayag,246439,2,1,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249131,3,0,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249145,3,0,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249155,12,1,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249161,6,0,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249165,3,3,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249196,1,0,0
+08-09-2025,Uttarakhand,Udham Singh Nagar,244712,9,0,0
+08-09-2025,Uttarakhand,Udham Singh Nagar,262311,4,0,0
+08-09-2025,Uttarakhand,Udham Singh Nagar,262401,12,1,0
+08-09-2025,Uttarakhand,Udham Singh Nagar,263148,15,2,0
+08-09-2025,Uttarakhand,Udham Singh Nagar,263149,0,1,0
+08-09-2025,Uttarakhand,Udham Singh Nagar,263152,7,1,0
+08-09-2025,Uttarakhand,Uttarkashi,249151,2,0,0
+08-09-2025,Uttarakhand,Uttarkashi,249171,2,0,0
+11-09-2025,Uttarakhand,Almora,263629,1,1,0
+11-09-2025,Uttarakhand,Bageshwar,263634,2,0,0
+11-09-2025,Uttarakhand,Champawat,262524,7,0,0
+11-09-2025,Uttarakhand,Dehradun,248006,1,0,0
+11-09-2025,Uttarakhand,Dehradun,248123,4,0,0
+11-09-2025,Uttarakhand,Dehradun,248125,2,0,0
+11-09-2025,Uttarakhand,Dehradun,248146,1,0,0
+11-09-2025,Uttarakhand,Dehradun,248198,1,1,0
+11-09-2025,Uttarakhand,Hardwar,249402,1,0,0
+11-09-2025,Uttarakhand,Haridwar,247665,1,1,0
+11-09-2025,Uttarakhand,Haridwar,247668,0,1,0
+11-09-2025,Uttarakhand,Haridwar,249408,2,2,0
+11-09-2025,Uttarakhand,Nainital,244715,9,0,1
+11-09-2025,Uttarakhand,Nainital,263135,2,0,0
+11-09-2025,Uttarakhand,Nainital,263159,2,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246173,1,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246179,3,1,0
+11-09-2025,Uttarakhand,Pithoragarh,262532,1,0,0
+11-09-2025,Uttarakhand,Pithoragarh,262542,2,0,0
+11-09-2025,Uttarakhand,Pithoragarh,262551,1,0,0
+11-09-2025,Uttarakhand,Pithoragarh,262553,3,0,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249001,2,0,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249131,2,0,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249161,2,1,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249186,1,0,0
+11-09-2025,Uttarakhand,Udham Singh Nagar,262311,1,0,0
+11-09-2025,Uttarakhand,Udham Singh Nagar,263153,22,2,0
+11-09-2025,Uttarakhand,Uttarkashi,249141,1,1,0
+11-09-2025,Uttarakhand,Uttarkashi,249165,1,0,0
+11-09-2025,Uttarakhand,Uttarkashi,249171,1,1,0
+11-09-2025,Uttarakhand,Uttarkashi,249193,1,0,0
+10-09-2025,Uttarakhand,Almora,263624,1,0,0
+10-09-2025,Uttarakhand,Almora,263625,2,0,0
+10-09-2025,Uttarakhand,Almora,263645,2,0,0
+10-09-2025,Uttarakhand,Bageshwar,263619,1,0,0
+10-09-2025,Uttarakhand,Bageshwar,263679,0,1,0
+10-09-2025,Uttarakhand,Chamoli,246487,1,0,0
+10-09-2025,Uttarakhand,Champawat,262528,4,0,0
+10-09-2025,Uttarakhand,Dehradun,248001,37,6,0
+10-09-2025,Uttarakhand,Dehradun,248002,4,2,0
+10-09-2025,Uttarakhand,Dehradun,248008,1,0,0
+10-09-2025,Uttarakhand,Dehradun,248121,1,0,0
+10-09-2025,Uttarakhand,Dehradun,248171,5,0,0
+10-09-2025,Uttarakhand,Haridwar,247663,11,3,0
+10-09-2025,Uttarakhand,Nainital,244715,8,0,0
+10-09-2025,Uttarakhand,Nainital,262402,3,0,0
+10-09-2025,Uttarakhand,Nainital,263139,23,3,0
+10-09-2025,Uttarakhand,Pithoragarh,262530,1,0,0
+10-09-2025,Uttarakhand,Pithoragarh,262533,1,0,0
+10-09-2025,Uttarakhand,Pithoragarh,262543,1,0,0
+10-09-2025,Uttarakhand,Rudraprayag,246429,1,0,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249131,1,0,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249145,3,1,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249175,0,1,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,244712,6,1,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,262308,27,6,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,263150,1,0,0
+10-09-2025,Uttarakhand,Uttarkashi,249171,1,1,0
+10-09-2025,Uttarakhand,Uttarkashi,249185,4,1,0
+10-09-2025,Uttarakhand,Uttarkashi,249194,1,0,0
+14-09-2025,Uttarakhand,Dehradun,248001,8,1,0
+14-09-2025,Uttarakhand,Dehradun,248005,2,0,0
+14-09-2025,Uttarakhand,Dehradun,248007,3,0,0
+14-09-2025,Uttarakhand,Dehradun,248008,4,0,0
+14-09-2025,Uttarakhand,Dehradun,248197,2,0,0
+14-09-2025,Uttarakhand,Haridwar,247656,3,0,0
+14-09-2025,Uttarakhand,Nainital,263139,1,0,0
+14-09-2025,Uttarakhand,Nainital,263159,1,0,0
+14-09-2025,Uttarakhand,Tehri Garhwal,249165,5,0,0
+14-09-2025,Uttarakhand,Tehri Garhwal,249180,2,0,0
+14-09-2025,Uttarakhand,Udham Singh Nagar,263148,1,0,0
+14-09-2025,Uttarakhand,Udham Singh Nagar,263152,1,0,0
+14-09-2025,Uttarakhand,Udham Singh Nagar,263153,3,0,0
+13-09-2025,Uttarakhand,Almora,263601,2,0,0
+13-09-2025,Uttarakhand,Almora,263622,2,0,0
+13-09-2025,Uttarakhand,Almora,263653,2,0,0
+13-09-2025,Uttarakhand,Almora,263678,1,0,0
+13-09-2025,Uttarakhand,Bageshwar,263619,1,0,0
+13-09-2025,Uttarakhand,Chamoli,246443,0,1,0
+13-09-2025,Uttarakhand,Chamoli,246446,2,0,0
+13-09-2025,Uttarakhand,Champawat,262309,2,0,0
+13-09-2025,Uttarakhand,Champawat,262580,1,0,0
+13-09-2025,Uttarakhand,Dehradun,248123,1,0,0
+13-09-2025,Uttarakhand,Dehradun,248199,0,1,0
+13-09-2025,Uttarakhand,Haridwar,247656,0,1,0
+13-09-2025,Uttarakhand,Haridwar,247668,1,0,0
+13-09-2025,Uttarakhand,Haridwar,247670,1,1,0
+13-09-2025,Uttarakhand,Haridwar,249401,3,0,0
+13-09-2025,Uttarakhand,Haridwar,249403,3,0,0
+13-09-2025,Uttarakhand,Haridwar,249404,12,1,0
+13-09-2025,Uttarakhand,Nainital,263135,1,0,0
+13-09-2025,Uttarakhand,Pauri Garhwal,246001,1,0,0
+13-09-2025,Uttarakhand,Pithoragarh,262502,2,0,0
+13-09-2025,Uttarakhand,Rudraprayag,246141,3,0,0
+13-09-2025,Uttarakhand,Rudraprayag,246171,1,0,0
+13-09-2025,Uttarakhand,Tehri Garhwal,249161,3,1,0
+13-09-2025,Uttarakhand,Tehri Garhwal,249175,2,0,0
+13-09-2025,Uttarakhand,Udham Singh Nagar,244712,7,1,0
+13-09-2025,Uttarakhand,Udham Singh Nagar,262311,5,0,0
+13-09-2025,Uttarakhand,Udham Singh Nagar,263151,1,0,0
+13-09-2025,Uttarakhand,Uttarkashi,249193,2,0,0
+12-09-2025,Uttarakhand,Almora,263621,1,0,0
+12-09-2025,Uttarakhand,Almora,263626,1,0,0
+12-09-2025,Uttarakhand,Almora,263652,1,0,0
+12-09-2025,Uttarakhand,Almora,263656,2,0,0
+12-09-2025,Uttarakhand,Chamoli,246442,1,0,0
+12-09-2025,Uttarakhand,Chamoli,246455,5,1,0
+12-09-2025,Uttarakhand,Chamoli,246474,1,0,0
+12-09-2025,Uttarakhand,Champawat,262309,2,1,0
+12-09-2025,Uttarakhand,Dehradun,248003,1,0,0
+12-09-2025,Uttarakhand,Dehradun,248009,0,1,0
+12-09-2025,Uttarakhand,Dehradun,248123,4,0,0
+12-09-2025,Uttarakhand,Dehradun,248125,3,0,0
+12-09-2025,Uttarakhand,Dehradun,248141,1,1,0
+12-09-2025,Uttarakhand,Dehradun,248198,3,3,0
+12-09-2025,Uttarakhand,Garhwal,246001,1,0,0
+12-09-2025,Uttarakhand,Hardwar,247666,1,0,0
+12-09-2025,Uttarakhand,Haridwar,247663,6,1,0
+12-09-2025,Uttarakhand,Haridwar,247666,2,1,0
+12-09-2025,Uttarakhand,Haridwar,247668,3,1,0
+12-09-2025,Uttarakhand,Haridwar,249402,4,2,0
+12-09-2025,Uttarakhand,Nainital,244715,8,1,1
+12-09-2025,Uttarakhand,Nainital,263140,1,0,0
+12-09-2025,Uttarakhand,Nainital,263159,1,0,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246146,1,0,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246149,2,0,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246169,1,0,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246172,1,0,0
+12-09-2025,Uttarakhand,Pithoragarh,262534,1,1,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249145,1,0,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249151,0,1,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249161,7,1,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249165,2,1,0
+12-09-2025,Uttarakhand,Udham Singh Nagar,262401,15,3,0
+12-09-2025,Uttarakhand,Udham Singh Nagar,263160,5,0,0
+15-09-2025,Uttarakhand,Haridwar,247671,2,0,0
+15-09-2025,Uttarakhand,Nainital,244715,0,2,0
+15-09-2025,Uttarakhand,Nainital,262402,2,1,1
+15-09-2025,Uttarakhand,Nainital,263126,2,1,0
+15-09-2025,Uttarakhand,Nainital,263132,1,0,0
+15-09-2025,Uttarakhand,Nainital,263135,1,0,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246121,1,0,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246123,1,0,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246155,1,1,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246164,1,0,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246169,1,0,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246173,1,0,0
+15-09-2025,Uttarakhand,Rudraprayag,246171,2,0,0
+15-09-2025,Uttarakhand,Rudraprayag,246439,1,0,0
+15-09-2025,Uttarakhand,Rudraprayag,246475,0,1,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249137,1,0,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249161,2,0,0
+15-09-2025,Uttarakhand,Udham Singh Nagar,262308,2,2,0
+15-09-2025,Uttarakhand,Udham Singh Nagar,263153,10,1,0
+15-09-2025,Uttarakhand,Udham Singh Nagar,263160,3,0,0
+15-09-2025,Uttarakhand,Uttarkashi,249135,1,0,0
+15-09-2025,Uttarakhand,Uttarkashi,249141,2,1,0
+15-09-2025,Uttarakhand,Bageshwar,263642,2,0,0
+15-09-2025,Uttarakhand,Chamoli,246427,1,0,0
+15-09-2025,Uttarakhand,Chamoli,246428,4,0,0
+15-09-2025,Uttarakhand,Chamoli,246429,1,0,0
+15-09-2025,Uttarakhand,Chamoli,246449,2,0,0
+15-09-2025,Uttarakhand,Dehradun,248005,1,0,0
+15-09-2025,Uttarakhand,Dehradun,249201,1,0,0
+15-09-2025,Uttarakhand,Dehradun,249205,1,0,0
+15-09-2025,Uttarakhand,Haridwar,247656,4,0,0
+15-09-2025,Uttarakhand,Haridwar,247661,4,2,0
+15-09-2025,Uttarakhand,Haridwar,247668,2,1,0
+16-09-2025,Uttarakhand,Almora,244715,1,0,0
+16-09-2025,Uttarakhand,Almora,263622,3,0,0
+16-09-2025,Uttarakhand,Almora,263624,1,0,0
+16-09-2025,Uttarakhand,Almora,263625,2,0,0
+16-09-2025,Uttarakhand,Almora,263626,1,0,0
+16-09-2025,Uttarakhand,Almora,263659,1,1,0
+16-09-2025,Uttarakhand,Bageshwar,263628,2,0,0
+16-09-2025,Uttarakhand,Bageshwar,263641,2,1,0
+16-09-2025,Uttarakhand,Chamoli,246487,1,0,0
+16-09-2025,Uttarakhand,Champawat,262309,1,0,0
+16-09-2025,Uttarakhand,Champawat,262525,1,0,0
+16-09-2025,Uttarakhand,Dehradun,248001,24,4,0
+16-09-2025,Uttarakhand,Dehradun,248125,2,0,0
+16-09-2025,Uttarakhand,Dehradun,248141,2,0,0
+16-09-2025,Uttarakhand,Dehradun,249204,3,0,0
+16-09-2025,Uttarakhand,Haridwar,247668,1,2,0
+16-09-2025,Uttarakhand,Nainital,244713,0,1,0
+16-09-2025,Uttarakhand,Nainital,263002,1,0,0
+16-09-2025,Uttarakhand,Nainital,263158,1,0,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246001,1,1,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246129,1,0,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246174,2,2,0
+16-09-2025,Uttarakhand,Pithoragarh,262532,3,0,0
+16-09-2025,Uttarakhand,Rudraprayag,246141,2,0,0
+16-09-2025,Uttarakhand,Rudraprayag,246475,4,1,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249121,1,0,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249123,1,0,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249126,1,0,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249130,1,1,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249146,1,0,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249180,2,0,0
+19-09-2025,Uttarakhand,Almora,263661,1,0,0
+19-09-2025,Uttarakhand,Bageshwar,263631,2,0,0
+19-09-2025,Uttarakhand,Bageshwar,263641,2,0,0
+19-09-2025,Uttarakhand,Bageshwar,263679,1,0,0
+19-09-2025,Uttarakhand,Chamoli,246424,1,0,0
+19-09-2025,Uttarakhand,Chamoli,246427,1,0,0
+19-09-2025,Uttarakhand,Champawat,262527,1,0,0
+19-09-2025,Uttarakhand,Dehradun,248142,6,1,0
+19-09-2025,Uttarakhand,Dehradun,248171,2,0,0
+19-09-2025,Uttarakhand,Dehradun,249204,3,0,0
+19-09-2025,Uttarakhand,Haridwar,247661,1,0,0
+19-09-2025,Uttarakhand,Haridwar,247666,1,1,0
+19-09-2025,Uttarakhand,Haridwar,247671,2,1,0
+19-09-2025,Uttarakhand,Haridwar,249408,0,1,0
+19-09-2025,Uttarakhand,Nainital,263157,5,0,0
+19-09-2025,Uttarakhand,Pauri Garhwal,246001,1,0,0
+19-09-2025,Uttarakhand,Pauri Garhwal,246121,1,0,0
+19-09-2025,Uttarakhand,Pauri Garhwal,246123,1,0,0
+19-09-2025,Uttarakhand,Pauri Garhwal,246130,1,0,0
+19-09-2025,Uttarakhand,Pithoragarh,262522,2,0,0
+19-09-2025,Uttarakhand,Pithoragarh,262533,1,0,0
+19-09-2025,Uttarakhand,Rudraprayag,246421,2,0,0
+19-09-2025,Uttarakhand,Rudraprayag,246471,1,0,0
+19-09-2025,Uttarakhand,Tehri Garhwal,249155,5,2,0
+19-09-2025,Uttarakhand,Tehri Garhwal,249180,4,0,0
+19-09-2025,Uttarakhand,Tehri Garhwal,249181,2,1,0
+19-09-2025,Uttarakhand,Udham Singh Nagar,244713,14,6,0
+19-09-2025,Uttarakhand,Udham Singh Nagar,262311,4,0,0
+19-09-2025,Uttarakhand,Udham Singh Nagar,263146,1,0,0
+19-09-2025,Uttarakhand,Udham Singh Nagar,263151,1,0,0
+19-09-2025,Uttarakhand,Udham Singh Nagar,263153,17,4,0
+19-09-2025,Uttarakhand,Udham Singh Nagar,263160,2,1,0
+18-09-2025,Uttarakhand,Bageshwar,263642,1,0,0
+18-09-2025,Uttarakhand,Chamoli,246431,1,0,0
+18-09-2025,Uttarakhand,Dehradun,248001,26,3,0
+18-09-2025,Uttarakhand,Dehradun,248011,1,0,0
+18-09-2025,Uttarakhand,Dehradun,248142,1,1,0
+18-09-2025,Uttarakhand,Dehradun,248198,2,1,0
+18-09-2025,Uttarakhand,Hardwar,247656,1,0,0
+18-09-2025,Uttarakhand,Hardwar,247670,1,0,0
+18-09-2025,Uttarakhand,Haridwar,247667,9,5,0
+18-09-2025,Uttarakhand,Haridwar,247668,2,1,0
+18-09-2025,Uttarakhand,Nainital,263136,1,0,0
+18-09-2025,Uttarakhand,Nainital,263159,2,0,0
+18-09-2025,Uttarakhand,Pauri Garhwal,246129,1,0,0
+18-09-2025,Uttarakhand,Pithoragarh,262501,5,0,0
+18-09-2025,Uttarakhand,Pithoragarh,262530,1,0,0
+18-09-2025,Uttarakhand,Pithoragarh,262541,1,0,0
+18-09-2025,Uttarakhand,Pithoragarh,262543,1,0,0
+18-09-2025,Uttarakhand,Pithoragarh,262553,1,1,0
+18-09-2025,Uttarakhand,Tehri Garhwal,249123,2,0,0
+18-09-2025,Uttarakhand,Tehri Garhwal,249180,1,0,0
+18-09-2025,Uttarakhand,Udham Singh Nagar,262401,10,1,0
+18-09-2025,Uttarakhand,Udham Singh Nagar,263149,1,0,0
+18-09-2025,Uttarakhand,Uttarkashi,249171,1,0,0
+17-09-2025,Uttarakhand,Almora,263665,1,0,0
+17-09-2025,Uttarakhand,Chamoli,246427,1,0,0
+17-09-2025,Uttarakhand,Chamoli,246444,2,1,0
+17-09-2025,Uttarakhand,Chamoli,246449,0,1,0
+17-09-2025,Uttarakhand,Chamoli,246486,1,0,0
+17-09-2025,Uttarakhand,Dehradun,248007,3,0,0
+17-09-2025,Uttarakhand,Dehradun,248008,2,1,0
+17-09-2025,Uttarakhand,Dehradun,248123,2,0,0
+17-09-2025,Uttarakhand,Dehradun,248199,1,1,0
+17-09-2025,Uttarakhand,Hardwar,247667,1,0,0
+17-09-2025,Uttarakhand,Haridwar,247670,4,0,0
+17-09-2025,Uttarakhand,Haridwar,249401,1,0,0
+17-09-2025,Uttarakhand,Nainital,262402,1,1,0
+17-09-2025,Uttarakhand,Nainital,263138,0,1,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246142,0,1,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246172,2,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246276,0,1,0
+17-09-2025,Uttarakhand,Pithoragarh,262501,3,0,0
+17-09-2025,Uttarakhand,Pithoragarh,262502,1,0,0
+17-09-2025,Uttarakhand,Tehri Garhwal,249122,1,0,0
+17-09-2025,Uttarakhand,Tehri Garhwal,249145,4,0,0
+17-09-2025,Uttarakhand,Tehri Garhwal,249161,2,0,0
+17-09-2025,Uttarakhand,Tehri Garhwal,249165,2,0,0
+17-09-2025,Uttarakhand,Udham Singh Nagar,262308,8,5,0
+17-09-2025,Uttarakhand,Uttarkashi,249193,1,0,0
+17-09-2025,Uttarakhand,Uttarkashi,249196,1,0,0
+22-09-2025,Uttarakhand,Chamoli,246449,2,0,0
+22-09-2025,Uttarakhand,Chamoli,246472,1,0,0
+22-09-2025,Uttarakhand,Chamoli,246473,1,0,0
+22-09-2025,Uttarakhand,Champawat,262524,1,1,0
+22-09-2025,Uttarakhand,Dehradun,248001,22,4,0
+22-09-2025,Uttarakhand,Dehradun,248123,1,0,0
+22-09-2025,Uttarakhand,Dehradun,248140,3,1,0
+22-09-2025,Uttarakhand,Dehradun,248195,1,0,0
+22-09-2025,Uttarakhand,Haridwar,247667,8,2,0
+22-09-2025,Uttarakhand,Haridwar,249407,2,0,0
+22-09-2025,Uttarakhand,Pauri Garhwal,246179,1,0,0
+22-09-2025,Uttarakhand,Pithoragarh,262544,1,1,0
+22-09-2025,Uttarakhand,Tehri Garhwal,249121,0,1,0
+22-09-2025,Uttarakhand,Udham Singh Nagar,262401,5,1,0
+22-09-2025,Uttarakhand,Udham Singh Nagar,263148,6,2,0
+22-09-2025,Uttarakhand,Uttarkashi,249141,2,0,0
+20-09-2025,Uttarakhand,Almora,263658,2,0,0
+20-09-2025,Uttarakhand,Bageshwar,263640,1,0,0
+20-09-2025,Uttarakhand,Bageshwar,263641,1,0,0
+20-09-2025,Uttarakhand,Chamoli,246427,1,0,0
+20-09-2025,Uttarakhand,Chamoli,246429,1,0,0
+20-09-2025,Uttarakhand,Chamoli,246441,2,0,0
+20-09-2025,Uttarakhand,Chamoli,246487,1,0,0
+20-09-2025,Uttarakhand,Champawat,262527,2,0,0
+20-09-2025,Uttarakhand,Dehradun,248006,0,1,0
+20-09-2025,Uttarakhand,Dehradun,248008,6,0,0
+20-09-2025,Uttarakhand,Dehradun,248123,7,0,0
+20-09-2025,Uttarakhand,Dehradun,248142,10,1,0
+20-09-2025,Uttarakhand,Dehradun,248143,1,0,0
+20-09-2025,Uttarakhand,Dehradun,249202,1,0,0
+20-09-2025,Uttarakhand,Garhwal,246149,2,0,0
+20-09-2025,Uttarakhand,Garhwal,246276,1,0,0
+20-09-2025,Uttarakhand,Haridwar,247670,1,0,0
+20-09-2025,Uttarakhand,Haridwar,249404,2,0,0
+20-09-2025,Uttarakhand,Pauri Garhwal,246165,1,0,0
+20-09-2025,Uttarakhand,Pauri Garhwal,246285,1,0,0
+20-09-2025,Uttarakhand,Pithoragarh,262533,1,0,0
+20-09-2025,Uttarakhand,Rudraprayag,246171,1,0,0
+20-09-2025,Uttarakhand,Rudraprayag,246475,3,0,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249125,0,1,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249146,1,0,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249165,2,0,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249181,1,0,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249186,1,0,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249196,1,0,0
+20-09-2025,Uttarakhand,Udham Singh Nagar,263148,5,5,0
+20-09-2025,Uttarakhand,Udham Singh Nagar,263153,15,1,0
+20-09-2025,Uttarakhand,Udham Singh Nagar,263160,6,1,0
+21-09-2025,Uttarakhand,Dehradun,248007,1,0,0
+21-09-2025,Uttarakhand,Dehradun,248142,1,0,0
+21-09-2025,Uttarakhand,Haridwar,247661,3,0,0
+21-09-2025,Uttarakhand,Udham Singh Nagar,244713,1,0,0
+25-09-2025,Uttarakhand,Almora,263622,0,1,0
+25-09-2025,Uttarakhand,Bageshwar,263634,1,0,0
+25-09-2025,Uttarakhand,Chamoli,246424,3,0,0
+25-09-2025,Uttarakhand,Chamoli,246481,2,0,0
+25-09-2025,Uttarakhand,Dehradun,248007,0,2,0
+25-09-2025,Uttarakhand,Dehradun,248008,3,0,0
+25-09-2025,Uttarakhand,Dehradun,248121,1,1,0
+25-09-2025,Uttarakhand,Dehradun,248123,1,2,0
+25-09-2025,Uttarakhand,Dehradun,248143,4,0,0
+25-09-2025,Uttarakhand,Dehradun,248171,6,0,0
+25-09-2025,Uttarakhand,Hardwar,249403,0,1,0
+25-09-2025,Uttarakhand,Haridwar,247666,2,0,0
+25-09-2025,Uttarakhand,Haridwar,247667,3,1,0
+25-09-2025,Uttarakhand,Haridwar,247671,2,1,0
+25-09-2025,Uttarakhand,Haridwar,249410,1,0,0
+25-09-2025,Uttarakhand,Nainital,262402,8,0,0
+25-09-2025,Uttarakhand,Nainital,263136,3,0,0
+25-09-2025,Uttarakhand,Pauri Garhwal,246285,4,1,0
+25-09-2025,Uttarakhand,Pithoragarh,262544,3,0,0
+25-09-2025,Uttarakhand,Rudraprayag,246419,2,0,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249180,1,0,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249186,0,1,0
+25-09-2025,Uttarakhand,Udham Singh Nagar,262308,9,4,0
+25-09-2025,Uttarakhand,Udham Singh Nagar,262401,7,3,0
+25-09-2025,Uttarakhand,Uttarkashi,249171,1,1,0
+24-09-2025,Uttarakhand,Almora,263637,1,0,0
+24-09-2025,Uttarakhand,Almora,263646,1,0,0
+24-09-2025,Uttarakhand,Almora,263656,3,0,0
+24-09-2025,Uttarakhand,Almora,263661,2,0,0
+24-09-2025,Uttarakhand,Almora,263667,1,0,0
+24-09-2025,Uttarakhand,Chamoli,246428,4,0,0
+24-09-2025,Uttarakhand,Chamoli,246446,1,0,0
+24-09-2025,Uttarakhand,Chamoli,246472,1,0,0
+24-09-2025,Uttarakhand,Chamoli,246487,1,0,0
+24-09-2025,Uttarakhand,Champawat,262523,10,1,0
+24-09-2025,Uttarakhand,Champawat,262527,1,0,0
+24-09-2025,Uttarakhand,Dehradun,248123,4,1,0
+24-09-2025,Uttarakhand,Dehradun,248125,2,0,0
+24-09-2025,Uttarakhand,Dehradun,248142,2,0,0
+24-09-2025,Uttarakhand,Dehradun,248199,1,0,0
+24-09-2025,Uttarakhand,Hardwar,247667,1,0,0
+24-09-2025,Uttarakhand,Hardwar,249407,1,0,0
+24-09-2025,Uttarakhand,Haridwar,247667,9,5,0
+24-09-2025,Uttarakhand,Haridwar,249407,3,1,0
+24-09-2025,Uttarakhand,Nainital,263136,3,0,0
+24-09-2025,Uttarakhand,Pithoragarh,262501,3,0,0
+24-09-2025,Uttarakhand,Pithoragarh,262576,2,0,0
+24-09-2025,Uttarakhand,Rudraprayag,246171,2,0,0
+24-09-2025,Uttarakhand,Rudraprayag,246421,0,1,0
+24-09-2025,Uttarakhand,Rudraprayag,246475,1,1,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249121,1,0,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249165,7,0,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,244713,15,3,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,244716,0,1,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,263152,3,1,0
+24-09-2025,Uttarakhand,Uttarkashi,249165,1,0,0
+23-09-2025,Uttarakhand,Bageshwar,263641,3,0,0
+23-09-2025,Uttarakhand,Chamoli,246426,1,0,0
+23-09-2025,Uttarakhand,Chamoli,246446,1,1,0
+23-09-2025,Uttarakhand,Chamoli,246473,1,0,0
+23-09-2025,Uttarakhand,Chamoli,246486,2,0,0
+23-09-2025,Uttarakhand,Champawat,262524,1,2,0
+23-09-2025,Uttarakhand,Dehradun,248007,6,1,0
+23-09-2025,Uttarakhand,Dehradun,248140,2,0,0
+23-09-2025,Uttarakhand,Dehradun,248146,1,0,0
+23-09-2025,Uttarakhand,Dehradun,248197,9,0,0
+23-09-2025,Uttarakhand,Hardwar,247670,1,0,0
+23-09-2025,Uttarakhand,Haridwar,247666,1,1,0
+23-09-2025,Uttarakhand,Haridwar,247667,5,1,0
+23-09-2025,Uttarakhand,Nainital,262402,4,0,0
+23-09-2025,Uttarakhand,Nainital,263001,1,0,0
+23-09-2025,Uttarakhand,Pauri Garhwal,246130,0,1,0
+23-09-2025,Uttarakhand,Pauri Garhwal,246149,8,0,0
+23-09-2025,Uttarakhand,Pithoragarh,262534,2,0,0
+23-09-2025,Uttarakhand,Pithoragarh,262545,3,0,0
+23-09-2025,Uttarakhand,Pithoragarh,262550,1,0,0
+23-09-2025,Uttarakhand,Pithoragarh,262553,0,2,0
+23-09-2025,Uttarakhand,Rudraprayag,246421,1,0,0
+23-09-2025,Uttarakhand,Rudraprayag,246442,1,1,0
+23-09-2025,Uttarakhand,Rudraprayag,246469,1,0,0
+23-09-2025,Uttarakhand,Rudraprayag,246475,2,0,0
+23-09-2025,Uttarakhand,Tehri Garhwal,249123,1,0,0
+23-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+23-09-2025,Uttarakhand,Tehri Garhwal,249180,1,0,0
+23-09-2025,Uttarakhand,Tehri Garhwal,249192,1,1,0
+23-09-2025,Uttarakhand,Udham Singh Nagar,244716,1,0,0
+23-09-2025,Uttarakhand,Udham Singh Nagar,263151,1,0,0
+29-09-2025,Uttarakhand,Almora,263680,1,0,0
+29-09-2025,Uttarakhand,Bageshwar,263635,1,0,0
+29-09-2025,Uttarakhand,Bageshwar,263679,1,0,0
+29-09-2025,Uttarakhand,Dehradun,248142,2,0,0
+29-09-2025,Uttarakhand,Haridwar,247665,0,1,0
+29-09-2025,Uttarakhand,Haridwar,247670,1,0,0
+29-09-2025,Uttarakhand,Nainital,244713,1,0,0
+29-09-2025,Uttarakhand,Pauri Garhwal,249304,1,0,0
+29-09-2025,Uttarakhand,Rudraprayag,246425,1,0,0
+29-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+27-09-2025,Uttarakhand,Almora,263625,1,0,0
+27-09-2025,Uttarakhand,Almora,263680,0,1,0
+27-09-2025,Uttarakhand,Dehradun,248003,1,0,0
+27-09-2025,Uttarakhand,Dehradun,248008,1,0,0
+27-09-2025,Uttarakhand,Dehradun,248140,1,0,0
+27-09-2025,Uttarakhand,Dehradun,248197,3,0,0
+27-09-2025,Uttarakhand,Nainital,244715,3,0,0
+27-09-2025,Uttarakhand,Pauri Garhwal,246164,1,0,0
+27-09-2025,Uttarakhand,Rudraprayag,246171,1,0,0
+27-09-2025,Uttarakhand,Tehri Garhwal,249145,0,1,0
+27-09-2025,Uttarakhand,Tehri Garhwal,249165,2,0,0
+27-09-2025,Uttarakhand,Tehri Garhwal,249181,1,0,0
+27-09-2025,Uttarakhand,Udham Singh Nagar,244713,3,0,0
+28-09-2025,Uttarakhand,Almora,263661,7,1,0
+28-09-2025,Uttarakhand,Chamoli,246443,0,2,0
+28-09-2025,Uttarakhand,Haridwar,247667,2,0,0
+28-09-2025,Uttarakhand,Udham Singh Nagar,263148,0,1,0
+26-09-2025,Uttarakhand,Almora,244715,1,0,0
+26-09-2025,Uttarakhand,Almora,263601,3,0,0
+26-09-2025,Uttarakhand,Almora,263656,1,0,0
+26-09-2025,Uttarakhand,Bageshwar,263631,4,1,0
+26-09-2025,Uttarakhand,Chamoli,246424,4,1,0
+26-09-2025,Uttarakhand,Chamoli,246428,1,0,0
+26-09-2025,Uttarakhand,Chamoli,246455,1,0,0
+26-09-2025,Uttarakhand,Dehradun,248121,1,0,0
+26-09-2025,Uttarakhand,Dehradun,248142,2,0,0
+26-09-2025,Uttarakhand,Dehradun,248145,4,0,0
+26-09-2025,Uttarakhand,Haridwar,247661,4,1,0
+26-09-2025,Uttarakhand,Haridwar,247667,6,1,0
+26-09-2025,Uttarakhand,Haridwar,249408,3,1,0
+26-09-2025,Uttarakhand,Nainital,263126,1,0,0
+26-09-2025,Uttarakhand,Nainital,263138,7,1,0
+26-09-2025,Uttarakhand,Nainital,263140,1,0,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246121,1,0,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246169,1,0,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246285,5,0,0
+26-09-2025,Uttarakhand,Pithoragarh,262553,2,0,0
+26-09-2025,Uttarakhand,Tehri Garhwal,249130,1,0,0
+26-09-2025,Uttarakhand,Tehri Garhwal,249175,1,1,0
+26-09-2025,Uttarakhand,Udham Singh Nagar,263152,3,1,0
+30-09-2025,Uttarakhand,Nainital,244715,0,1,0
+13-10-2025,Uttarakhand,Almora,244715,2,0,0
+13-10-2025,Uttarakhand,Almora,263623,2,0,0
+13-10-2025,Uttarakhand,Almora,263625,4,0,0
+13-10-2025,Uttarakhand,Almora,263667,1,0,0
+13-10-2025,Uttarakhand,Almora,263676,1,0,0
+13-10-2025,Uttarakhand,Bageshwar,263641,3,1,0
+13-10-2025,Uttarakhand,Champawat,262523,4,0,0
+13-10-2025,Uttarakhand,Dehradun,248013,1,0,0
+13-10-2025,Uttarakhand,Dehradun,248140,6,1,0
+13-10-2025,Uttarakhand,Dehradun,248197,4,1,0
+13-10-2025,Uttarakhand,Dehradun,249204,3,0,0
+13-10-2025,Uttarakhand,Dehradun,249205,2,1,0
+13-10-2025,Uttarakhand,Garhwal,246179,1,0,0
+13-10-2025,Uttarakhand,Haridwar,247662,1,0,0
+13-10-2025,Uttarakhand,Haridwar,247664,1,0,0
+13-10-2025,Uttarakhand,Nainital,262402,2,2,0
+13-10-2025,Uttarakhand,Nainital,263126,1,0,0
+13-10-2025,Uttarakhand,Nainital,263139,29,3,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246123,1,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246128,1,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246149,3,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246162,1,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246163,1,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246174,1,0,0
+13-10-2025,Uttarakhand,Pithoragarh,262541,1,0,0
+13-10-2025,Uttarakhand,Pithoragarh,262553,3,0,0
+13-10-2025,Uttarakhand,Tehri Garhwal,249161,1,0,0
+13-10-2025,Uttarakhand,Udham Singh Nagar,244712,2,0,0
+13-10-2025,Uttarakhand,Udham Singh Nagar,262401,9,1,0
+16-10-2025,Uttarakhand,Almora,263661,1,0,0
+16-10-2025,Uttarakhand,Almora,263680,1,0,0
+16-10-2025,Uttarakhand,Bageshwar,263628,2,0,0
+16-10-2025,Uttarakhand,Bageshwar,263641,1,0,0
+16-10-2025,Uttarakhand,Champawat,262528,1,2,0
+16-10-2025,Uttarakhand,Dehradun,248121,2,0,0
+16-10-2025,Uttarakhand,Haridwar,249403,1,0,0
+16-10-2025,Uttarakhand,Pauri Garhwal,246161,1,0,0
+16-10-2025,Uttarakhand,Pauri Garhwal,246173,2,0,0
+16-10-2025,Uttarakhand,Pauri Garhwal,246279,1,0,0
+16-10-2025,Uttarakhand,Pithoragarh,262532,0,1,0
+16-10-2025,Uttarakhand,Pithoragarh,262541,1,0,0
+16-10-2025,Uttarakhand,Pithoragarh,262552,1,0,0
+16-10-2025,Uttarakhand,Rudraprayag,246439,0,1,0
+16-10-2025,Uttarakhand,Tehri Garhwal,249001,1,0,0
+15-10-2025,Uttarakhand,Bageshwar,263635,0,1,0
+15-10-2025,Uttarakhand,Chamoli,246473,2,1,0
+15-10-2025,Uttarakhand,Chamoli,246482,1,0,0
+15-10-2025,Uttarakhand,Champawat,262580,2,0,0
+15-10-2025,Uttarakhand,Dehradun,248008,2,1,0
+15-10-2025,Uttarakhand,Dehradun,248125,1,0,0
+15-10-2025,Uttarakhand,Dehradun,248142,4,0,1
+15-10-2025,Uttarakhand,Dehradun,248159,1,0,0
+15-10-2025,Uttarakhand,Dehradun,248198,2,1,0
+15-10-2025,Uttarakhand,Garhwal,246149,1,1,0
+15-10-2025,Uttarakhand,Hardwar,249401,0,1,0
+15-10-2025,Uttarakhand,Haridwar,247662,4,1,0
+15-10-2025,Uttarakhand,Haridwar,247663,5,2,0
+15-10-2025,Uttarakhand,Haridwar,247664,3,0,0
+15-10-2025,Uttarakhand,Haridwar,249401,3,0,0
+15-10-2025,Uttarakhand,Haridwar,249404,2,0,0
+15-10-2025,Uttarakhand,Haridwar,249407,6,3,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246123,1,0,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246131,1,0,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246172,2,0,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246174,0,1,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246277,2,0,0
+15-10-2025,Uttarakhand,Pithoragarh,262521,3,0,0
+15-10-2025,Uttarakhand,Pithoragarh,262531,0,1,0
+15-10-2025,Uttarakhand,Pithoragarh,262554,1,0,0
+15-10-2025,Uttarakhand,Rudraprayag,246141,1,0,0
+15-10-2025,Uttarakhand,Rudraprayag,246429,1,0,0
+15-10-2025,Uttarakhand,Tehri Garhwal,249132,1,0,0
+15-10-2025,Uttarakhand,Tehri Garhwal,249155,4,1,0
+15-10-2025,Uttarakhand,Udham Singh Nagar,262308,6,2,0
+15-10-2025,Uttarakhand,Udham Singh Nagar,263148,8,3,0
+15-10-2025,Uttarakhand,Udham Singh Nagar,263150,1,0,0
+15-10-2025,Uttarakhand,Udham Singh Nagar,263160,2,1,0
+15-10-2025,Uttarakhand,Uttarkashi,249151,2,0,0
+16-10-2025,Uttarakhand,Udham Singh Nagar,262401,5,0,0
+16-10-2025,Uttarakhand,Udham Singh Nagar,263160,0,1,0
+17-10-2025,Uttarakhand,Almora,263623,0,1,0
+17-10-2025,Uttarakhand,Almora,263626,1,0,0
+17-10-2025,Uttarakhand,Almora,263629,1,0,0
+17-10-2025,Uttarakhand,Almora,263656,2,0,0
+17-10-2025,Uttarakhand,Almora,263661,1,0,0
+17-10-2025,Uttarakhand,Bageshwar,263628,1,0,0
+17-10-2025,Uttarakhand,Chamoli,246449,2,0,0
+17-10-2025,Uttarakhand,Chamoli,246487,1,0,0
+17-10-2025,Uttarakhand,Champawat,262523,3,1,0
+17-10-2025,Uttarakhand,Champawat,262528,2,1,0
+17-10-2025,Uttarakhand,Dehradun,248003,1,1,0
+17-10-2025,Uttarakhand,Dehradun,248171,7,2,0
+17-10-2025,Uttarakhand,Dehradun,248199,2,0,0
+17-10-2025,Uttarakhand,Dehradun,249204,11,1,0
+17-10-2025,Uttarakhand,Garhwal,246149,4,0,0
+17-10-2025,Uttarakhand,Hardwar,249410,1,0,0
+17-10-2025,Uttarakhand,Haridwar,247665,3,1,0
+17-10-2025,Uttarakhand,Haridwar,247666,4,2,0
+17-10-2025,Uttarakhand,Haridwar,249401,5,1,0
+17-10-2025,Uttarakhand,Nainital,244715,13,5,0
+17-10-2025,Uttarakhand,Nainital,263001,0,1,0
+17-10-2025,Uttarakhand,Nainital,263137,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246123,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246144,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246149,8,1,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246163,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246164,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246173,3,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246194,0,0,1
+17-10-2025,Uttarakhand,Pauri Garhwal,246279,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246285,2,2,0
+17-10-2025,Uttarakhand,Pithoragarh,262541,0,1,0
+17-10-2025,Uttarakhand,Pithoragarh,262543,1,0,0
+17-10-2025,Uttarakhand,Pithoragarh,262551,1,0,0
+17-10-2025,Uttarakhand,Pithoragarh,262576,1,2,0
+17-10-2025,Uttarakhand,Rudraprayag,246475,6,1,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249001,1,1,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249130,1,0,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249132,1,0,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249146,3,0,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249175,3,0,0
+17-10-2025,Uttarakhand,Udham Singh Nagar,262308,22,5,0
+17-10-2025,Uttarakhand,Uttarkashi,249131,1,0,0
+17-10-2025,Uttarakhand,Uttarkashi,249171,6,1,0
+17-10-2025,Uttarakhand,Uttarkashi,249185,2,3,0
+01-04-2025,Uttarakhand,Dehradun,248001,510,138,26
+01-06-2025,Uttarakhand,Dehradun,248001,160,80,54
+01-07-2025,Uttarakhand,Dehradun,248001,1298,323,10
+03-09-2025,Uttarakhand,Almora,263601,2,1,0
+03-09-2025,Uttarakhand,Almora,263655,1,0,0
+03-09-2025,Uttarakhand,Almora,263667,1,0,0
+03-09-2025,Uttarakhand,Almora,263676,1,0,0
+03-09-2025,Uttarakhand,Almora,263678,1,0,0
+03-09-2025,Uttarakhand,Bageshwar,263628,2,0,0
+03-09-2025,Uttarakhand,Bageshwar,263679,2,1,0
+03-09-2025,Uttarakhand,Champawat,262524,1,1,0
+03-09-2025,Uttarakhand,Dehradun,248001,22,6,0
+03-09-2025,Uttarakhand,Dehradun,248007,6,1,0
+03-09-2025,Uttarakhand,Dehradun,248140,6,1,0
+03-09-2025,Uttarakhand,Dehradun,248159,1,0,0
+03-09-2025,Uttarakhand,Dehradun,248179,1,1,0
+03-09-2025,Uttarakhand,Dehradun,248198,1,1,0
+03-09-2025,Uttarakhand,Hardwar,247656,1,0,0
+03-09-2025,Uttarakhand,Haridwar,247670,0,1,0
+03-09-2025,Uttarakhand,Haridwar,249408,3,1,0
+03-09-2025,Uttarakhand,Nainital,263126,2,0,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246121,1,0,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246130,3,0,0
+03-09-2025,Uttarakhand,Pithoragarh,262522,2,0,0
+03-09-2025,Uttarakhand,Pithoragarh,262542,2,0,0
+03-09-2025,Uttarakhand,Pithoragarh,262554,3,0,0
+03-09-2025,Uttarakhand,Rudraprayag,246421,3,1,0
+03-09-2025,Uttarakhand,Rudraprayag,246448,1,0,0
+03-09-2025,Uttarakhand,Tehri Garhwal,249146,1,0,0
+03-09-2025,Uttarakhand,Udham Singh Nagar,262308,7,1,0
+03-09-2025,Uttarakhand,Udham Singh Nagar,263160,5,0,0
+03-09-2025,Uttarakhand,Uttarkashi,249151,2,0,0
+03-09-2025,Uttarakhand,Uttarkashi,249193,4,0,0
+02-09-2025,Uttarakhand,Almora,263664,1,0,0
+02-09-2025,Uttarakhand,Bageshwar,263633,1,0,0
+02-09-2025,Uttarakhand,Chamoli,246428,1,0,0
+02-09-2025,Uttarakhand,Dehradun,248001,14,3,0
+02-09-2025,Uttarakhand,Dehradun,248002,0,1,0
+02-09-2025,Uttarakhand,Dehradun,248123,1,0,0
+02-09-2025,Uttarakhand,Dehradun,248165,0,1,0
+02-09-2025,Uttarakhand,Garhwal,246149,1,0,0
+02-09-2025,Uttarakhand,Haridwar,247667,7,5,0
+02-09-2025,Uttarakhand,Haridwar,249401,0,2,0
+02-09-2025,Uttarakhand,Nainital,244715,3,1,0
+02-09-2025,Uttarakhand,Nainital,263126,1,1,0
+02-09-2025,Uttarakhand,Nainital,263135,1,0,0
+02-09-2025,Uttarakhand,Pauri Garhwal,246149,3,0,0
+02-09-2025,Uttarakhand,Pauri Garhwal,246155,1,0,0
+02-09-2025,Uttarakhand,Rudraprayag,246439,3,1,0
+02-09-2025,Uttarakhand,Tehri Garhwal,249122,3,0,0
+02-09-2025,Uttarakhand,Tehri Garhwal,249192,1,0,0
+02-09-2025,Uttarakhand,Tehri Garhwal,249199,1,0,0
+02-09-2025,Uttarakhand,Udham Singh Nagar,263148,7,0,0
+02-09-2025,Uttarakhand,Udham Singh Nagar,263149,1,0,0
+02-09-2025,Uttarakhand,Uttarkashi,249151,2,0,0
+02-09-2025,Uttarakhand,Uttarkashi,249193,1,0,0
+01-09-2025,Uttarakhand,Almora,263601,0,1,0
+01-09-2025,Uttarakhand,Bageshwar,263632,1,0,0
+01-09-2025,Uttarakhand,Chamoli,246449,1,0,0
+01-09-2025,Uttarakhand,Chamoli,246473,1,0,0
+01-09-2025,Uttarakhand,Dehradun,248001,24,3,0
+01-09-2025,Uttarakhand,Dehradun,248005,2,0,0
+01-09-2025,Uttarakhand,Dehradun,248008,3,0,0
+01-09-2025,Uttarakhand,Dehradun,248125,1,1,0
+01-09-2025,Uttarakhand,Dehradun,248140,9,0,0
+01-09-2025,Uttarakhand,Dehradun,248143,1,0,0
+01-09-2025,Uttarakhand,Dehradun,249202,1,0,0
+01-09-2025,Uttarakhand,Haridwar,249404,0,1,0
+01-09-2025,Uttarakhand,Nainital,244715,1,0,0
+01-09-2025,Uttarakhand,Nainital,263126,2,1,0
+01-09-2025,Uttarakhand,Pauri Garhwal,246001,1,0,0
+01-09-2025,Uttarakhand,Pauri Garhwal,246275,3,0,0
+01-09-2025,Uttarakhand,Pithoragarh,262532,0,1,0
+01-09-2025,Uttarakhand,Pithoragarh,262534,2,0,0
+01-09-2025,Uttarakhand,Pithoragarh,262547,1,0,0
+01-09-2025,Uttarakhand,Pithoragarh,262551,1,0,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249165,4,2,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249186,1,0,0
+01-09-2025,Uttarakhand,Udham Singh Nagar,262308,3,3,0
+01-09-2025,Uttarakhand,Udham Singh Nagar,263153,9,1,0
+01-09-2025,Uttarakhand,Uttarkashi,249151,1,0,0
+07-09-2025,Uttarakhand,Dehradun,248121,2,0,0
+07-09-2025,Uttarakhand,Haridwar,247656,0,1,0
+07-09-2025,Uttarakhand,Haridwar,247661,1,0,0
+07-09-2025,Uttarakhand,Pauri Garhwal,246128,1,0,0
+07-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+07-09-2025,Uttarakhand,Tehri Garhwal,249181,0,1,0
+07-09-2025,Uttarakhand,Udham Singh Nagar,262401,3,1,0
+07-09-2025,Uttarakhand,Udham Singh Nagar,263153,1,1,0
+06-09-2025,Uttarakhand,Almora,263621,1,0,0
+06-09-2025,Uttarakhand,Almora,263658,1,1,0
+06-09-2025,Uttarakhand,Chamoli,246472,1,0,0
+06-09-2025,Uttarakhand,Champawat,262309,1,1,0
+06-09-2025,Uttarakhand,Champawat,262528,8,0,0
+06-09-2025,Uttarakhand,Dehradun,248003,2,0,0
+06-09-2025,Uttarakhand,Dehradun,248199,2,0,0
+06-09-2025,Uttarakhand,Dehradun,249204,1,0,0
+06-09-2025,Uttarakhand,Haridwar,247656,0,0,1
+06-09-2025,Uttarakhand,Haridwar,247665,0,1,0
+06-09-2025,Uttarakhand,Haridwar,247670,1,1,0
+06-09-2025,Uttarakhand,Haridwar,247671,5,2,0
+06-09-2025,Uttarakhand,Haridwar,249402,6,1,0
+06-09-2025,Uttarakhand,Nainital,263126,3,0,0
+06-09-2025,Uttarakhand,Nainital,263159,1,0,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246174,2,0,0
+06-09-2025,Uttarakhand,Pauri Garhwal,249304,1,0,0
+06-09-2025,Uttarakhand,Pithoragarh,262501,0,1,0
+06-09-2025,Uttarakhand,Pithoragarh,262543,1,0,0
+06-09-2025,Uttarakhand,Pithoragarh,262554,0,0,1
+06-09-2025,Uttarakhand,Rudraprayag,246419,1,0,0
+06-09-2025,Uttarakhand,Rudraprayag,246475,2,0,0
+06-09-2025,Uttarakhand,Udham Singh Nagar,262401,13,4,0
+06-09-2025,Uttarakhand,Uttarkashi,249141,1,0,0
+06-09-2025,Uttarakhand,Uttarkashi,249185,1,0,0
+06-09-2025,Uttarakhand,Uttarkashi,249196,1,0,0
+05-09-2025,Uttarakhand,Chamoli,246444,2,0,0
+05-09-2025,Uttarakhand,Champawat,262528,1,0,0
+05-09-2025,Uttarakhand,Haridwar,249402,2,0,0
+05-09-2025,Uttarakhand,Nainital,263126,2,0,0
+05-09-2025,Uttarakhand,Pauri Garhwal,246162,1,0,0
+05-09-2025,Uttarakhand,Tehri Garhwal,249155,5,0,0
+05-09-2025,Uttarakhand,Udham Singh Nagar,263148,0,1,0
+04-09-2025,Uttarakhand,Almora,263625,2,0,0
+04-09-2025,Uttarakhand,Almora,263663,2,0,0
+04-09-2025,Uttarakhand,Bageshwar,263641,4,0,0
+04-09-2025,Uttarakhand,Champawat,262310,3,0,0
+04-09-2025,Uttarakhand,Dehradun,248005,1,1,0
+04-09-2025,Uttarakhand,Haridwar,247663,6,3,0
+04-09-2025,Uttarakhand,Haridwar,247668,1,0,0
+04-09-2025,Uttarakhand,Haridwar,249407,5,1,0
+04-09-2025,Uttarakhand,Nainital,244713,1,1,0
+04-09-2025,Uttarakhand,Nainital,263001,1,0,0
+04-09-2025,Uttarakhand,Nainital,263002,1,0,0
+04-09-2025,Uttarakhand,Nainital,263157,1,0,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246121,1,0,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246277,1,0,0
+04-09-2025,Uttarakhand,Tehri Garhwal,249161,2,0,0
+04-09-2025,Uttarakhand,Tehri Garhwal,249165,5,3,0
+04-09-2025,Uttarakhand,Tehri Garhwal,249192,1,0,0
+04-09-2025,Uttarakhand,Udham Singh Nagar,263152,0,1,0
+04-09-2025,Uttarakhand,Uttarkashi,249193,5,0,0
+09-09-2025,Uttarakhand,Almora,263625,1,0,0
+09-09-2025,Uttarakhand,Almora,263628,2,0,0
+09-09-2025,Uttarakhand,Almora,263655,1,0,0
+09-09-2025,Uttarakhand,Almora,263658,3,0,0
+09-09-2025,Uttarakhand,Almora,263678,0,1,0
+09-09-2025,Uttarakhand,Bageshwar,263619,2,0,0
+09-09-2025,Uttarakhand,Bageshwar,263631,5,0,0
+09-09-2025,Uttarakhand,Bageshwar,263640,1,0,0
+09-09-2025,Uttarakhand,Chamoli,246487,1,0,0
+09-09-2025,Uttarakhand,Dehradun,248001,23,5,0
+09-09-2025,Uttarakhand,Dehradun,248011,1,0,0
+09-09-2025,Uttarakhand,Dehradun,248124,1,0,0
+09-09-2025,Uttarakhand,Dehradun,248145,1,0,0
+09-09-2025,Uttarakhand,Dehradun,248198,3,1,0
+09-09-2025,Uttarakhand,Haridwar,247664,4,0,0
+09-09-2025,Uttarakhand,Haridwar,247665,9,1,0
+09-09-2025,Uttarakhand,Haridwar,247667,13,2,0
+09-09-2025,Uttarakhand,Haridwar,247670,0,1,0
+09-09-2025,Uttarakhand,Haridwar,249402,5,3,0
+09-09-2025,Uttarakhand,Nainital,244715,7,4,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246130,0,1,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246142,1,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246162,1,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,249304,1,0,0
+09-09-2025,Uttarakhand,Pithoragarh,262529,3,0,0
+09-09-2025,Uttarakhand,Pithoragarh,262531,3,0,0
+09-09-2025,Uttarakhand,Pithoragarh,262534,2,1,0
+09-09-2025,Uttarakhand,Pithoragarh,262541,1,0,0
+09-09-2025,Uttarakhand,Pithoragarh,262545,0,1,0
+09-09-2025,Uttarakhand,Pithoragarh,262552,2,0,0
+09-09-2025,Uttarakhand,Pithoragarh,262553,1,0,0
+09-09-2025,Uttarakhand,Rudraprayag,246421,6,2,0
+09-09-2025,Uttarakhand,Rudraprayag,246442,1,1,0
+09-09-2025,Uttarakhand,Tehri Garhwal,249155,4,1,1
+09-09-2025,Uttarakhand,Tehri Garhwal,249161,5,0,0
+09-09-2025,Uttarakhand,Tehri Garhwal,249180,5,1,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,263152,14,1,0
+09-09-2025,Uttarakhand,Uttarkashi,249151,1,0,0
+09-09-2025,Uttarakhand,Uttarkashi,249152,1,0,0
+08-09-2025,Uttarakhand,Almora,263621,1,0,0
+08-09-2025,Uttarakhand,Almora,263623,3,0,0
+08-09-2025,Uttarakhand,Almora,263643,4,0,0
+08-09-2025,Uttarakhand,Bageshwar,263631,1,0,0
+08-09-2025,Uttarakhand,Bageshwar,263639,1,0,0
+08-09-2025,Uttarakhand,Bageshwar,263640,1,0,0
+08-09-2025,Uttarakhand,Champawat,262309,5,0,0
+08-09-2025,Uttarakhand,Dehradun,248005,7,0,0
+08-09-2025,Uttarakhand,Dehradun,248121,5,0,0
+08-09-2025,Uttarakhand,Dehradun,248124,1,0,0
+08-09-2025,Uttarakhand,Dehradun,248165,0,1,0
+08-09-2025,Uttarakhand,Dehradun,248197,8,0,0
+08-09-2025,Uttarakhand,Dehradun,248199,3,0,0
+08-09-2025,Uttarakhand,Hardwar,247666,1,0,0
+08-09-2025,Uttarakhand,Haridwar,247671,2,0,0
+08-09-2025,Uttarakhand,Haridwar,249403,5,1,0
+08-09-2025,Uttarakhand,Haridwar,249408,0,2,0
+08-09-2025,Uttarakhand,Nainital,263126,6,0,0
+08-09-2025,Uttarakhand,Nainital,263136,3,0,0
+08-09-2025,Uttarakhand,Nainital,263157,3,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246121,1,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246144,2,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246175,1,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246176,1,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246179,1,0,0
+08-09-2025,Uttarakhand,Pithoragarh,262521,1,0,0
+08-09-2025,Uttarakhand,Pithoragarh,262576,1,0,0
+08-09-2025,Uttarakhand,Rudraprayag,246425,1,0,0
+08-09-2025,Uttarakhand,Rudraprayag,246442,13,0,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249181,8,1,0
+08-09-2025,Uttarakhand,Udham Singh Nagar,262308,9,2,0
+08-09-2025,Uttarakhand,Udham Singh Nagar,262405,8,0,1
+08-09-2025,Uttarakhand,Udham Singh Nagar,263151,4,1,0
+08-09-2025,Uttarakhand,Udham Singh Nagar,263160,2,1,0
+11-09-2025,Uttarakhand,Bageshwar,263635,4,0,0
+11-09-2025,Uttarakhand,Chamoli,246427,5,0,0
+11-09-2025,Uttarakhand,Chamoli,246440,1,0,0
+11-09-2025,Uttarakhand,Chamoli,246483,1,0,0
+11-09-2025,Uttarakhand,Chamoli,246486,1,0,0
+11-09-2025,Uttarakhand,Champawat,262528,3,0,0
+11-09-2025,Uttarakhand,Dehradun,248002,1,1,0
+11-09-2025,Uttarakhand,Dehradun,248005,1,0,0
+11-09-2025,Uttarakhand,Dehradun,248007,7,1,0
+11-09-2025,Uttarakhand,Dehradun,248144,1,0,0
+11-09-2025,Uttarakhand,Dehradun,248199,1,0,0
+11-09-2025,Uttarakhand,Haridwar,247656,5,0,2
+11-09-2025,Uttarakhand,Haridwar,247666,2,0,0
+11-09-2025,Uttarakhand,Haridwar,249403,2,1,0
+11-09-2025,Uttarakhand,Haridwar,249407,6,0,0
+11-09-2025,Uttarakhand,Nainital,263126,6,0,0
+11-09-2025,Uttarakhand,Nainital,263157,1,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246001,4,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246121,1,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246162,3,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246277,1,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246279,1,0,0
+11-09-2025,Uttarakhand,Pithoragarh,262545,1,0,0
+11-09-2025,Uttarakhand,Pithoragarh,262554,1,0,0
+11-09-2025,Uttarakhand,Rudraprayag,246141,1,1,0
+11-09-2025,Uttarakhand,Rudraprayag,246419,4,0,0
+11-09-2025,Uttarakhand,Rudraprayag,246471,1,0,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249130,2,0,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249145,3,0,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249192,1,0,0
+11-09-2025,Uttarakhand,Udham Singh Nagar,244712,5,0,0
+11-09-2025,Uttarakhand,Udham Singh Nagar,244713,33,8,0
+11-09-2025,Uttarakhand,Udham Singh Nagar,263149,1,0,0
+11-09-2025,Uttarakhand,Udham Singh Nagar,263152,8,2,0
+11-09-2025,Uttarakhand,Uttarkashi,249185,2,2,0
+11-09-2025,Uttarakhand,Uttarkashi,249196,2,0,0
+10-09-2025,Uttarakhand,Almora,263661,1,0,0
+10-09-2025,Uttarakhand,Chamoli,246428,4,0,0
+10-09-2025,Uttarakhand,Dehradun,248196,2,0,0
+10-09-2025,Uttarakhand,Dehradun,249201,2,0,0
+10-09-2025,Uttarakhand,Hardwar,249402,1,1,0
+10-09-2025,Uttarakhand,Haridwar,246763,3,0,0
+10-09-2025,Uttarakhand,Haridwar,247662,4,1,0
+10-09-2025,Uttarakhand,Haridwar,247671,2,0,0
+10-09-2025,Uttarakhand,Haridwar,249403,3,2,0
+10-09-2025,Uttarakhand,Haridwar,249404,5,0,0
+10-09-2025,Uttarakhand,Nainital,244713,2,0,0
+10-09-2025,Uttarakhand,Nainital,263157,2,0,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246121,0,1,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246167,1,0,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246179,1,0,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246275,1,0,0
+10-09-2025,Uttarakhand,Pithoragarh,262529,1,0,0
+10-09-2025,Uttarakhand,Pithoragarh,262542,1,0,0
+10-09-2025,Uttarakhand,Pithoragarh,262550,1,0,0
+10-09-2025,Uttarakhand,Pithoragarh,262553,1,0,0
+10-09-2025,Uttarakhand,Pithoragarh,262554,1,1,0
+10-09-2025,Uttarakhand,Rudraprayag,246171,5,0,0
+10-09-2025,Uttarakhand,Rudraprayag,246475,5,2,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249130,2,0,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249132,6,0,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249137,0,1,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249165,4,0,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249196,1,0,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,262311,3,2,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,262405,8,1,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,263151,2,0,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,263152,10,0,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,263153,15,9,0
+10-09-2025,Uttarakhand,Uttarkashi,249193,1,0,0
+14-09-2025,Uttarakhand,Almora,263622,1,0,0
+14-09-2025,Uttarakhand,Dehradun,248171,0,1,0
+14-09-2025,Uttarakhand,Nainital,263126,2,0,0
+14-09-2025,Uttarakhand,Tehri Garhwal,249155,9,0,0
+14-09-2025,Uttarakhand,Udham Singh Nagar,262401,0,2,0
+14-09-2025,Uttarakhand,Udham Singh Nagar,263160,1,0,0
+12-09-2025,Uttarakhand,Almora,263645,2,0,0
+12-09-2025,Uttarakhand,Almora,263659,1,0,0
+12-09-2025,Uttarakhand,Chamoli,246431,3,0,0
+12-09-2025,Uttarakhand,Chamoli,246449,2,0,0
+12-09-2025,Uttarakhand,Chamoli,246472,1,0,0
+12-09-2025,Uttarakhand,Champawat,262523,1,0,0
+12-09-2025,Uttarakhand,Champawat,262525,1,0,0
+12-09-2025,Uttarakhand,Dehradun,248001,27,5,0
+12-09-2025,Uttarakhand,Dehradun,248121,3,1,0
+12-09-2025,Uttarakhand,Dehradun,248140,7,0,0
+12-09-2025,Uttarakhand,Dehradun,248165,1,1,0
+12-09-2025,Uttarakhand,Dehradun,249204,5,2,0
+12-09-2025,Uttarakhand,Dehradun,249205,1,0,0
+12-09-2025,Uttarakhand,Haridwar,247661,2,5,0
+12-09-2025,Uttarakhand,Haridwar,247662,1,0,0
+12-09-2025,Uttarakhand,Haridwar,247670,9,3,0
+12-09-2025,Uttarakhand,Nainital,263132,2,1,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246147,1,0,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246163,1,0,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246177,1,0,0
+12-09-2025,Uttarakhand,Pithoragarh,262522,1,0,0
+12-09-2025,Uttarakhand,Pithoragarh,262554,1,0,0
+12-09-2025,Uttarakhand,Rudraprayag,246141,1,0,0
+12-09-2025,Uttarakhand,Rudraprayag,246495,1,0,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249181,1,1,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249186,2,0,0
+12-09-2025,Uttarakhand,Udham Singh Nagar,262311,4,0,0
+12-09-2025,Uttarakhand,Udham Singh Nagar,263148,2,3,0
+12-09-2025,Uttarakhand,Uttarkashi,249141,0,1,0
+12-09-2025,Uttarakhand,Uttarkashi,249193,2,0,0
+13-09-2025,Uttarakhand,Almora,263658,0,1,0
+13-09-2025,Uttarakhand,Almora,263664,1,0,0
+13-09-2025,Uttarakhand,Almora,263680,1,0,0
+13-09-2025,Uttarakhand,Bageshwar,263634,1,0,0
+13-09-2025,Uttarakhand,Dehradun,248005,5,1,0
+13-09-2025,Uttarakhand,Dehradun,248006,1,0,0
+13-09-2025,Uttarakhand,Dehradun,248007,9,2,0
+13-09-2025,Uttarakhand,Dehradun,248009,1,1,0
+13-09-2025,Uttarakhand,Dehradun,248142,1,0,0
+13-09-2025,Uttarakhand,Dehradun,248196,1,0,0
+13-09-2025,Uttarakhand,Dehradun,248197,8,0,0
+13-09-2025,Uttarakhand,Haridwar,247666,2,0,0
+13-09-2025,Uttarakhand,Haridwar,247671,4,1,0
+13-09-2025,Uttarakhand,Haridwar,249410,1,0,0
+13-09-2025,Uttarakhand,Nainital,263139,9,1,0
+13-09-2025,Uttarakhand,Nainital,263158,1,0,0
+13-09-2025,Uttarakhand,Pauri Garhwal,246149,5,0,0
+13-09-2025,Uttarakhand,Pauri Garhwal,246164,3,0,0
+13-09-2025,Uttarakhand,Pauri Garhwal,246275,1,0,0
+13-09-2025,Uttarakhand,Pauri Garhwal,246279,1,0,0
+13-09-2025,Uttarakhand,Pithoragarh,262521,3,0,0
+13-09-2025,Uttarakhand,Pithoragarh,262552,1,0,0
+13-09-2025,Uttarakhand,Rudraprayag,246421,1,1,0
+13-09-2025,Uttarakhand,Rudraprayag,246425,1,0,0
+13-09-2025,Uttarakhand,Tehri Garhwal,249137,1,0,0
+13-09-2025,Uttarakhand,Tehri Garhwal,249145,2,0,0
+13-09-2025,Uttarakhand,Tehri Garhwal,249180,1,1,0
+13-09-2025,Uttarakhand,Udham Singh Nagar,262308,4,1,0
+13-09-2025,Uttarakhand,Udham Singh Nagar,263160,9,0,0
+13-09-2025,Uttarakhand,Uttarkashi,249152,1,0,0
+13-09-2025,Uttarakhand,Uttarkashi,249185,1,0,0
+15-09-2025,Uttarakhand,Almora,263663,1,0,0
+15-09-2025,Uttarakhand,Chamoli,246486,0,1,0
+15-09-2025,Uttarakhand,Champawat,262523,3,0,0
+15-09-2025,Uttarakhand,Dehradun,248007,3,1,0
+15-09-2025,Uttarakhand,Haridwar,247666,3,0,1
+15-09-2025,Uttarakhand,Haridwar,249401,4,1,0
+15-09-2025,Uttarakhand,Haridwar,249402,4,1,0
+15-09-2025,Uttarakhand,Haridwar,249407,2,2,0
+15-09-2025,Uttarakhand,Haridwar,249408,3,1,0
+15-09-2025,Uttarakhand,Nainital,263157,1,0,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246275,1,0,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246285,2,0,0
+15-09-2025,Uttarakhand,Pauri Garhwal,249304,0,1,0
+15-09-2025,Uttarakhand,Pithoragarh,262520,1,0,0
+15-09-2025,Uttarakhand,Pithoragarh,262543,1,0,0
+15-09-2025,Uttarakhand,Rudraprayag,246442,1,1,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249181,3,0,0
+15-09-2025,Uttarakhand,Udham Singh Nagar,244713,3,3,0
+15-09-2025,Uttarakhand,Udham Singh Nagar,262401,10,2,0
+15-09-2025,Uttarakhand,Udham Singh Nagar,262405,3,1,0
+15-09-2025,Uttarakhand,Udham Singh Nagar,263150,1,0,0
+17-09-2025,Uttarakhand,Almora,263656,4,0,0
+17-09-2025,Uttarakhand,Chamoli,246455,2,0,0
+17-09-2025,Uttarakhand,Dehradun,248002,3,2,0
+17-09-2025,Uttarakhand,Dehradun,248145,2,0,0
+17-09-2025,Uttarakhand,Dehradun,248158,1,0,0
+17-09-2025,Uttarakhand,Hardwar,249401,1,0,0
+17-09-2025,Uttarakhand,Haridwar,247663,7,4,0
+17-09-2025,Uttarakhand,Haridwar,247668,1,0,0
+17-09-2025,Uttarakhand,Haridwar,249403,2,0,0
+17-09-2025,Uttarakhand,Nainital,244715,2,0,0
+17-09-2025,Uttarakhand,Nainital,263136,2,0,0
+17-09-2025,Uttarakhand,Nainital,263159,1,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246149,2,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246161,1,0,0
+17-09-2025,Uttarakhand,Pithoragarh,262520,1,0,0
+17-09-2025,Uttarakhand,Pithoragarh,262522,1,0,0
+17-09-2025,Uttarakhand,Pithoragarh,262554,1,0,0
+17-09-2025,Uttarakhand,Rudraprayag,246442,2,1,0
+17-09-2025,Uttarakhand,Udham Singh Nagar,244712,8,2,0
+17-09-2025,Uttarakhand,Udham Singh Nagar,244713,11,0,0
+17-09-2025,Uttarakhand,Udham Singh Nagar,263153,7,2,0
+16-09-2025,Uttarakhand,Almora,263623,1,1,0
+16-09-2025,Uttarakhand,Almora,263656,6,0,0
+16-09-2025,Uttarakhand,Bageshwar,263619,1,0,0
+16-09-2025,Uttarakhand,Bageshwar,263631,4,0,0
+16-09-2025,Uttarakhand,Bageshwar,263634,3,0,0
+16-09-2025,Uttarakhand,Bageshwar,263635,3,1,0
+16-09-2025,Uttarakhand,Chamoli,246431,1,0,0
+16-09-2025,Uttarakhand,Chamoli,246449,0,1,0
+16-09-2025,Uttarakhand,Chamoli,246472,1,1,0
+16-09-2025,Uttarakhand,Dehradun,248006,0,1,0
+16-09-2025,Uttarakhand,Dehradun,248123,2,1,0
+16-09-2025,Uttarakhand,Hardwar,247667,1,0,0
+16-09-2025,Uttarakhand,Haridwar,247656,3,0,0
+16-09-2025,Uttarakhand,Haridwar,247661,5,3,0
+16-09-2025,Uttarakhand,Haridwar,247664,2,0,0
+16-09-2025,Uttarakhand,Haridwar,247670,0,1,0
+16-09-2025,Uttarakhand,Haridwar,247671,1,1,0
+16-09-2025,Uttarakhand,Nainital,263132,5,0,0
+16-09-2025,Uttarakhand,Nainital,263134,1,0,0
+16-09-2025,Uttarakhand,Nainital,263139,18,4,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246113,1,0,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246155,1,0,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246164,1,0,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246179,2,1,0
+16-09-2025,Uttarakhand,Pithoragarh,262543,1,0,0
+16-09-2025,Uttarakhand,Pithoragarh,262552,1,0,0
+16-09-2025,Uttarakhand,Pithoragarh,262553,3,2,0
+16-09-2025,Uttarakhand,Rudraprayag,246171,2,0,0
+16-09-2025,Uttarakhand,Rudraprayag,246429,1,0,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249137,1,0,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249192,4,0,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,244713,20,6,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,262311,4,0,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,263151,0,1,0
+16-09-2025,Uttarakhand,Uttarkashi,249141,1,0,0
+18-09-2025,Uttarakhand,Almora,263601,3,0,0
+18-09-2025,Uttarakhand,Almora,263622,2,0,0
+18-09-2025,Uttarakhand,Almora,263625,1,0,0
+18-09-2025,Uttarakhand,Chamoli,246401,1,0,0
+18-09-2025,Uttarakhand,Chamoli,246424,2,0,0
+18-09-2025,Uttarakhand,Chamoli,246427,2,0,0
+18-09-2025,Uttarakhand,Chamoli,246443,2,0,0
+18-09-2025,Uttarakhand,Chamoli,246444,0,1,0
+18-09-2025,Uttarakhand,Chamoli,246472,1,0,0
+18-09-2025,Uttarakhand,Champawat,262523,3,0,0
+18-09-2025,Uttarakhand,Champawat,262528,6,0,0
+18-09-2025,Uttarakhand,Dehradun,248125,3,0,0
+18-09-2025,Uttarakhand,Dehradun,248140,4,0,0
+18-09-2025,Uttarakhand,Hardwar,247667,0,1,0
+18-09-2025,Uttarakhand,Haridwar,247666,2,0,0
+18-09-2025,Uttarakhand,Haridwar,249401,4,1,0
+18-09-2025,Uttarakhand,Haridwar,249403,1,2,0
+18-09-2025,Uttarakhand,Haridwar,249407,2,0,0
+18-09-2025,Uttarakhand,Haridwar,249410,1,0,0
+18-09-2025,Uttarakhand,Nainital,263126,3,0,0
+18-09-2025,Uttarakhand,Nainital,263158,1,0,0
+18-09-2025,Uttarakhand,Pauri Garhwal,246001,2,0,0
+18-09-2025,Uttarakhand,Pauri Garhwal,246125,1,0,0
+18-09-2025,Uttarakhand,Pauri Garhwal,246149,3,0,0
+18-09-2025,Uttarakhand,Pauri Garhwal,246174,1,0,0
+18-09-2025,Uttarakhand,Pithoragarh,262576,1,0,0
+18-09-2025,Uttarakhand,Rudraprayag,246425,0,1,0
+18-09-2025,Uttarakhand,Tehri Garhwal,249181,5,0,0
+18-09-2025,Uttarakhand,Udham Singh Nagar,262308,15,6,0
+18-09-2025,Uttarakhand,Udham Singh Nagar,263153,14,1,0
+18-09-2025,Uttarakhand,Uttarkashi,249185,1,2,0
+18-09-2025,Uttarakhand,Uttarkashi,249193,3,0,0
+19-09-2025,Uttarakhand,Almora,263621,1,0,0
+19-09-2025,Uttarakhand,Almora,263623,2,0,0
+19-09-2025,Uttarakhand,Almora,263652,1,0,0
+19-09-2025,Uttarakhand,Almora,263653,1,0,0
+19-09-2025,Uttarakhand,Bageshwar,263635,2,0,0
+19-09-2025,Uttarakhand,Bageshwar,263642,4,1,0
+19-09-2025,Uttarakhand,Dehradun,248198,1,0,0
+19-09-2025,Uttarakhand,Haridwar,247656,6,2,0
+19-09-2025,Uttarakhand,Haridwar,247665,2,0,0
+19-09-2025,Uttarakhand,Haridwar,249404,1,0,0
+19-09-2025,Uttarakhand,Nainital,244715,6,5,0
+19-09-2025,Uttarakhand,Nainital,244716,0,2,0
+19-09-2025,Uttarakhand,Nainital,263126,4,0,0
+19-09-2025,Uttarakhand,Nainital,263159,1,0,0
+19-09-2025,Uttarakhand,Pauri Garhwal,246179,1,0,0
+19-09-2025,Uttarakhand,Pauri Garhwal,246285,6,0,0
+19-09-2025,Uttarakhand,Pithoragarh,262502,1,0,0
+19-09-2025,Uttarakhand,Pithoragarh,262541,1,0,0
+19-09-2025,Uttarakhand,Pithoragarh,262543,2,0,0
+19-09-2025,Uttarakhand,Rudraprayag,246439,2,0,0
+19-09-2025,Uttarakhand,Rudraprayag,246442,1,0,0
+19-09-2025,Uttarakhand,Rudraprayag,246475,2,0,0
+19-09-2025,Uttarakhand,Udham Singh Nagar,244712,5,0,0
+19-09-2025,Uttarakhand,Udham Singh Nagar,262405,9,2,0
+19-09-2025,Uttarakhand,Udham Singh Nagar,263148,3,0,0
+19-09-2025,Uttarakhand,Uttarkashi,249152,2,0,0
+19-09-2025,Uttarakhand,Uttarkashi,249165,1,0,0
+20-09-2025,Uttarakhand,Almora,263622,1,0,0
+20-09-2025,Uttarakhand,Almora,263646,1,0,0
+20-09-2025,Uttarakhand,Almora,263676,1,0,0
+20-09-2025,Uttarakhand,Champawat,262528,2,1,0
+20-09-2025,Uttarakhand,Dehradun,249204,4,0,0
+20-09-2025,Uttarakhand,Haridwar,247663,7,2,0
+20-09-2025,Uttarakhand,Nainital,263159,1,0,0
+20-09-2025,Uttarakhand,Pauri Garhwal,246001,1,0,0
+20-09-2025,Uttarakhand,Pauri Garhwal,246149,3,0,0
+20-09-2025,Uttarakhand,Pithoragarh,262521,1,0,0
+20-09-2025,Uttarakhand,Pithoragarh,262529,3,0,0
+20-09-2025,Uttarakhand,Pithoragarh,262531,1,0,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249126,5,0,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249145,1,0,0
+20-09-2025,Uttarakhand,Udham Singh Nagar,244712,4,3,0
+20-09-2025,Uttarakhand,Udham Singh Nagar,262401,8,4,0
+22-09-2025,Uttarakhand,Almora,263623,2,0,0
+22-09-2025,Uttarakhand,Bageshwar,263640,1,0,0
+22-09-2025,Uttarakhand,Bageshwar,263642,1,0,0
+22-09-2025,Uttarakhand,Chamoli,246435,2,0,0
+22-09-2025,Uttarakhand,Champawat,262523,2,0,0
+22-09-2025,Uttarakhand,Dehradun,248008,3,0,0
+22-09-2025,Uttarakhand,Dehradun,248165,1,0,0
+22-09-2025,Uttarakhand,Dehradun,248171,4,1,0
+22-09-2025,Uttarakhand,Dehradun,248179,0,1,0
+22-09-2025,Uttarakhand,Garhwal,246149,1,0,0
+22-09-2025,Uttarakhand,Hardwar,247666,1,0,0
+22-09-2025,Uttarakhand,Haridwar,247663,5,1,0
+22-09-2025,Uttarakhand,Haridwar,247666,4,1,0
+22-09-2025,Uttarakhand,Haridwar,249402,4,3,0
+22-09-2025,Uttarakhand,Haridwar,249403,1,1,0
+22-09-2025,Uttarakhand,Haridwar,249408,1,0,0
+22-09-2025,Uttarakhand,Nainital,263132,2,2,0
+22-09-2025,Uttarakhand,Nainital,263157,1,0,0
+22-09-2025,Uttarakhand,Pauri Garhwal,246149,3,0,0
+22-09-2025,Uttarakhand,Pauri Garhwal,246176,1,0,0
+22-09-2025,Uttarakhand,Pithoragarh,262521,1,0,0
+22-09-2025,Uttarakhand,Pithoragarh,262545,4,0,0
+22-09-2025,Uttarakhand,Pithoragarh,262547,1,0,0
+22-09-2025,Uttarakhand,Rudraprayag,246171,1,0,0
+22-09-2025,Uttarakhand,Rudraprayag,246475,1,0,0
+22-09-2025,Uttarakhand,Tehri Garhwal,249192,1,0,0
+22-09-2025,Uttarakhand,Udham Singh Nagar,263152,5,1,0
+22-09-2025,Uttarakhand,Udham Singh Nagar,263160,4,0,0
+22-09-2025,Uttarakhand,Uttarkashi,249135,1,0,0
+22-09-2025,Uttarakhand,Uttarkashi,249194,2,0,0
+21-09-2025,Uttarakhand,Haridwar,249404,1,0,0
+25-09-2025,Uttarakhand,Almora,263653,1,0,0
+25-09-2025,Uttarakhand,Bageshwar,263630,1,0,0
+25-09-2025,Uttarakhand,Champawat,262524,1,0,0
+25-09-2025,Uttarakhand,Champawat,262580,1,0,0
+25-09-2025,Uttarakhand,Dehradun,248001,21,8,0
+25-09-2025,Uttarakhand,Dehradun,248002,4,0,0
+25-09-2025,Uttarakhand,Dehradun,248003,1,0,0
+25-09-2025,Uttarakhand,Dehradun,248125,2,0,0
+25-09-2025,Uttarakhand,Dehradun,248145,4,0,0
+25-09-2025,Uttarakhand,Dehradun,248199,1,0,0
+25-09-2025,Uttarakhand,Haridwar,247656,5,0,0
+25-09-2025,Uttarakhand,Haridwar,247661,3,1,0
+25-09-2025,Uttarakhand,Haridwar,247664,3,2,0
+25-09-2025,Uttarakhand,Haridwar,247665,1,0,0
+25-09-2025,Uttarakhand,Haridwar,249407,0,1,0
+25-09-2025,Uttarakhand,Nainital,263134,1,0,0
+25-09-2025,Uttarakhand,Nainital,263140,1,1,0
+25-09-2025,Uttarakhand,Pauri Garhwal,246144,2,0,0
+25-09-2025,Uttarakhand,Pauri Garhwal,246166,1,0,0
+25-09-2025,Uttarakhand,Pithoragarh,262532,0,2,0
+25-09-2025,Uttarakhand,Pithoragarh,262541,2,0,0
+25-09-2025,Uttarakhand,Pithoragarh,262542,1,0,0
+25-09-2025,Uttarakhand,Rudraprayag,246475,3,0,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249122,5,0,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249155,9,0,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249165,6,1,0
+25-09-2025,Uttarakhand,Udham Singh Nagar,263151,1,0,0
+25-09-2025,Uttarakhand,Udham Singh Nagar,263153,9,1,0
+25-09-2025,Uttarakhand,Uttarkashi,249196,1,0,0
+23-09-2025,Uttarakhand,Almora,263601,5,0,0
+23-09-2025,Uttarakhand,Almora,263637,1,0,0
+23-09-2025,Uttarakhand,Bageshwar,263630,1,0,0
+23-09-2025,Uttarakhand,Bageshwar,263642,3,0,0
+23-09-2025,Uttarakhand,Chamoli,246472,1,0,0
+23-09-2025,Uttarakhand,Champawat,262527,1,0,0
+23-09-2025,Uttarakhand,Dehradun,248002,3,1,0
+23-09-2025,Uttarakhand,Dehradun,248121,5,0,0
+23-09-2025,Uttarakhand,Dehradun,248123,2,0,0
+23-09-2025,Uttarakhand,Haridwar,247664,1,0,0
+23-09-2025,Uttarakhand,Haridwar,247665,1,0,0
+23-09-2025,Uttarakhand,Haridwar,247670,2,2,0
+23-09-2025,Uttarakhand,Haridwar,249404,0,3,0
+23-09-2025,Uttarakhand,Nainital,263132,2,0,0
+23-09-2025,Uttarakhand,Nainital,263139,2,4,0
+23-09-2025,Uttarakhand,Pauri Garhwal,246121,1,0,0
+23-09-2025,Uttarakhand,Pauri Garhwal,246144,1,0,0
+23-09-2025,Uttarakhand,Pauri Garhwal,246173,2,0,0
+23-09-2025,Uttarakhand,Pithoragarh,262522,1,1,0
+23-09-2025,Uttarakhand,Rudraprayag,246141,1,0,0
+23-09-2025,Uttarakhand,Rudraprayag,246429,1,0,0
+23-09-2025,Uttarakhand,Rudraprayag,246495,1,0,0
+23-09-2025,Uttarakhand,Tehri Garhwal,249161,1,0,0
+23-09-2025,Uttarakhand,Udham Singh Nagar,262311,6,0,0
+23-09-2025,Uttarakhand,Udham Singh Nagar,263152,3,0,0
+23-09-2025,Uttarakhand,Uttarkashi,249185,2,0,0
+24-09-2025,Uttarakhand,Almora,263601,2,0,0
+24-09-2025,Uttarakhand,Almora,263628,2,0,0
+24-09-2025,Uttarakhand,Almora,263638,1,0,0
+24-09-2025,Uttarakhand,Almora,263658,1,0,0
+24-09-2025,Uttarakhand,Chamoli,246441,1,0,0
+24-09-2025,Uttarakhand,Chamoli,246488,1,0,0
+24-09-2025,Uttarakhand,Dehradun,248008,1,0,0
+24-09-2025,Uttarakhand,Dehradun,248198,2,0,0
+24-09-2025,Uttarakhand,Haridwar,247656,2,0,0
+24-09-2025,Uttarakhand,Haridwar,247665,2,1,0
+24-09-2025,Uttarakhand,Haridwar,249403,2,4,0
+24-09-2025,Uttarakhand,Haridwar,249408,2,1,0
+24-09-2025,Uttarakhand,Nainital,244715,4,2,0
+24-09-2025,Uttarakhand,Nainital,263139,8,1,0
+24-09-2025,Uttarakhand,Nainital,263159,2,0,0
+24-09-2025,Uttarakhand,Pauri Garhwal,246155,1,0,0
+24-09-2025,Uttarakhand,Pauri Garhwal,246193,1,0,0
+24-09-2025,Uttarakhand,Pauri Garhwal,246285,3,0,0
+24-09-2025,Uttarakhand,Pithoragarh,262521,1,0,0
+24-09-2025,Uttarakhand,Pithoragarh,262531,1,0,0
+24-09-2025,Uttarakhand,Pithoragarh,262534,1,0,0
+24-09-2025,Uttarakhand,Pithoragarh,262547,1,1,0
+24-09-2025,Uttarakhand,Pithoragarh,262553,0,1,0
+24-09-2025,Uttarakhand,Rudraprayag,246439,2,0,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249001,1,0,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249137,1,0,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249180,4,0,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249181,4,0,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,244712,6,1,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,263145,1,0,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,263146,1,0,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,263160,5,0,0
+27-09-2025,Uttarakhand,Chamoli,246424,1,0,0
+27-09-2025,Uttarakhand,Champawat,262309,1,0,0
+27-09-2025,Uttarakhand,Champawat,262524,1,0,0
+27-09-2025,Uttarakhand,Champawat,262528,1,0,0
+27-09-2025,Uttarakhand,Dehradun,248121,1,0,0
+27-09-2025,Uttarakhand,Dehradun,248143,1,0,0
+27-09-2025,Uttarakhand,Dehradun,248145,1,0,0
+27-09-2025,Uttarakhand,Dehradun,249204,1,0,0
+27-09-2025,Uttarakhand,Haridwar,247661,1,0,0
+27-09-2025,Uttarakhand,Haridwar,247663,1,1,0
+27-09-2025,Uttarakhand,Haridwar,247670,0,1,0
+27-09-2025,Uttarakhand,Rudraprayag,246425,2,0,0
+27-09-2025,Uttarakhand,Udham Singh Nagar,244712,2,0,0
+27-09-2025,Uttarakhand,Uttarkashi,249193,1,0,0
+28-09-2025,Uttarakhand,Almora,263665,1,0,0
+28-09-2025,Uttarakhand,Dehradun,248001,3,0,0
+28-09-2025,Uttarakhand,Dehradun,248121,1,0,0
+28-09-2025,Uttarakhand,Haridwar,247665,2,0,0
+28-09-2025,Uttarakhand,Udham Singh Nagar,244712,1,0,0
+26-09-2025,Uttarakhand,Almora,263645,1,0,0
+26-09-2025,Uttarakhand,Almora,263651,2,0,0
+26-09-2025,Uttarakhand,Bageshwar,263641,1,0,0
+26-09-2025,Uttarakhand,Chamoli,246453,1,1,0
+26-09-2025,Uttarakhand,Chamoli,246487,2,0,0
+26-09-2025,Uttarakhand,Champawat,262528,3,0,0
+26-09-2025,Uttarakhand,Dehradun,248003,1,0,0
+26-09-2025,Uttarakhand,Dehradun,248005,1,0,0
+26-09-2025,Uttarakhand,Dehradun,248143,2,0,0
+26-09-2025,Uttarakhand,Dehradun,248197,9,0,0
+26-09-2025,Uttarakhand,Dehradun,249202,2,0,0
+26-09-2025,Uttarakhand,Haridwar,247662,1,0,0
+26-09-2025,Uttarakhand,Haridwar,249401,1,1,0
+26-09-2025,Uttarakhand,Haridwar,249407,5,0,0
+26-09-2025,Uttarakhand,Nainital,263159,1,0,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246001,2,0,0
+26-09-2025,Uttarakhand,Pithoragarh,262521,1,0,0
+26-09-2025,Uttarakhand,Pithoragarh,262543,1,0,0
+26-09-2025,Uttarakhand,Pithoragarh,262551,1,0,0
+26-09-2025,Uttarakhand,Rudraprayag,246475,2,0,0
+26-09-2025,Uttarakhand,Tehri Garhwal,249123,1,0,0
+26-09-2025,Uttarakhand,Tehri Garhwal,249155,1,0,0
+26-09-2025,Uttarakhand,Tehri Garhwal,249186,2,0,0
+26-09-2025,Uttarakhand,Udham Singh Nagar,244712,1,2,0
+26-09-2025,Uttarakhand,Udham Singh Nagar,244713,12,5,0
+26-09-2025,Uttarakhand,Udham Singh Nagar,262311,2,0,0
+29-09-2025,Uttarakhand,Dehradun,248121,2,0,0
+29-09-2025,Uttarakhand,Haridwar,247656,1,0,0
+29-09-2025,Uttarakhand,Haridwar,247667,2,0,0
+29-09-2025,Uttarakhand,Nainital,244715,1,1,0
+29-09-2025,Uttarakhand,Nainital,263136,1,0,0
+29-09-2025,Uttarakhand,Nainital,263140,0,1,0
+29-09-2025,Uttarakhand,Pauri Garhwal,246167,1,0,0
+29-09-2025,Uttarakhand,Pauri Garhwal,246285,1,0,0
+29-09-2025,Uttarakhand,Pithoragarh,262532,1,0,0
+29-09-2025,Uttarakhand,Udham Singh Nagar,244712,1,0,0
+29-09-2025,Uttarakhand,Udham Singh Nagar,263152,0,1,0
+30-09-2025,Uttarakhand,Haridwar,249404,1,0,0
+30-09-2025,Uttarakhand,Pauri Garhwal,246279,1,0,0
+30-09-2025,Uttarakhand,Pauri Garhwal,246285,2,0,0
+30-09-2025,Uttarakhand,Tehri Garhwal,249122,1,0,0
+13-10-2025,Uttarakhand,Chamoli,246401,1,0,0
+13-10-2025,Uttarakhand,Chamoli,246426,1,0,0
+13-10-2025,Uttarakhand,Chamoli,246427,2,0,0
+13-10-2025,Uttarakhand,Chamoli,246428,1,0,0
+13-10-2025,Uttarakhand,Dehradun,248002,1,1,0
+13-10-2025,Uttarakhand,Dehradun,248005,4,0,0
+13-10-2025,Uttarakhand,Dehradun,248011,2,0,0
+13-10-2025,Uttarakhand,Dehradun,248159,1,0,0
+13-10-2025,Uttarakhand,Garhwal,246149,2,0,0
+13-10-2025,Uttarakhand,Haridwar,246763,1,0,0
+13-10-2025,Uttarakhand,Haridwar,247667,13,1,0
+13-10-2025,Uttarakhand,Haridwar,249403,0,2,0
+13-10-2025,Uttarakhand,Haridwar,249404,2,0,0
+13-10-2025,Uttarakhand,Nainital,263002,1,0,0
+13-10-2025,Uttarakhand,Nainital,263138,1,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246169,2,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246285,1,1,0
+13-10-2025,Uttarakhand,Pithoragarh,262530,1,0,0
+13-10-2025,Uttarakhand,Rudraprayag,246141,4,0,0
+13-10-2025,Uttarakhand,Rudraprayag,246475,1,1,0
+13-10-2025,Uttarakhand,Tehri Garhwal,249155,4,1,0
+13-10-2025,Uttarakhand,Tehri Garhwal,249165,3,0,0
+13-10-2025,Uttarakhand,Udham Singh Nagar,263149,1,0,0
+13-10-2025,Uttarakhand,Uttarkashi,249152,1,0,0
+16-10-2025,Uttarakhand,Almora,263664,1,0,0
+16-10-2025,Uttarakhand,Bageshwar,263634,1,0,0
+16-10-2025,Uttarakhand,Dehradun,248002,2,0,0
+16-10-2025,Uttarakhand,Dehradun,248142,2,1,0
+16-10-2025,Uttarakhand,Dehradun,248195,1,0,0
+16-10-2025,Uttarakhand,Dehradun,248197,2,1,0
+16-10-2025,Uttarakhand,Haridwar,247661,3,2,0
+16-10-2025,Uttarakhand,Haridwar,249402,4,3,0
+16-10-2025,Uttarakhand,Nainital,262402,2,0,0
+16-10-2025,Uttarakhand,Nainital,263136,1,0,0
+16-10-2025,Uttarakhand,Nainital,263139,13,3,0
+16-10-2025,Uttarakhand,Pauri Garhwal,246174,2,0,0
+16-10-2025,Uttarakhand,Pauri Garhwal,246176,1,0,0
+16-10-2025,Uttarakhand,Pithoragarh,262522,3,0,0
+16-10-2025,Uttarakhand,Pithoragarh,262551,2,1,0
+16-10-2025,Uttarakhand,Pithoragarh,262576,1,0,0
+16-10-2025,Uttarakhand,Rudraprayag,246419,4,0,0
+15-10-2025,Uttarakhand,Almora,263625,2,0,0
+15-10-2025,Uttarakhand,Almora,263645,1,0,0
+15-10-2025,Uttarakhand,Bageshwar,263619,1,0,0
+15-10-2025,Uttarakhand,Chamoli,246431,0,1,0
+15-10-2025,Uttarakhand,Chamoli,246444,1,0,0
+15-10-2025,Uttarakhand,Chamoli,246446,1,0,0
+15-10-2025,Uttarakhand,Champawat,262523,2,0,0
+15-10-2025,Uttarakhand,Champawat,262527,1,0,0
+15-10-2025,Uttarakhand,Dehradun,248005,1,1,0
+15-10-2025,Uttarakhand,Dehradun,248123,1,1,0
+15-10-2025,Uttarakhand,Dehradun,248140,1,1,0
+15-10-2025,Uttarakhand,Dehradun,248141,2,0,0
+15-10-2025,Uttarakhand,Dehradun,248171,3,1,0
+15-10-2025,Uttarakhand,Hardwar,249407,1,0,0
+15-10-2025,Uttarakhand,Haridwar,247661,11,3,0
+15-10-2025,Uttarakhand,Haridwar,247670,3,0,0
+15-10-2025,Uttarakhand,Haridwar,249408,3,1,0
+15-10-2025,Uttarakhand,Nainital,244715,7,3,0
+15-10-2025,Uttarakhand,Nainital,263126,3,1,0
+15-10-2025,Uttarakhand,Nainital,263140,2,0,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246001,1,0,0
+15-10-2025,Uttarakhand,Rudraprayag,246171,1,1,0
+15-10-2025,Uttarakhand,Rudraprayag,246425,1,0,0
+15-10-2025,Uttarakhand,Tehri Garhwal,249001,2,0,0
+15-10-2025,Uttarakhand,Tehri Garhwal,249121,2,0,0
+15-10-2025,Uttarakhand,Udham Singh Nagar,244712,8,1,0
+15-10-2025,Uttarakhand,Udham Singh Nagar,244713,13,6,0
+15-10-2025,Uttarakhand,Uttarkashi,249152,3,0,0
+15-10-2025,Uttarakhand,Uttarkashi,249185,3,0,1
+15-10-2025,Uttarakhand,Uttarkashi,249196,3,0,0
+16-10-2025,Uttarakhand,Tehri Garhwal,249128,1,0,0
+16-10-2025,Uttarakhand,Tehri Garhwal,249131,1,0,0
+16-10-2025,Uttarakhand,Tehri Garhwal,249165,4,0,0
+16-10-2025,Uttarakhand,Tehri Garhwal,249181,1,1,0
+16-10-2025,Uttarakhand,Uttarkashi,249141,1,0,0
+17-10-2025,Uttarakhand,Almora,263621,1,0,0
+17-10-2025,Uttarakhand,Almora,263622,3,0,0
+17-10-2025,Uttarakhand,Almora,263637,6,0,0
+17-10-2025,Uttarakhand,Almora,263663,1,0,0
+17-10-2025,Uttarakhand,Bageshwar,263619,1,0,0
+17-10-2025,Uttarakhand,Bageshwar,263639,1,0,0
+17-10-2025,Uttarakhand,Bageshwar,263641,1,0,0
+17-10-2025,Uttarakhand,Chamoli,246455,4,0,0
+17-10-2025,Uttarakhand,Chamoli,246472,2,0,0
+17-10-2025,Uttarakhand,Chamoli,246488,3,0,0
+17-10-2025,Uttarakhand,Dehradun,248001,35,12,0
+17-10-2025,Uttarakhand,Dehradun,248005,4,0,0
+17-10-2025,Uttarakhand,Dehradun,248008,4,0,0
+17-10-2025,Uttarakhand,Dehradun,248009,1,0,0
+17-10-2025,Uttarakhand,Dehradun,248124,1,0,0
+17-10-2025,Uttarakhand,Dehradun,248142,4,0,0
+17-10-2025,Uttarakhand,Dehradun,248165,1,0,0
+17-10-2025,Uttarakhand,Dehradun,248197,17,2,0
+17-10-2025,Uttarakhand,Dehradun,249201,5,1,0
+17-10-2025,Uttarakhand,Hardwar,247670,1,0,0
+17-10-2025,Uttarakhand,Haridwar,247661,13,5,0
+17-10-2025,Uttarakhand,Haridwar,247663,19,5,0
+17-10-2025,Uttarakhand,Haridwar,247664,1,0,0
+17-10-2025,Uttarakhand,Haridwar,247670,4,0,0
+17-10-2025,Uttarakhand,Haridwar,249404,3,1,0
+17-10-2025,Uttarakhand,Haridwar,249407,10,3,0
+17-10-2025,Uttarakhand,Nainital,244716,0,1,0
+17-10-2025,Uttarakhand,Nainital,263002,1,0,0
+17-10-2025,Uttarakhand,Nainital,263126,5,1,0
+17-10-2025,Uttarakhand,Nainital,263135,2,0,0
+17-10-2025,Uttarakhand,Nainital,263136,3,0,0
+17-10-2025,Uttarakhand,Nainital,263141,1,0,0
+17-10-2025,Uttarakhand,Nainital,263157,1,2,0
+17-10-2025,Uttarakhand,Nainital,263158,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246129,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246159,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246174,3,1,1
+17-10-2025,Uttarakhand,Pithoragarh,262502,1,0,0
+17-10-2025,Uttarakhand,Pithoragarh,262533,1,0,0
+17-10-2025,Uttarakhand,Rudraprayag,246421,2,1,0
+17-10-2025,Uttarakhand,Rudraprayag,246429,2,0,0
+17-10-2025,Uttarakhand,Rudraprayag,246439,6,0,0
+17-10-2025,Uttarakhand,Rudraprayag,246442,2,0,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249125,1,0,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249181,5,0,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249192,2,2,0
+17-10-2025,Uttarakhand,Udham Singh Nagar,244713,29,7,0
+17-10-2025,Uttarakhand,Uttarkashi,249196,4,0,0
+20-03-2025,Uttarakhand,Nainital,263139,46,18,11
+20-03-2025,Uttarakhand,Dehradun,248001,123,43,10
+01-05-2025,Uttarakhand,Dehradun,248001,477,135,12
+02-09-2025,Uttarakhand,Almora,263645,2,0,0
+02-09-2025,Uttarakhand,Almora,263652,1,0,0
+02-09-2025,Uttarakhand,Almora,263653,0,1,0
+02-09-2025,Uttarakhand,Almora,263676,1,0,0
+02-09-2025,Uttarakhand,Bageshwar,263631,2,0,0
+02-09-2025,Uttarakhand,Bageshwar,263634,1,0,0
+02-09-2025,Uttarakhand,Chamoli,246427,0,1,0
+02-09-2025,Uttarakhand,Chamoli,246473,1,0,0
+02-09-2025,Uttarakhand,Haridwar,246763,1,0,0
+02-09-2025,Uttarakhand,Haridwar,247663,3,2,0
+02-09-2025,Uttarakhand,Haridwar,249407,2,0,0
+02-09-2025,Uttarakhand,Haridwar,249408,1,1,0
+02-09-2025,Uttarakhand,Pauri Garhwal,246172,1,0,0
+02-09-2025,Uttarakhand,Pauri Garhwal,246176,1,0,0
+02-09-2025,Uttarakhand,Rudraprayag,246141,1,0,0
+02-09-2025,Uttarakhand,Rudraprayag,246421,1,0,0
+02-09-2025,Uttarakhand,Tehri Garhwal,249001,4,0,0
+02-09-2025,Uttarakhand,Tehri Garhwal,249145,1,1,0
+02-09-2025,Uttarakhand,Udham Singh Nagar,262405,1,0,0
+02-09-2025,Uttarakhand,Udham Singh Nagar,263152,7,1,0
+03-09-2025,Uttarakhand,Almora,263636,1,0,0
+03-09-2025,Uttarakhand,Almora,263652,1,0,0
+03-09-2025,Uttarakhand,Almora,263656,1,0,0
+03-09-2025,Uttarakhand,Bageshwar,263619,1,0,0
+03-09-2025,Uttarakhand,Bageshwar,263641,1,0,0
+03-09-2025,Uttarakhand,Bageshwar,263642,1,0,0
+03-09-2025,Uttarakhand,Chamoli,246428,1,0,0
+03-09-2025,Uttarakhand,Chamoli,246444,1,0,0
+03-09-2025,Uttarakhand,Chamoli,246473,1,0,0
+03-09-2025,Uttarakhand,Champawat,262580,3,0,0
+03-09-2025,Uttarakhand,Dehradun,248003,3,0,0
+03-09-2025,Uttarakhand,Dehradun,248142,6,1,0
+03-09-2025,Uttarakhand,Dehradun,248143,1,0,0
+03-09-2025,Uttarakhand,Dehradun,248145,1,0,0
+03-09-2025,Uttarakhand,Dehradun,249201,1,0,0
+03-09-2025,Uttarakhand,Haridwar,247663,15,3,0
+03-09-2025,Uttarakhand,Haridwar,247664,1,0,0
+03-09-2025,Uttarakhand,Haridwar,247665,1,1,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246001,1,0,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246123,4,0,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246147,0,1,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246149,7,0,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246277,0,1,0
+03-09-2025,Uttarakhand,Pithoragarh,262501,3,0,0
+03-09-2025,Uttarakhand,Pithoragarh,262531,1,1,0
+03-09-2025,Uttarakhand,Pithoragarh,262532,1,0,0
+03-09-2025,Uttarakhand,Pithoragarh,262552,1,0,0
+03-09-2025,Uttarakhand,Rudraprayag,246141,1,0,0
+03-09-2025,Uttarakhand,Tehri Garhwal,249161,4,0,0
+03-09-2025,Uttarakhand,Tehri Garhwal,249165,1,1,0
+03-09-2025,Uttarakhand,Tehri Garhwal,249199,1,1,0
+03-09-2025,Uttarakhand,Udham Singh Nagar,244712,3,0,0
+03-09-2025,Uttarakhand,Udham Singh Nagar,262405,10,0,0
+03-09-2025,Uttarakhand,Uttarkashi,249135,1,1,0
+03-09-2025,Uttarakhand,Uttarkashi,249196,1,0,0
+01-09-2025,Uttarakhand,Chamoli,246424,4,0,0
+01-09-2025,Uttarakhand,Dehradun,248123,3,2,0
+01-09-2025,Uttarakhand,Haridwar,247665,0,2,0
+01-09-2025,Uttarakhand,Haridwar,247667,3,4,0
+01-09-2025,Uttarakhand,Haridwar,249407,3,1,0
+01-09-2025,Uttarakhand,Pauri Garhwal,246124,1,0,0
+01-09-2025,Uttarakhand,Pauri Garhwal,246149,1,1,0
+01-09-2025,Uttarakhand,Pauri Garhwal,246155,4,0,0
+01-09-2025,Uttarakhand,Pauri Garhwal,246169,2,0,0
+01-09-2025,Uttarakhand,Pauri Garhwal,246285,2,0,0
+01-09-2025,Uttarakhand,Pithoragarh,262543,2,0,0
+01-09-2025,Uttarakhand,Rudraprayag,246171,1,0,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249137,1,0,0
+01-09-2025,Uttarakhand,Udham Singh Nagar,262311,1,0,0
+01-09-2025,Uttarakhand,Udham Singh Nagar,262401,4,0,0
+01-09-2025,Uttarakhand,Udham Singh Nagar,263146,1,0,0
+01-09-2025,Uttarakhand,Udham Singh Nagar,263148,3,0,0
+01-09-2025,Uttarakhand,Uttarkashi,249141,1,0,0
+06-09-2025,Uttarakhand,Almora,263623,1,0,0
+06-09-2025,Uttarakhand,Almora,263636,1,0,0
+06-09-2025,Uttarakhand,Almora,263653,1,0,0
+06-09-2025,Uttarakhand,Almora,263656,2,0,0
+06-09-2025,Uttarakhand,Almora,263659,2,0,0
+06-09-2025,Uttarakhand,Bageshwar,263631,0,1,0
+06-09-2025,Uttarakhand,Chamoli,246424,1,0,0
+06-09-2025,Uttarakhand,Chamoli,246483,2,0,0
+06-09-2025,Uttarakhand,Champawat,262580,1,0,0
+06-09-2025,Uttarakhand,Dehradun,248008,5,1,0
+06-09-2025,Uttarakhand,Dehradun,248121,3,0,0
+06-09-2025,Uttarakhand,Haridwar,247661,4,2,0
+06-09-2025,Uttarakhand,Nainital,244715,5,1,0
+06-09-2025,Uttarakhand,Nainital,244716,1,0,0
+06-09-2025,Uttarakhand,Nainital,263002,1,0,0
+06-09-2025,Uttarakhand,Nainital,263135,3,0,0
+06-09-2025,Uttarakhand,Nainital,263139,19,6,0
+06-09-2025,Uttarakhand,Nainital,263158,1,0,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246127,1,0,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246161,1,0,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246169,1,0,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246276,5,0,0
+06-09-2025,Uttarakhand,Rudraprayag,246471,0,1,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249125,2,0,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249132,4,0,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249146,3,0,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249161,1,0,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249165,5,0,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249192,2,0,0
+06-09-2025,Uttarakhand,Udham Singh Nagar,244713,16,2,0
+06-09-2025,Uttarakhand,Udham Singh Nagar,244717,1,0,0
+06-09-2025,Uttarakhand,Udham Singh Nagar,262311,1,1,0
+06-09-2025,Uttarakhand,Udham Singh Nagar,262405,3,1,0
+04-09-2025,Uttarakhand,Almora,263601,2,1,0
+04-09-2025,Uttarakhand,Almora,263645,1,0,0
+04-09-2025,Uttarakhand,Almora,263652,1,1,0
+04-09-2025,Uttarakhand,Bageshwar,263619,2,0,0
+04-09-2025,Uttarakhand,Bageshwar,263635,3,0,0
+04-09-2025,Uttarakhand,Chamoli,246482,1,0,0
+04-09-2025,Uttarakhand,Champawat,262309,3,0,0
+04-09-2025,Uttarakhand,Dehradun,248007,5,0,0
+04-09-2025,Uttarakhand,Dehradun,248008,7,0,0
+04-09-2025,Uttarakhand,Dehradun,248124,2,0,0
+04-09-2025,Uttarakhand,Dehradun,248140,5,0,0
+04-09-2025,Uttarakhand,Dehradun,248171,1,0,0
+04-09-2025,Uttarakhand,Garhwal,246155,1,0,0
+04-09-2025,Uttarakhand,Haridwar,247656,2,0,0
+04-09-2025,Uttarakhand,Haridwar,247666,0,1,0
+04-09-2025,Uttarakhand,Haridwar,249402,9,4,0
+04-09-2025,Uttarakhand,Nainital,263134,3,0,0
+04-09-2025,Uttarakhand,Nainital,263139,16,5,0
+04-09-2025,Uttarakhand,Nainital,263158,3,0,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246149,5,0,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246173,1,0,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246179,1,2,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246285,1,0,0
+04-09-2025,Uttarakhand,Pithoragarh,262501,2,0,0
+04-09-2025,Uttarakhand,Rudraprayag,246171,1,1,0
+04-09-2025,Uttarakhand,Rudraprayag,246469,1,0,0
+04-09-2025,Uttarakhand,Tehri Garhwal,249130,2,0,0
+04-09-2025,Uttarakhand,Tehri Garhwal,249155,4,3,0
+04-09-2025,Uttarakhand,Udham Singh Nagar,262308,4,0,0
+04-09-2025,Uttarakhand,Udham Singh Nagar,262311,4,0,0
+04-09-2025,Uttarakhand,Udham Singh Nagar,263160,6,0,0
+04-09-2025,Uttarakhand,Uttarkashi,249151,0,1,0
+04-09-2025,Uttarakhand,Uttarkashi,249165,1,0,0
+04-09-2025,Uttarakhand,Uttarkashi,249185,4,0,0
+05-09-2025,Uttarakhand,Bageshwar,263633,1,0,0
+05-09-2025,Uttarakhand,Bageshwar,263634,1,0,0
+05-09-2025,Uttarakhand,Bageshwar,263635,1,0,0
+05-09-2025,Uttarakhand,Dehradun,248002,5,1,0
+05-09-2025,Uttarakhand,Dehradun,248007,3,0,0
+05-09-2025,Uttarakhand,Dehradun,248008,4,0,0
+05-09-2025,Uttarakhand,Dehradun,248125,0,1,0
+05-09-2025,Uttarakhand,Dehradun,248140,10,0,0
+05-09-2025,Uttarakhand,Dehradun,248199,1,0,0
+05-09-2025,Uttarakhand,Hardwar,249402,0,1,0
+05-09-2025,Uttarakhand,Haridwar,247667,1,1,0
+05-09-2025,Uttarakhand,Pauri Garhwal,246128,1,0,0
+05-09-2025,Uttarakhand,Pauri Garhwal,246166,1,0,0
+05-09-2025,Uttarakhand,Rudraprayag,246171,1,0,0
+09-09-2025,Uttarakhand,Almora,263621,3,0,0
+09-09-2025,Uttarakhand,Almora,263651,1,0,0
+09-09-2025,Uttarakhand,Almora,263653,1,0,0
+09-09-2025,Uttarakhand,Almora,263659,1,0,0
+09-09-2025,Uttarakhand,Bageshwar,263630,5,0,0
+09-09-2025,Uttarakhand,Bageshwar,263641,2,0,0
+09-09-2025,Uttarakhand,Chamoli,246435,1,0,0
+09-09-2025,Uttarakhand,Chamoli,246444,1,0,0
+09-09-2025,Uttarakhand,Chamoli,246483,0,1,0
+09-09-2025,Uttarakhand,Dehradun,248002,3,0,0
+09-09-2025,Uttarakhand,Dehradun,248007,6,2,0
+09-09-2025,Uttarakhand,Dehradun,248140,9,0,0
+09-09-2025,Uttarakhand,Dehradun,248142,3,0,0
+09-09-2025,Uttarakhand,Dehradun,248171,7,1,0
+09-09-2025,Uttarakhand,Dehradun,249205,1,1,0
+09-09-2025,Uttarakhand,Garhwal,246149,2,0,0
+09-09-2025,Uttarakhand,Haridwar,249401,0,1,0
+09-09-2025,Uttarakhand,Haridwar,249403,3,2,0
+09-09-2025,Uttarakhand,Haridwar,249408,3,2,1
+09-09-2025,Uttarakhand,Nainital,244713,2,1,0
+09-09-2025,Uttarakhand,Nainital,263126,7,1,0
+09-09-2025,Uttarakhand,Nainital,263140,3,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246121,1,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246159,1,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246174,1,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246179,1,0,0
+09-09-2025,Uttarakhand,Pithoragarh,262530,1,0,0
+09-09-2025,Uttarakhand,Pithoragarh,262533,1,0,0
+09-09-2025,Uttarakhand,Pithoragarh,262555,1,0,0
+09-09-2025,Uttarakhand,Rudraprayag,246425,2,0,0
+09-09-2025,Uttarakhand,Rudraprayag,246469,4,0,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,244717,1,0,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,263151,2,0,0
+09-09-2025,Uttarakhand,Uttarkashi,249141,2,0,0
+09-09-2025,Uttarakhand,Uttarkashi,249171,4,1,1
+09-09-2025,Uttarakhand,Uttarkashi,249185,3,3,0
+08-09-2025,Uttarakhand,Almora,263622,2,0,0
+08-09-2025,Uttarakhand,Almora,263626,1,0,0
+08-09-2025,Uttarakhand,Almora,263628,1,0,0
+08-09-2025,Uttarakhand,Almora,263639,1,0,0
+08-09-2025,Uttarakhand,Bageshwar,263619,1,0,0
+08-09-2025,Uttarakhand,Bageshwar,263634,1,0,0
+08-09-2025,Uttarakhand,Bageshwar,263641,2,0,0
+08-09-2025,Uttarakhand,Bageshwar,263679,2,0,0
+08-09-2025,Uttarakhand,Chamoli,246440,1,0,0
+08-09-2025,Uttarakhand,Chamoli,246455,1,0,0
+08-09-2025,Uttarakhand,Dehradun,248009,2,0,1
+08-09-2025,Uttarakhand,Dehradun,248122,1,0,0
+08-09-2025,Uttarakhand,Dehradun,248123,1,1,0
+08-09-2025,Uttarakhand,Dehradun,248141,1,0,0
+08-09-2025,Uttarakhand,Dehradun,248158,3,1,0
+08-09-2025,Uttarakhand,Dehradun,248198,2,0,0
+08-09-2025,Uttarakhand,Haridwar,247656,9,1,0
+08-09-2025,Uttarakhand,Haridwar,247662,2,1,0
+08-09-2025,Uttarakhand,Haridwar,247667,11,3,0
+08-09-2025,Uttarakhand,Haridwar,247670,2,0,0
+08-09-2025,Uttarakhand,Haridwar,249401,2,0,0
+08-09-2025,Uttarakhand,Nainital,244715,5,1,0
+08-09-2025,Uttarakhand,Nainital,244716,1,0,0
+08-09-2025,Uttarakhand,Nainital,262402,4,0,0
+08-09-2025,Uttarakhand,Nainital,263132,5,0,0
+08-09-2025,Uttarakhand,Nainital,263135,3,0,0
+08-09-2025,Uttarakhand,Nainital,263138,1,1,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246123,1,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246127,1,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246131,1,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246155,2,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246169,0,1,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246174,1,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246275,1,2,0
+08-09-2025,Uttarakhand,Pithoragarh,262542,1,0,0
+08-09-2025,Uttarakhand,Pithoragarh,262543,0,1,0
+08-09-2025,Uttarakhand,Pithoragarh,262552,8,1,0
+08-09-2025,Uttarakhand,Pithoragarh,262555,1,0,0
+08-09-2025,Uttarakhand,Rudraprayag,246421,1,0,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249001,1,0,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249137,2,0,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249146,1,1,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249180,8,0,0
+08-09-2025,Uttarakhand,Uttarkashi,249185,4,2,0
+07-09-2025,Uttarakhand,Dehradun,248002,2,0,0
+07-09-2025,Uttarakhand,Dehradun,248006,0,1,0
+07-09-2025,Uttarakhand,Dehradun,248124,0,1,0
+07-09-2025,Uttarakhand,Dehradun,248171,2,0,0
+07-09-2025,Uttarakhand,Dehradun,248197,2,0,0
+07-09-2025,Uttarakhand,Haridwar,247667,4,0,0
+07-09-2025,Uttarakhand,Nainital,263126,1,0,0
+07-09-2025,Uttarakhand,Pithoragarh,262552,1,0,0
+07-09-2025,Uttarakhand,Tehri Garhwal,249145,2,0,0
+11-09-2025,Uttarakhand,Almora,263623,1,0,0
+11-09-2025,Uttarakhand,Almora,263656,1,0,0
+11-09-2025,Uttarakhand,Bageshwar,263639,1,0,0
+11-09-2025,Uttarakhand,Bageshwar,263640,2,0,0
+11-09-2025,Uttarakhand,Bageshwar,263642,1,0,0
+11-09-2025,Uttarakhand,Chamoli,246435,1,0,0
+11-09-2025,Uttarakhand,Chamoli,246444,5,0,0
+11-09-2025,Uttarakhand,Chamoli,246449,3,1,0
+11-09-2025,Uttarakhand,Chamoli,246472,1,0,0
+11-09-2025,Uttarakhand,Dehradun,248009,1,0,0
+11-09-2025,Uttarakhand,Dehradun,248121,0,2,0
+11-09-2025,Uttarakhand,Dehradun,248145,1,0,0
+11-09-2025,Uttarakhand,Dehradun,248195,1,0,0
+11-09-2025,Uttarakhand,Garhwal,246174,1,0,0
+11-09-2025,Uttarakhand,Haridwar,247661,6,2,0
+11-09-2025,Uttarakhand,Haridwar,247667,7,5,1
+11-09-2025,Uttarakhand,Haridwar,249401,1,1,0
+11-09-2025,Uttarakhand,Haridwar,249402,11,1,0
+11-09-2025,Uttarakhand,Nainital,262402,1,1,0
+11-09-2025,Uttarakhand,Nainital,263134,1,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246127,1,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246144,1,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246161,1,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246275,1,1,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246285,4,0,0
+11-09-2025,Uttarakhand,Pithoragarh,262552,3,0,0
+11-09-2025,Uttarakhand,Rudraprayag,246171,2,0,0
+11-09-2025,Uttarakhand,Rudraprayag,246442,1,0,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249181,1,0,0
+11-09-2025,Uttarakhand,Udham Singh Nagar,262405,8,0,0
+11-09-2025,Uttarakhand,Udham Singh Nagar,263151,1,0,0
+11-09-2025,Uttarakhand,Udham Singh Nagar,263160,7,0,0
+10-09-2025,Uttarakhand,Almora,263637,1,0,0
+10-09-2025,Uttarakhand,Almora,263653,3,0,0
+10-09-2025,Uttarakhand,Almora,263676,1,0,0
+10-09-2025,Uttarakhand,Bageshwar,263633,1,0,0
+10-09-2025,Uttarakhand,Bageshwar,263634,1,0,0
+10-09-2025,Uttarakhand,Bageshwar,263642,4,1,0
+10-09-2025,Uttarakhand,Chamoli,246424,4,0,0
+10-09-2025,Uttarakhand,Chamoli,246429,1,0,0
+10-09-2025,Uttarakhand,Chamoli,246440,1,0,0
+10-09-2025,Uttarakhand,Chamoli,246443,1,0,0
+10-09-2025,Uttarakhand,Chamoli,246473,5,0,0
+10-09-2025,Uttarakhand,Champawat,262309,1,0,0
+10-09-2025,Uttarakhand,Champawat,262310,6,0,0
+10-09-2025,Uttarakhand,Champawat,262525,2,0,0
+10-09-2025,Uttarakhand,Dehradun,248007,8,2,0
+10-09-2025,Uttarakhand,Dehradun,248140,6,1,0
+10-09-2025,Uttarakhand,Dehradun,248199,3,0,0
+10-09-2025,Uttarakhand,Dehradun,249202,1,0,0
+10-09-2025,Uttarakhand,Hardwar,247667,1,2,0
+10-09-2025,Uttarakhand,Haridwar,247670,3,1,0
+10-09-2025,Uttarakhand,Haridwar,249408,3,2,0
+10-09-2025,Uttarakhand,Haridwar,249410,1,0,0
+10-09-2025,Uttarakhand,Nainital,244716,2,0,0
+10-09-2025,Uttarakhand,Nainital,263002,1,0,0
+10-09-2025,Uttarakhand,Nainital,263126,3,0,0
+10-09-2025,Uttarakhand,Nainital,263134,4,0,0
+10-09-2025,Uttarakhand,Nainital,263135,1,0,0
+10-09-2025,Uttarakhand,Nainital,263138,1,0,0
+10-09-2025,Uttarakhand,Nainital,263140,2,0,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246147,2,0,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246165,1,0,0
+10-09-2025,Uttarakhand,Pithoragarh,262502,1,0,0
+10-09-2025,Uttarakhand,Pithoragarh,262521,3,1,0
+10-09-2025,Uttarakhand,Pithoragarh,262541,1,0,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249186,1,0,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249192,1,0,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,244716,1,0,0
+14-09-2025,Uttarakhand,Bageshwar,263641,0,1,0
+14-09-2025,Uttarakhand,Dehradun,248002,2,1,0
+14-09-2025,Uttarakhand,Dehradun,248121,1,0,0
+14-09-2025,Uttarakhand,Dehradun,248196,1,0,0
+14-09-2025,Uttarakhand,Dehradun,249201,0,1,0
+14-09-2025,Uttarakhand,Dehradun,249203,1,0,0
+14-09-2025,Uttarakhand,Haridwar,247667,1,0,0
+14-09-2025,Uttarakhand,Tehri Garhwal,249181,5,0,0
+14-09-2025,Uttarakhand,Udham Singh Nagar,244713,3,0,0
+13-09-2025,Uttarakhand,Chamoli,246455,1,1,0
+13-09-2025,Uttarakhand,Chamoli,246473,3,0,0
+13-09-2025,Uttarakhand,Dehradun,248002,2,0,0
+13-09-2025,Uttarakhand,Dehradun,248121,2,0,0
+13-09-2025,Uttarakhand,Dehradun,248140,3,1,0
+13-09-2025,Uttarakhand,Dehradun,248146,1,0,0
+13-09-2025,Uttarakhand,Dehradun,248171,10,4,0
+13-09-2025,Uttarakhand,Dehradun,248179,0,1,0
+13-09-2025,Uttarakhand,Haridwar,247662,1,0,0
+13-09-2025,Uttarakhand,Haridwar,247667,12,0,0
+13-09-2025,Uttarakhand,Nainital,263140,2,0,0
+13-09-2025,Uttarakhand,Pauri Garhwal,246179,1,0,0
+13-09-2025,Uttarakhand,Pithoragarh,262501,3,0,0
+13-09-2025,Uttarakhand,Rudraprayag,246475,4,0,0
+13-09-2025,Uttarakhand,Udham Singh Nagar,244713,2,2,0
+13-09-2025,Uttarakhand,Uttarkashi,249165,2,0,0
+12-09-2025,Uttarakhand,Almora,244715,1,0,0
+12-09-2025,Uttarakhand,Bageshwar,263635,3,1,0
+12-09-2025,Uttarakhand,Chamoli,246428,3,0,0
+12-09-2025,Uttarakhand,Chamoli,246429,1,0,0
+12-09-2025,Uttarakhand,Chamoli,246443,4,0,0
+12-09-2025,Uttarakhand,Chamoli,246444,1,0,0
+12-09-2025,Uttarakhand,Chamoli,246487,1,0,0
+12-09-2025,Uttarakhand,Champawat,262524,4,0,0
+12-09-2025,Uttarakhand,Dehradun,248002,3,1,0
+12-09-2025,Uttarakhand,Dehradun,248005,1,0,0
+12-09-2025,Uttarakhand,Dehradun,248171,1,1,0
+12-09-2025,Uttarakhand,Dehradun,248196,2,0,0
+12-09-2025,Uttarakhand,Dehradun,249201,1,0,0
+12-09-2025,Uttarakhand,Hardwar,249402,1,1,0
+12-09-2025,Uttarakhand,Haridwar,247664,3,1,0
+12-09-2025,Uttarakhand,Haridwar,247665,4,0,0
+12-09-2025,Uttarakhand,Haridwar,247667,7,1,0
+12-09-2025,Uttarakhand,Haridwar,249407,5,3,0
+12-09-2025,Uttarakhand,Haridwar,249408,1,1,0
+12-09-2025,Uttarakhand,Haridwar,249410,1,0,0
+12-09-2025,Uttarakhand,Nainital,262402,5,3,0
+12-09-2025,Uttarakhand,Nainital,263134,2,0,0
+12-09-2025,Uttarakhand,Nainital,263136,1,0,0
+12-09-2025,Uttarakhand,Nainital,263157,0,1,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246123,11,0,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246279,2,0,0
+12-09-2025,Uttarakhand,Pauri Garhwal,249304,10,0,0
+12-09-2025,Uttarakhand,Pithoragarh,262531,1,0,0
+12-09-2025,Uttarakhand,Pithoragarh,262555,1,0,0
+12-09-2025,Uttarakhand,Pithoragarh,262576,1,0,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249001,1,0,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249130,2,0,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249137,1,0,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249180,2,3,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249199,1,0,0
+12-09-2025,Uttarakhand,Udham Singh Nagar,244713,17,5,0
+12-09-2025,Uttarakhand,Udham Singh Nagar,244717,1,0,0
+12-09-2025,Uttarakhand,Udham Singh Nagar,262308,10,5,0
+12-09-2025,Uttarakhand,Udham Singh Nagar,263153,17,7,0
+12-09-2025,Uttarakhand,Uttarkashi,249185,3,4,0
+15-09-2025,Uttarakhand,Almora,263653,0,1,0
+15-09-2025,Uttarakhand,Chamoli,246435,1,0,0
+15-09-2025,Uttarakhand,Chamoli,246482,1,0,0
+15-09-2025,Uttarakhand,Chamoli,246488,1,0,0
+15-09-2025,Uttarakhand,Champawat,262310,1,0,0
+15-09-2025,Uttarakhand,Dehradun,248140,6,0,0
+15-09-2025,Uttarakhand,Dehradun,248158,1,0,0
+15-09-2025,Uttarakhand,Dehradun,248171,9,0,0
+15-09-2025,Uttarakhand,Dehradun,248195,1,0,0
+15-09-2025,Uttarakhand,Dehradun,248197,5,1,0
+15-09-2025,Uttarakhand,Dehradun,248198,1,0,0
+15-09-2025,Uttarakhand,Haridwar,247662,3,2,0
+15-09-2025,Uttarakhand,Haridwar,247667,12,4,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246001,1,0,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246130,1,0,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246161,0,1,0
+15-09-2025,Uttarakhand,Pithoragarh,262501,1,0,0
+15-09-2025,Uttarakhand,Pithoragarh,262534,1,0,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249155,19,4,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249180,4,0,0
+15-09-2025,Uttarakhand,Uttarkashi,249171,2,0,0
+15-09-2025,Uttarakhand,Uttarkashi,249193,3,0,0
+17-09-2025,Uttarakhand,Almora,263626,1,0,0
+17-09-2025,Uttarakhand,Almora,263645,1,0,0
+17-09-2025,Uttarakhand,Almora,263652,1,0,0
+17-09-2025,Uttarakhand,Chamoli,246472,2,0,0
+17-09-2025,Uttarakhand,Champawat,262310,1,0,0
+17-09-2025,Uttarakhand,Dehradun,248003,0,1,0
+17-09-2025,Uttarakhand,Dehradun,248005,1,0,0
+17-09-2025,Uttarakhand,Dehradun,248121,1,0,0
+17-09-2025,Uttarakhand,Dehradun,248125,0,2,0
+17-09-2025,Uttarakhand,Dehradun,248140,3,1,0
+17-09-2025,Uttarakhand,Dehradun,248142,2,0,0
+17-09-2025,Uttarakhand,Garhwal,246149,0,1,0
+17-09-2025,Uttarakhand,Haridwar,247656,4,0,0
+17-09-2025,Uttarakhand,Haridwar,247665,1,0,0
+17-09-2025,Uttarakhand,Haridwar,247671,2,0,0
+17-09-2025,Uttarakhand,Haridwar,249402,1,1,0
+17-09-2025,Uttarakhand,Haridwar,249404,3,0,0
+17-09-2025,Uttarakhand,Nainital,263139,11,1,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246001,1,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246127,2,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246159,1,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246166,1,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246275,1,0,0
+17-09-2025,Uttarakhand,Rudraprayag,246475,1,1,0
+17-09-2025,Uttarakhand,Tehri Garhwal,249181,2,0,0
+17-09-2025,Uttarakhand,Tehri Garhwal,249186,1,0,0
+17-09-2025,Uttarakhand,Tehri Garhwal,249192,1,0,1
+17-09-2025,Uttarakhand,Udham Singh Nagar,263148,9,3,0
+17-09-2025,Uttarakhand,Udham Singh Nagar,263160,1,0,0
+17-09-2025,Uttarakhand,Uttarkashi,249152,1,0,0
+16-09-2025,Uttarakhand,Almora,263646,1,0,0
+16-09-2025,Uttarakhand,Almora,263653,1,0,0
+16-09-2025,Uttarakhand,Bageshwar,263633,2,1,0
+16-09-2025,Uttarakhand,Bageshwar,263642,2,0,0
+16-09-2025,Uttarakhand,Chamoli,246427,2,1,0
+16-09-2025,Uttarakhand,Chamoli,246428,3,0,0
+16-09-2025,Uttarakhand,Chamoli,246481,1,0,0
+16-09-2025,Uttarakhand,Champawat,262310,1,0,0
+16-09-2025,Uttarakhand,Dehradun,248121,1,2,0
+16-09-2025,Uttarakhand,Dehradun,248158,1,2,0
+16-09-2025,Uttarakhand,Dehradun,249205,1,0,0
+16-09-2025,Uttarakhand,Haridwar,247667,11,6,0
+16-09-2025,Uttarakhand,Haridwar,249401,1,0,0
+16-09-2025,Uttarakhand,Haridwar,249402,1,2,0
+16-09-2025,Uttarakhand,Haridwar,249403,0,2,0
+16-09-2025,Uttarakhand,Haridwar,249404,3,0,0
+16-09-2025,Uttarakhand,Nainital,263140,1,0,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246128,1,0,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246130,3,0,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246149,4,0,0
+16-09-2025,Uttarakhand,Pithoragarh,262501,4,0,0
+16-09-2025,Uttarakhand,Pithoragarh,262529,2,0,0
+16-09-2025,Uttarakhand,Pithoragarh,262531,2,0,0
+16-09-2025,Uttarakhand,Pithoragarh,262550,1,0,0
+16-09-2025,Uttarakhand,Rudraprayag,246439,2,0,0
+16-09-2025,Uttarakhand,Rudraprayag,246469,3,0,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,263153,9,2,0
+16-09-2025,Uttarakhand,Uttarkashi,249135,2,0,0
+19-09-2025,Uttarakhand,Almora,263601,5,1,2
+19-09-2025,Uttarakhand,Bageshwar,263634,1,1,0
+19-09-2025,Uttarakhand,Chamoli,246429,2,0,0
+19-09-2025,Uttarakhand,Champawat,262309,3,1,0
+19-09-2025,Uttarakhand,Dehradun,248001,19,1,0
+19-09-2025,Uttarakhand,Dehradun,248007,23,0,0
+19-09-2025,Uttarakhand,Dehradun,248008,2,0,0
+19-09-2025,Uttarakhand,Dehradun,248011,2,0,0
+19-09-2025,Uttarakhand,Dehradun,248125,1,0,0
+19-09-2025,Uttarakhand,Dehradun,248152,0,1,0
+19-09-2025,Uttarakhand,Dehradun,248158,3,0,0
+19-09-2025,Uttarakhand,Dehradun,248196,4,1,0
+19-09-2025,Uttarakhand,Garhwal,246149,2,0,0
+19-09-2025,Uttarakhand,Haridwar,247664,1,0,0
+19-09-2025,Uttarakhand,Haridwar,249403,2,2,0
+19-09-2025,Uttarakhand,Haridwar,249407,3,0,0
+19-09-2025,Uttarakhand,Nainital,262402,5,0,0
+19-09-2025,Uttarakhand,Nainital,263136,2,0,0
+19-09-2025,Uttarakhand,Nainital,263139,23,1,0
+19-09-2025,Uttarakhand,Pauri Garhwal,246128,1,0,0
+19-09-2025,Uttarakhand,Pithoragarh,262552,0,1,0
+19-09-2025,Uttarakhand,Pithoragarh,262555,1,0,0
+19-09-2025,Uttarakhand,Rudraprayag,246469,2,0,0
+19-09-2025,Uttarakhand,Tehri Garhwal,249137,1,0,0
+19-09-2025,Uttarakhand,Tehri Garhwal,249161,2,0,0
+19-09-2025,Uttarakhand,Udham Singh Nagar,263152,10,3,0
+19-09-2025,Uttarakhand,Uttarkashi,249171,0,1,0
+18-09-2025,Uttarakhand,Almora,263629,1,0,0
+18-09-2025,Uttarakhand,Almora,263661,0,1,0
+18-09-2025,Uttarakhand,Chamoli,246428,1,1,0
+18-09-2025,Uttarakhand,Chamoli,246440,1,0,0
+18-09-2025,Uttarakhand,Champawat,262524,3,0,0
+18-09-2025,Uttarakhand,Champawat,262580,1,0,0
+18-09-2025,Uttarakhand,Dehradun,248002,3,0,0
+18-09-2025,Uttarakhand,Dehradun,248007,5,1,0
+18-09-2025,Uttarakhand,Dehradun,248008,3,0,0
+18-09-2025,Uttarakhand,Dehradun,248121,1,0,0
+18-09-2025,Uttarakhand,Dehradun,248141,2,0,0
+18-09-2025,Uttarakhand,Dehradun,248171,9,2,0
+18-09-2025,Uttarakhand,Dehradun,248196,2,0,0
+18-09-2025,Uttarakhand,Dehradun,248197,3,0,0
+18-09-2025,Uttarakhand,Dehradun,249201,1,1,0
+18-09-2025,Uttarakhand,Dehradun,249204,5,0,0
+18-09-2025,Uttarakhand,Hardwar,249402,2,1,0
+18-09-2025,Uttarakhand,Haridwar,247664,3,0,0
+18-09-2025,Uttarakhand,Haridwar,249402,0,1,0
+18-09-2025,Uttarakhand,Haridwar,249404,1,0,0
+18-09-2025,Uttarakhand,Nainital,262402,2,0,0
+18-09-2025,Uttarakhand,Pauri Garhwal,246167,1,0,0
+18-09-2025,Uttarakhand,Pauri Garhwal,246177,1,0,0
+18-09-2025,Uttarakhand,Pauri Garhwal,246275,1,0,0
+18-09-2025,Uttarakhand,Pauri Garhwal,246277,1,0,0
+18-09-2025,Uttarakhand,Pauri Garhwal,249304,1,0,0
+18-09-2025,Uttarakhand,Pithoragarh,262522,3,0,0
+18-09-2025,Uttarakhand,Pithoragarh,262529,1,0,0
+18-09-2025,Uttarakhand,Rudraprayag,246171,2,0,0
+18-09-2025,Uttarakhand,Rudraprayag,246429,1,0,0
+18-09-2025,Uttarakhand,Tehri Garhwal,249131,2,0,0
+18-09-2025,Uttarakhand,Tehri Garhwal,249145,1,1,0
+18-09-2025,Uttarakhand,Udham Singh Nagar,244712,11,1,0
+18-09-2025,Uttarakhand,Udham Singh Nagar,262311,1,2,0
+18-09-2025,Uttarakhand,Udham Singh Nagar,262405,14,1,0
+18-09-2025,Uttarakhand,Udham Singh Nagar,263152,4,1,0
+18-09-2025,Uttarakhand,Udham Singh Nagar,263160,2,0,0
+18-09-2025,Uttarakhand,Uttarkashi,249141,3,0,0
+18-09-2025,Uttarakhand,Uttarkashi,249152,2,0,0
+22-09-2025,Uttarakhand,Almora,263645,1,0,0
+22-09-2025,Uttarakhand,Almora,263646,1,0,0
+22-09-2025,Uttarakhand,Almora,263665,1,0,0
+22-09-2025,Uttarakhand,Almora,263667,1,0,0
+22-09-2025,Uttarakhand,Bageshwar,263634,1,0,0
+22-09-2025,Uttarakhand,Bageshwar,263641,1,0,0
+22-09-2025,Uttarakhand,Chamoli,246455,1,0,0
+22-09-2025,Uttarakhand,Dehradun,248005,4,0,0
+22-09-2025,Uttarakhand,Dehradun,248007,3,0,0
+22-09-2025,Uttarakhand,Dehradun,248142,1,1,0
+22-09-2025,Uttarakhand,Dehradun,248143,1,0,0
+22-09-2025,Uttarakhand,Dehradun,248197,3,1,0
+22-09-2025,Uttarakhand,Haridwar,247668,1,0,0
+22-09-2025,Uttarakhand,Haridwar,249404,0,1,0
+22-09-2025,Uttarakhand,Nainital,263126,2,0,0
+22-09-2025,Uttarakhand,Nainital,263139,4,0,0
+22-09-2025,Uttarakhand,Nainital,263159,1,0,0
+22-09-2025,Uttarakhand,Pauri Garhwal,246123,1,0,0
+22-09-2025,Uttarakhand,Pauri Garhwal,246275,2,0,0
+22-09-2025,Uttarakhand,Pithoragarh,262531,2,0,0
+22-09-2025,Uttarakhand,Pithoragarh,262543,1,0,0
+22-09-2025,Uttarakhand,Rudraprayag,246425,1,0,0
+22-09-2025,Uttarakhand,Tehri Garhwal,249001,1,0,0
+22-09-2025,Uttarakhand,Tehri Garhwal,249165,8,1,0
+22-09-2025,Uttarakhand,Tehri Garhwal,249180,0,1,0
+22-09-2025,Uttarakhand,Udham Singh Nagar,244712,4,0,0
+22-09-2025,Uttarakhand,Udham Singh Nagar,244713,12,2,0
+22-09-2025,Uttarakhand,Udham Singh Nagar,244716,1,0,0
+22-09-2025,Uttarakhand,Udham Singh Nagar,263153,16,4,0
+22-09-2025,Uttarakhand,Uttarkashi,249151,1,0,0
+22-09-2025,Uttarakhand,Uttarkashi,249152,2,0,0
+20-09-2025,Uttarakhand,Almora,263601,0,0,1
+20-09-2025,Uttarakhand,Almora,263625,1,0,0
+20-09-2025,Uttarakhand,Almora,263680,1,0,0
+20-09-2025,Uttarakhand,Bageshwar,263634,5,0,0
+20-09-2025,Uttarakhand,Chamoli,246443,2,0,0
+20-09-2025,Uttarakhand,Dehradun,248005,3,1,0
+20-09-2025,Uttarakhand,Dehradun,248011,1,0,0
+20-09-2025,Uttarakhand,Dehradun,248013,1,0,0
+20-09-2025,Uttarakhand,Dehradun,248196,4,2,0
+20-09-2025,Uttarakhand,Dehradun,248197,5,1,0
+20-09-2025,Uttarakhand,Dehradun,248198,4,0,0
+20-09-2025,Uttarakhand,Haridwar,247664,1,0,0
+20-09-2025,Uttarakhand,Haridwar,249408,2,0,0
+20-09-2025,Uttarakhand,Nainital,262402,5,0,0
+20-09-2025,Uttarakhand,Pauri Garhwal,246179,2,0,0
+20-09-2025,Uttarakhand,Pithoragarh,262541,1,0,0
+20-09-2025,Uttarakhand,Pithoragarh,262547,0,1,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249123,1,0,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249161,2,1,0
+20-09-2025,Uttarakhand,Udham Singh Nagar,244713,10,1,0
+20-09-2025,Uttarakhand,Udham Singh Nagar,262405,3,0,0
+20-09-2025,Uttarakhand,Udham Singh Nagar,263151,1,0,0
+20-09-2025,Uttarakhand,Udham Singh Nagar,263152,2,0,0
+21-09-2025,Uttarakhand,Rudraprayag,246475,2,0,0
+21-09-2025,Uttarakhand,Tehri Garhwal,249165,1,0,0
+21-09-2025,Uttarakhand,Udham Singh Nagar,244712,0,1,0
+25-09-2025,Uttarakhand,Almora,263646,1,0,0
+25-09-2025,Uttarakhand,Bageshwar,263632,1,0,0
+25-09-2025,Uttarakhand,Bageshwar,263633,1,1,0
+25-09-2025,Uttarakhand,Bageshwar,263642,4,0,0
+25-09-2025,Uttarakhand,Champawat,262310,2,0,0
+25-09-2025,Uttarakhand,Champawat,262525,1,0,0
+25-09-2025,Uttarakhand,Dehradun,248142,2,1,0
+25-09-2025,Uttarakhand,Dehradun,248195,0,1,0
+25-09-2025,Uttarakhand,Dehradun,249201,2,0,0
+25-09-2025,Uttarakhand,Haridwar,247663,9,1,0
+25-09-2025,Uttarakhand,Haridwar,249401,1,0,0
+25-09-2025,Uttarakhand,Haridwar,249408,3,0,0
+25-09-2025,Uttarakhand,Nainital,263135,1,0,0
+25-09-2025,Uttarakhand,Nainital,263139,13,0,0
+25-09-2025,Uttarakhand,Nainital,263158,1,0,0
+25-09-2025,Uttarakhand,Pauri Garhwal,246155,1,0,0
+25-09-2025,Uttarakhand,Pauri Garhwal,246172,1,0,0
+25-09-2025,Uttarakhand,Pauri Garhwal,246193,1,0,0
+25-09-2025,Uttarakhand,Pithoragarh,262552,1,0,0
+25-09-2025,Uttarakhand,Pithoragarh,262553,4,0,0
+25-09-2025,Uttarakhand,Pithoragarh,262554,1,0,0
+25-09-2025,Uttarakhand,Pithoragarh,262555,1,1,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249161,1,1,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249192,0,1,0
+25-09-2025,Uttarakhand,Udham Singh Nagar,262405,1,0,0
+25-09-2025,Uttarakhand,Udham Singh Nagar,263152,2,0,0
+25-09-2025,Uttarakhand,Udham Singh Nagar,263160,3,0,0
+25-09-2025,Uttarakhand,Uttarkashi,249152,1,0,0
+25-09-2025,Uttarakhand,Uttarkashi,249185,3,0,0
+25-09-2025,Uttarakhand,Uttarkashi,249193,1,0,0
+24-09-2025,Uttarakhand,Almora,263625,1,1,0
+24-09-2025,Uttarakhand,Almora,263653,1,0,0
+24-09-2025,Uttarakhand,Chamoli,246401,1,0,0
+24-09-2025,Uttarakhand,Chamoli,246427,1,0,0
+24-09-2025,Uttarakhand,Chamoli,246435,1,0,0
+24-09-2025,Uttarakhand,Chamoli,246444,1,0,0
+24-09-2025,Uttarakhand,Champawat,262310,3,0,0
+24-09-2025,Uttarakhand,Champawat,262524,1,1,0
+24-09-2025,Uttarakhand,Dehradun,248140,2,1,0
+24-09-2025,Uttarakhand,Dehradun,249201,1,0,0
+24-09-2025,Uttarakhand,Haridwar,247664,1,0,0
+24-09-2025,Uttarakhand,Haridwar,247668,0,1,0
+24-09-2025,Uttarakhand,Haridwar,249401,1,1,0
+24-09-2025,Uttarakhand,Haridwar,249404,2,0,0
+24-09-2025,Uttarakhand,Nainital,262402,4,0,0
+24-09-2025,Uttarakhand,Nainital,263132,3,3,0
+24-09-2025,Uttarakhand,Nainital,263135,2,0,0
+24-09-2025,Uttarakhand,Pauri Garhwal,246275,1,0,0
+24-09-2025,Uttarakhand,Pithoragarh,262530,1,0,0
+24-09-2025,Uttarakhand,Pithoragarh,262551,1,0,0
+24-09-2025,Uttarakhand,Rudraprayag,246141,1,0,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249145,4,0,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249155,4,2,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249175,0,1,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249199,1,0,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,262405,7,1,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,263148,7,2,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,263153,11,5,0
+24-09-2025,Uttarakhand,Uttarkashi,249135,1,0,0
+24-09-2025,Uttarakhand,Uttarkashi,249185,1,0,0
+23-09-2025,Uttarakhand,Chamoli,246427,4,0,0
+23-09-2025,Uttarakhand,Chamoli,246488,1,0,0
+23-09-2025,Uttarakhand,Champawat,262310,1,0,0
+23-09-2025,Uttarakhand,Champawat,262523,3,1,0
+23-09-2025,Uttarakhand,Champawat,262525,1,0,0
+23-09-2025,Uttarakhand,Champawat,262528,1,0,0
+23-09-2025,Uttarakhand,Champawat,262580,8,0,0
+23-09-2025,Uttarakhand,Dehradun,248195,1,0,0
+23-09-2025,Uttarakhand,Dehradun,248196,1,0,0
+23-09-2025,Uttarakhand,Haridwar,247662,1,0,0
+23-09-2025,Uttarakhand,Haridwar,247668,1,1,0
+23-09-2025,Uttarakhand,Haridwar,249407,1,2,0
+23-09-2025,Uttarakhand,Nainital,244715,6,0,0
+23-09-2025,Uttarakhand,Nainital,263126,1,0,0
+23-09-2025,Uttarakhand,Pauri Garhwal,246162,1,0,0
+23-09-2025,Uttarakhand,Pauri Garhwal,246172,2,0,0
+23-09-2025,Uttarakhand,Pauri Garhwal,246275,2,1,0
+23-09-2025,Uttarakhand,Pithoragarh,262521,1,0,0
+23-09-2025,Uttarakhand,Pithoragarh,262532,1,0,0
+23-09-2025,Uttarakhand,Pithoragarh,262547,2,1,0
+23-09-2025,Uttarakhand,Pithoragarh,262576,1,0,0
+23-09-2025,Uttarakhand,Rudraprayag,246425,1,0,0
+23-09-2025,Uttarakhand,Tehri Garhwal,249001,1,0,0
+23-09-2025,Uttarakhand,Tehri Garhwal,249155,3,1,0
+23-09-2025,Uttarakhand,Udham Singh Nagar,263148,8,3,0
+23-09-2025,Uttarakhand,Udham Singh Nagar,263153,17,5,0
+28-09-2025,Uttarakhand,Dehradun,248002,1,0,0
+28-09-2025,Uttarakhand,Dehradun,249204,2,0,0
+28-09-2025,Uttarakhand,Haridwar,249410,1,0,0
+28-09-2025,Uttarakhand,Nainital,263132,1,0,0
+28-09-2025,Uttarakhand,Pauri Garhwal,246149,1,0,0
+28-09-2025,Uttarakhand,Udham Singh Nagar,263160,1,0,0
+26-09-2025,Uttarakhand,Almora,263622,2,0,0
+26-09-2025,Uttarakhand,Almora,263625,2,0,0
+26-09-2025,Uttarakhand,Almora,263639,1,0,0
+26-09-2025,Uttarakhand,Chamoli,246443,1,0,0
+26-09-2025,Uttarakhand,Chamoli,246449,1,0,0
+26-09-2025,Uttarakhand,Champawat,262523,4,0,0
+26-09-2025,Uttarakhand,Champawat,262524,2,0,0
+26-09-2025,Uttarakhand,Champawat,262525,1,0,0
+26-09-2025,Uttarakhand,Dehradun,248124,1,0,0
+26-09-2025,Uttarakhand,Dehradun,248140,6,0,0
+26-09-2025,Uttarakhand,Dehradun,248196,1,1,0
+26-09-2025,Uttarakhand,Dehradun,248198,2,0,0
+26-09-2025,Uttarakhand,Hardwar,247664,1,0,0
+26-09-2025,Uttarakhand,Haridwar,247664,1,1,0
+26-09-2025,Uttarakhand,Haridwar,247665,0,2,0
+26-09-2025,Uttarakhand,Haridwar,247668,1,1,0
+26-09-2025,Uttarakhand,Haridwar,249403,1,1,0
+26-09-2025,Uttarakhand,Nainital,244716,1,0,0
+26-09-2025,Uttarakhand,Nainital,262402,2,0,0
+26-09-2025,Uttarakhand,Nainital,263134,0,1,0
+26-09-2025,Uttarakhand,Nainital,263136,6,1,0
+26-09-2025,Uttarakhand,Nainital,263139,9,4,0
+26-09-2025,Uttarakhand,Nainital,263157,1,0,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246167,1,0,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246174,1,0,0
+26-09-2025,Uttarakhand,Pithoragarh,262501,4,0,0
+26-09-2025,Uttarakhand,Pithoragarh,262530,1,0,0
+26-09-2025,Uttarakhand,Rudraprayag,246442,2,1,0
+26-09-2025,Uttarakhand,Tehri Garhwal,249137,1,0,0
+26-09-2025,Uttarakhand,Tehri Garhwal,249181,1,0,0
+26-09-2025,Uttarakhand,Udham Singh Nagar,263145,1,0,0
+26-09-2025,Uttarakhand,Udham Singh Nagar,263160,1,0,0
+26-09-2025,Uttarakhand,Uttarkashi,249141,3,0,0
+27-09-2025,Uttarakhand,Bageshwar,263634,1,0,0
+27-09-2025,Uttarakhand,Chamoli,246449,1,0,0
+27-09-2025,Uttarakhand,Chamoli,246455,0,1,0
+27-09-2025,Uttarakhand,Dehradun,248001,4,1,0
+27-09-2025,Uttarakhand,Haridwar,247667,4,2,0
+27-09-2025,Uttarakhand,Haridwar,249402,1,0,0
+27-09-2025,Uttarakhand,Haridwar,249407,2,1,0
+27-09-2025,Uttarakhand,Haridwar,249408,2,0,0
+27-09-2025,Uttarakhand,Nainital,263002,1,0,0
+27-09-2025,Uttarakhand,Nainital,263132,3,0,0
+27-09-2025,Uttarakhand,Pauri Garhwal,246149,3,0,0
+27-09-2025,Uttarakhand,Rudraprayag,246442,1,0,0
+27-09-2025,Uttarakhand,Tehri Garhwal,249131,1,0,0
+27-09-2025,Uttarakhand,Tehri Garhwal,249155,4,0,0
+27-09-2025,Uttarakhand,Udham Singh Nagar,244717,1,0,0
+27-09-2025,Uttarakhand,Udham Singh Nagar,262308,1,3,0
+27-09-2025,Uttarakhand,Uttarkashi,249141,1,0,0
+27-09-2025,Uttarakhand,Uttarkashi,249185,1,0,0
+29-09-2025,Uttarakhand,Bageshwar,263632,1,0,0
+29-09-2025,Uttarakhand,Bageshwar,263642,1,0,0
+29-09-2025,Uttarakhand,Haridwar,247663,2,1,0
+29-09-2025,Uttarakhand,Haridwar,249407,1,0,0
+29-09-2025,Uttarakhand,Nainital,262402,3,0,0
+29-09-2025,Uttarakhand,Nainital,263135,1,0,0
+29-09-2025,Uttarakhand,Udham Singh Nagar,262401,0,1,0
+29-09-2025,Uttarakhand,Udham Singh Nagar,263153,0,2,0
+30-09-2025,Uttarakhand,Dehradun,248001,0,1,0
+30-09-2025,Uttarakhand,Dehradun,248123,1,0,0
+30-09-2025,Uttarakhand,Haridwar,247663,1,0,0
+30-09-2025,Uttarakhand,Udham Singh Nagar,244713,0,1,0
+13-10-2025,Uttarakhand,Almora,263645,1,1,0
+13-10-2025,Uttarakhand,Almora,263653,3,0,0
+13-10-2025,Uttarakhand,Bageshwar,263630,1,0,0
+13-10-2025,Uttarakhand,Bageshwar,263633,2,0,0
+13-10-2025,Uttarakhand,Bageshwar,263634,1,0,0
+13-10-2025,Uttarakhand,Bageshwar,263679,1,0,0
+13-10-2025,Uttarakhand,Chamoli,246473,1,0,0
+13-10-2025,Uttarakhand,Champawat,262524,2,0,0
+13-10-2025,Uttarakhand,Dehradun,248121,2,0,0
+13-10-2025,Uttarakhand,Dehradun,248141,1,1,0
+13-10-2025,Uttarakhand,Dehradun,248145,4,0,0
+13-10-2025,Uttarakhand,Dehradun,248179,0,1,0
+13-10-2025,Uttarakhand,Dehradun,249201,2,0,0
+13-10-2025,Uttarakhand,Haridwar,247661,4,1,0
+13-10-2025,Uttarakhand,Haridwar,247663,9,0,0
+13-10-2025,Uttarakhand,Haridwar,247668,2,0,0
+13-10-2025,Uttarakhand,Haridwar,249402,3,3,0
+13-10-2025,Uttarakhand,Nainital,263132,1,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246121,1,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246125,0,1,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246130,1,1,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246164,1,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246167,1,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246173,1,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,249304,2,0,0
+13-10-2025,Uttarakhand,Pithoragarh,262531,1,0,0
+13-10-2025,Uttarakhand,Pithoragarh,262543,1,0,0
+13-10-2025,Uttarakhand,Pithoragarh,262551,1,0,0
+13-10-2025,Uttarakhand,Rudraprayag,246421,0,2,0
+13-10-2025,Uttarakhand,Tehri Garhwal,249001,1,0,0
+13-10-2025,Uttarakhand,Tehri Garhwal,249122,2,0,0
+13-10-2025,Uttarakhand,Tehri Garhwal,249132,2,0,0
+13-10-2025,Uttarakhand,Tehri Garhwal,249196,1,0,0
+13-10-2025,Uttarakhand,Udham Singh Nagar,262405,2,0,0
+13-10-2025,Uttarakhand,Uttarkashi,249185,2,0,0
+13-10-2025,Uttarakhand,Uttarkashi,249193,1,0,0
+16-10-2025,Uttarakhand,Bageshwar,263635,1,0,0
+16-10-2025,Uttarakhand,Bageshwar,263679,2,0,0
+16-10-2025,Uttarakhand,Chamoli,246427,1,0,0
+16-10-2025,Uttarakhand,Chamoli,246453,1,0,0
+16-10-2025,Uttarakhand,Champawat,262580,1,0,0
+16-10-2025,Uttarakhand,Dehradun,248005,2,0,0
+16-10-2025,Uttarakhand,Dehradun,248124,1,0,0
+16-10-2025,Uttarakhand,Dehradun,249201,2,0,0
+16-10-2025,Uttarakhand,Dehradun,249205,1,0,0
+16-10-2025,Uttarakhand,Haridwar,247663,4,0,0
+16-10-2025,Uttarakhand,Haridwar,249404,0,1,0
+16-10-2025,Uttarakhand,Haridwar,249407,1,0,0
+16-10-2025,Uttarakhand,Nainital,263002,0,1,0
+16-10-2025,Uttarakhand,Pauri Garhwal,246130,3,0,0
+16-10-2025,Uttarakhand,Pauri Garhwal,246194,1,0,0
+16-10-2025,Uttarakhand,Pauri Garhwal,246285,1,0,0
+16-10-2025,Uttarakhand,Pithoragarh,262553,1,0,0
+16-10-2025,Uttarakhand,Rudraprayag,246495,1,0,0
+16-10-2025,Uttarakhand,Tehri Garhwal,249155,1,1,0
+16-10-2025,Uttarakhand,Tehri Garhwal,249180,2,2,0
+16-10-2025,Uttarakhand,Tehri Garhwal,249199,1,0,0
+16-10-2025,Uttarakhand,Udham Singh Nagar,244712,1,1,0
+16-10-2025,Uttarakhand,Udham Singh Nagar,244713,6,4,0
+16-10-2025,Uttarakhand,Udham Singh Nagar,262311,2,1,0
+16-10-2025,Uttarakhand,Udham Singh Nagar,263152,1,0,0
+16-10-2025,Uttarakhand,Uttarkashi,249185,1,0,0
+15-10-2025,Uttarakhand,Almora,263622,2,0,0
+15-10-2025,Uttarakhand,Almora,263636,1,0,0
+15-10-2025,Uttarakhand,Almora,263639,1,0,0
+15-10-2025,Uttarakhand,Bageshwar,263641,1,0,0
+15-10-2025,Uttarakhand,Chamoli,246424,1,0,0
+15-10-2025,Uttarakhand,Chamoli,246449,1,0,0
+15-10-2025,Uttarakhand,Champawat,262524,4,0,0
+15-10-2025,Uttarakhand,Champawat,262528,2,0,0
+15-10-2025,Uttarakhand,Dehradun,248001,20,4,0
+15-10-2025,Uttarakhand,Haridwar,247656,13,0,0
+15-10-2025,Uttarakhand,Haridwar,247665,2,0,0
+15-10-2025,Uttarakhand,Haridwar,247666,4,3,0
+15-10-2025,Uttarakhand,Haridwar,249402,6,0,0
+15-10-2025,Uttarakhand,Haridwar,249410,1,0,0
+15-10-2025,Uttarakhand,Nainital,262402,1,1,0
+15-10-2025,Uttarakhand,Nainital,263132,4,1,0
+15-10-2025,Uttarakhand,Nainital,263139,42,4,0
+15-10-2025,Uttarakhand,Nainital,263159,3,1,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246125,1,0,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246144,2,0,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246149,5,0,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246155,1,1,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246169,1,0,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246275,1,0,0
+15-10-2025,Uttarakhand,Pithoragarh,262551,2,0,0
+15-10-2025,Uttarakhand,Rudraprayag,246439,2,0,0
+15-10-2025,Uttarakhand,Rudraprayag,246442,1,0,0
+15-10-2025,Uttarakhand,Rudraprayag,246469,1,0,0
+15-10-2025,Uttarakhand,Rudraprayag,246475,1,0,0
+15-10-2025,Uttarakhand,Tehri Garhwal,249180,4,2,0
+15-10-2025,Uttarakhand,Tehri Garhwal,249181,4,0,0
+15-10-2025,Uttarakhand,Udham Singh Nagar,263152,0,2,0
+17-10-2025,Uttarakhand,Almora,263628,1,1,0
+17-10-2025,Uttarakhand,Almora,263638,0,1,0
+17-10-2025,Uttarakhand,Almora,263676,2,0,0
+17-10-2025,Uttarakhand,Bageshwar,263633,1,0,0
+17-10-2025,Uttarakhand,Bageshwar,263635,5,2,0
+17-10-2025,Uttarakhand,Champawat,262524,5,2,0
+17-10-2025,Uttarakhand,Dehradun,248123,2,1,0
+17-10-2025,Uttarakhand,Dehradun,248140,3,1,0
+17-10-2025,Uttarakhand,Dehradun,248141,2,2,0
+17-10-2025,Uttarakhand,Dehradun,248143,1,0,0
+17-10-2025,Uttarakhand,Hardwar,247661,1,0,0
+17-10-2025,Uttarakhand,Haridwar,247667,19,5,0
+17-10-2025,Uttarakhand,Haridwar,249408,7,0,0
+17-10-2025,Uttarakhand,Nainital,262402,3,0,0
+17-10-2025,Uttarakhand,Nainital,263132,0,2,0
+17-10-2025,Uttarakhand,Nainital,263134,2,1,0
+17-10-2025,Uttarakhand,Nainital,263138,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246121,3,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246131,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246155,4,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246161,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246169,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246179,2,1,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246277,2,1,0
+17-10-2025,Uttarakhand,Pithoragarh,262544,1,0,0
+17-10-2025,Uttarakhand,Pithoragarh,262545,2,0,0
+17-10-2025,Uttarakhand,Pithoragarh,262553,2,3,0
+17-10-2025,Uttarakhand,Pithoragarh,262555,1,0,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249122,5,0,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249186,0,2,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249199,3,0,0
+17-10-2025,Uttarakhand,Udham Singh Nagar,244712,10,1,0
+17-10-2025,Uttarakhand,Udham Singh Nagar,262401,25,3,1
+17-10-2025,Uttarakhand,Udham Singh Nagar,262405,6,0,0
+17-10-2025,Uttarakhand,Udham Singh Nagar,263148,16,8,0
+17-10-2025,Uttarakhand,Udham Singh Nagar,263160,7,0,0
+17-10-2025,Uttarakhand,Uttarkashi,249135,1,0,0
+17-10-2025,Uttarakhand,Uttarkashi,249141,4,0,0
+17-10-2025,Uttarakhand,Uttarkashi,249165,2,0,0
+01-07-2025,Uttarakhand,Haridwar,247667,565,156,11
+02-09-2025,Uttarakhand,Almora,263656,2,0,0
+02-09-2025,Uttarakhand,Chamoli,246424,3,0,0
+02-09-2025,Uttarakhand,Dehradun,248008,5,0,0
+02-09-2025,Uttarakhand,Dehradun,249204,5,0,0
+02-09-2025,Uttarakhand,Dehradun,249205,1,1,0
+02-09-2025,Uttarakhand,Haridwar,247662,1,0,0
+02-09-2025,Uttarakhand,Haridwar,249402,3,1,0
+02-09-2025,Uttarakhand,Nainital,263139,4,2,0
+02-09-2025,Uttarakhand,Nainital,263140,1,0,0
+02-09-2025,Uttarakhand,Pauri Garhwal,246174,1,0,0
+02-09-2025,Uttarakhand,Pithoragarh,262531,2,0,0
+02-09-2025,Uttarakhand,Udham Singh Nagar,244713,5,2,0
+02-09-2025,Uttarakhand,Udham Singh Nagar,262401,5,0,0
+02-09-2025,Uttarakhand,Udham Singh Nagar,263153,9,2,0
+03-09-2025,Uttarakhand,Almora,263625,1,0,0
+03-09-2025,Uttarakhand,Almora,263653,1,0,0
+03-09-2025,Uttarakhand,Almora,263663,1,0,0
+03-09-2025,Uttarakhand,Bageshwar,263631,2,0,0
+03-09-2025,Uttarakhand,Bageshwar,263635,2,0,0
+03-09-2025,Uttarakhand,Chamoli,246443,2,0,0
+03-09-2025,Uttarakhand,Champawat,262309,3,1,0
+03-09-2025,Uttarakhand,Champawat,262310,2,1,0
+03-09-2025,Uttarakhand,Champawat,262523,2,0,0
+03-09-2025,Uttarakhand,Dehradun,248002,6,2,0
+03-09-2025,Uttarakhand,Dehradun,248005,1,0,0
+03-09-2025,Uttarakhand,Dehradun,248123,2,1,0
+03-09-2025,Uttarakhand,Dehradun,248158,5,0,0
+03-09-2025,Uttarakhand,Dehradun,248196,1,0,0
+03-09-2025,Uttarakhand,Dehradun,248199,1,0,0
+03-09-2025,Uttarakhand,Dehradun,249204,1,0,0
+03-09-2025,Uttarakhand,Haridwar,247666,1,0,0
+03-09-2025,Uttarakhand,Haridwar,249403,3,3,0
+03-09-2025,Uttarakhand,Haridwar,249404,2,0,0
+03-09-2025,Uttarakhand,Nainital,263132,2,0,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246159,1,0,0
+03-09-2025,Uttarakhand,Pauri Garhwal,246175,1,0,0
+03-09-2025,Uttarakhand,Pithoragarh,262533,1,0,0
+03-09-2025,Uttarakhand,Pithoragarh,262541,1,0,0
+03-09-2025,Uttarakhand,Rudraprayag,246171,3,0,0
+03-09-2025,Uttarakhand,Rudraprayag,246475,1,0,0
+03-09-2025,Uttarakhand,Tehri Garhwal,249122,2,0,0
+03-09-2025,Uttarakhand,Tehri Garhwal,249128,1,0,0
+03-09-2025,Uttarakhand,Udham Singh Nagar,263148,7,1,0
+03-09-2025,Uttarakhand,Udham Singh Nagar,263153,13,1,0
+01-09-2025,Uttarakhand,Almora,263625,2,0,0
+01-09-2025,Uttarakhand,Almora,263626,1,0,0
+01-09-2025,Uttarakhand,Bageshwar,263628,1,0,0
+01-09-2025,Uttarakhand,Bageshwar,263679,0,1,0
+01-09-2025,Uttarakhand,Chamoli,246431,2,0,0
+01-09-2025,Uttarakhand,Chamoli,246486,1,0,0
+01-09-2025,Uttarakhand,Champawat,262309,1,0,0
+01-09-2025,Uttarakhand,Champawat,262310,4,0,0
+01-09-2025,Uttarakhand,Dehradun,248003,0,0,1
+01-09-2025,Uttarakhand,Dehradun,248197,5,1,0
+01-09-2025,Uttarakhand,Dehradun,249204,2,0,0
+01-09-2025,Uttarakhand,Haridwar,249401,1,0,0
+01-09-2025,Uttarakhand,Haridwar,249402,2,0,0
+01-09-2025,Uttarakhand,Nainital,262402,2,0,0
+01-09-2025,Uttarakhand,Nainital,263002,0,0,1
+01-09-2025,Uttarakhand,Nainital,263139,5,1,0
+01-09-2025,Uttarakhand,Nainital,263159,2,0,0
+01-09-2025,Uttarakhand,Pauri Garhwal,246172,1,0,0
+01-09-2025,Uttarakhand,Pauri Garhwal,246174,3,0,0
+01-09-2025,Uttarakhand,Pithoragarh,262531,1,0,0
+01-09-2025,Uttarakhand,Pithoragarh,262546,1,0,0
+01-09-2025,Uttarakhand,Rudraprayag,246141,1,0,0
+01-09-2025,Uttarakhand,Rudraprayag,246421,2,0,0
+01-09-2025,Uttarakhand,Rudraprayag,246475,3,1,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249123,2,2,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249131,3,1,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249146,1,0,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249181,0,1,0
+01-09-2025,Uttarakhand,Tehri Garhwal,249199,1,0,0
+01-09-2025,Uttarakhand,Uttarkashi,249152,1,0,0
+01-09-2025,Uttarakhand,Uttarkashi,249185,1,0,0
+04-09-2025,Uttarakhand,Almora,263637,1,0,0
+04-09-2025,Uttarakhand,Almora,263638,2,0,0
+04-09-2025,Uttarakhand,Almora,263653,2,0,0
+04-09-2025,Uttarakhand,Almora,263660,1,0,0
+04-09-2025,Uttarakhand,Almora,263667,1,1,0
+04-09-2025,Uttarakhand,Chamoli,246473,1,0,0
+04-09-2025,Uttarakhand,Dehradun,248001,22,2,0
+04-09-2025,Uttarakhand,Dehradun,248003,1,1,0
+04-09-2025,Uttarakhand,Dehradun,248009,1,0,0
+04-09-2025,Uttarakhand,Dehradun,248121,2,0,0
+04-09-2025,Uttarakhand,Dehradun,248196,1,0,0
+04-09-2025,Uttarakhand,Dehradun,249205,1,0,0
+04-09-2025,Uttarakhand,Haridwar,247661,3,2,0
+04-09-2025,Uttarakhand,Haridwar,247667,11,5,0
+04-09-2025,Uttarakhand,Haridwar,247670,2,0,0
+04-09-2025,Uttarakhand,Haridwar,249403,2,0,0
+04-09-2025,Uttarakhand,Haridwar,249404,1,0,0
+04-09-2025,Uttarakhand,Nainital,263128,1,0,0
+04-09-2025,Uttarakhand,Nainital,263136,3,2,0
+04-09-2025,Uttarakhand,Nainital,263159,1,0,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246128,3,1,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246164,1,0,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246174,2,0,0
+04-09-2025,Uttarakhand,Pauri Garhwal,246279,1,0,0
+04-09-2025,Uttarakhand,Pithoragarh,262521,3,0,0
+04-09-2025,Uttarakhand,Pithoragarh,262522,3,0,0
+04-09-2025,Uttarakhand,Rudraprayag,246471,0,1,0
+04-09-2025,Uttarakhand,Tehri Garhwal,249145,1,0,0
+04-09-2025,Uttarakhand,Tehri Garhwal,249180,1,6,0
+04-09-2025,Uttarakhand,Udham Singh Nagar,244712,7,0,0
+04-09-2025,Uttarakhand,Udham Singh Nagar,263145,1,1,0
+04-09-2025,Uttarakhand,Udham Singh Nagar,263153,15,6,0
+04-09-2025,Uttarakhand,Uttarkashi,249141,1,0,0
+06-09-2025,Uttarakhand,Almora,263646,1,0,0
+06-09-2025,Uttarakhand,Almora,263665,1,0,0
+06-09-2025,Uttarakhand,Bageshwar,263635,2,0,0
+06-09-2025,Uttarakhand,Bageshwar,263639,2,0,0
+06-09-2025,Uttarakhand,Chamoli,246435,0,1,0
+06-09-2025,Uttarakhand,Champawat,262310,1,0,0
+06-09-2025,Uttarakhand,Dehradun,248002,5,2,0
+06-09-2025,Uttarakhand,Dehradun,248005,4,0,0
+06-09-2025,Uttarakhand,Dehradun,248123,2,0,0
+06-09-2025,Uttarakhand,Dehradun,248124,3,0,0
+06-09-2025,Uttarakhand,Dehradun,248141,1,0,0
+06-09-2025,Uttarakhand,Dehradun,248158,3,1,0
+06-09-2025,Uttarakhand,Dehradun,248171,7,1,0
+06-09-2025,Uttarakhand,Haridwar,247666,2,1,0
+06-09-2025,Uttarakhand,Haridwar,249401,4,1,0
+06-09-2025,Uttarakhand,Haridwar,249407,3,0,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246144,2,0,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246162,4,0,0
+06-09-2025,Uttarakhand,Pauri Garhwal,246172,3,0,0
+06-09-2025,Uttarakhand,Pithoragarh,262553,1,0,0
+06-09-2025,Uttarakhand,Rudraprayag,246171,1,0,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249180,4,0,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249181,2,1,0
+06-09-2025,Uttarakhand,Tehri Garhwal,249199,1,0,0
+06-09-2025,Uttarakhand,Udham Singh Nagar,263152,5,2,0
+06-09-2025,Uttarakhand,Uttarkashi,249165,1,0,0
+05-09-2025,Uttarakhand,Almora,263656,1,0,0
+05-09-2025,Uttarakhand,Chamoli,246426,1,0,0
+05-09-2025,Uttarakhand,Dehradun,248141,1,0,0
+05-09-2025,Uttarakhand,Dehradun,248171,2,1,0
+05-09-2025,Uttarakhand,Haridwar,247670,0,2,0
+05-09-2025,Uttarakhand,Nainital,263159,1,0,0
+05-09-2025,Uttarakhand,Pauri Garhwal,246169,1,0,0
+05-09-2025,Uttarakhand,Pauri Garhwal,246172,1,0,0
+05-09-2025,Uttarakhand,Tehri Garhwal,249121,2,0,0
+05-09-2025,Uttarakhand,Tehri Garhwal,249130,1,0,0
+05-09-2025,Uttarakhand,Tehri Garhwal,249181,7,6,0
+05-09-2025,Uttarakhand,Udham Singh Nagar,244712,2,0,0
+05-09-2025,Uttarakhand,Udham Singh Nagar,262311,1,0,0
+05-09-2025,Uttarakhand,Udham Singh Nagar,262405,1,0,0
+05-09-2025,Uttarakhand,Udham Singh Nagar,263153,5,1,0
+05-09-2025,Uttarakhand,Uttarkashi,249185,0,2,0
+07-09-2025,Uttarakhand,Almora,263653,1,0,0
+07-09-2025,Uttarakhand,Almora,263663,1,0,0
+07-09-2025,Uttarakhand,Almora,263665,1,0,0
+07-09-2025,Uttarakhand,Dehradun,248008,1,0,0
+07-09-2025,Uttarakhand,Dehradun,248146,0,1,0
+07-09-2025,Uttarakhand,Dehradun,248198,1,0,0
+07-09-2025,Uttarakhand,Nainital,263132,6,0,0
+07-09-2025,Uttarakhand,Nainital,263139,3,0,0
+07-09-2025,Uttarakhand,Tehri Garhwal,249132,2,0,0
+07-09-2025,Uttarakhand,Tehri Garhwal,249165,3,1,0
+07-09-2025,Uttarakhand,Tehri Garhwal,249199,1,0,0
+07-09-2025,Uttarakhand,Udham Singh Nagar,262405,1,0,0
+07-09-2025,Uttarakhand,Udham Singh Nagar,263148,1,0,0
+09-09-2025,Uttarakhand,Almora,263624,2,0,0
+09-09-2025,Uttarakhand,Almora,263639,2,0,0
+09-09-2025,Uttarakhand,Almora,263646,1,0,0
+09-09-2025,Uttarakhand,Chamoli,246401,1,0,0
+09-09-2025,Uttarakhand,Chamoli,246427,3,1,0
+09-09-2025,Uttarakhand,Chamoli,246455,3,0,0
+09-09-2025,Uttarakhand,Chamoli,246474,1,0,0
+09-09-2025,Uttarakhand,Champawat,262309,1,0,0
+09-09-2025,Uttarakhand,Champawat,262523,7,0,0
+09-09-2025,Uttarakhand,Champawat,262528,12,0,0
+09-09-2025,Uttarakhand,Dehradun,248008,6,0,0
+09-09-2025,Uttarakhand,Dehradun,248009,1,0,0
+09-09-2025,Uttarakhand,Dehradun,248013,1,0,0
+09-09-2025,Uttarakhand,Dehradun,248123,0,3,0
+09-09-2025,Uttarakhand,Dehradun,248144,1,0,0
+09-09-2025,Uttarakhand,Dehradun,248196,4,1,0
+09-09-2025,Uttarakhand,Dehradun,249201,2,0,0
+09-09-2025,Uttarakhand,Haridwar,249407,4,1,0
+09-09-2025,Uttarakhand,Nainital,262402,9,0,0
+09-09-2025,Uttarakhand,Nainital,263002,2,1,0
+09-09-2025,Uttarakhand,Nainital,263132,4,0,0
+09-09-2025,Uttarakhand,Nainital,263135,2,0,0
+09-09-2025,Uttarakhand,Nainital,263139,23,6,0
+09-09-2025,Uttarakhand,Nainital,263157,1,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246128,1,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246155,1,1,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246165,1,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246176,1,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246279,2,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,246285,1,0,0
+09-09-2025,Uttarakhand,Pauri Garhwal,249301,1,0,0
+09-09-2025,Uttarakhand,Pithoragarh,262542,1,0,0
+09-09-2025,Uttarakhand,Rudraprayag,246419,1,0,0
+09-09-2025,Uttarakhand,Tehri Garhwal,249001,2,0,0
+09-09-2025,Uttarakhand,Tehri Garhwal,249121,2,0,0
+09-09-2025,Uttarakhand,Tehri Garhwal,249130,1,0,0
+09-09-2025,Uttarakhand,Tehri Garhwal,249131,4,1,0
+09-09-2025,Uttarakhand,Tehri Garhwal,249146,1,0,0
+09-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+09-09-2025,Uttarakhand,Udham Singh Nagar,263153,17,8,0
+08-09-2025,Uttarakhand,Almora,263638,1,0,0
+08-09-2025,Uttarakhand,Almora,263646,1,0,0
+08-09-2025,Uttarakhand,Almora,263652,2,1,0
+08-09-2025,Uttarakhand,Bageshwar,263642,3,1,0
+08-09-2025,Uttarakhand,Chamoli,246424,2,0,0
+08-09-2025,Uttarakhand,Chamoli,246431,1,0,0
+08-09-2025,Uttarakhand,Chamoli,246472,0,1,0
+08-09-2025,Uttarakhand,Champawat,262523,3,3,0
+08-09-2025,Uttarakhand,Champawat,262528,11,4,0
+08-09-2025,Uttarakhand,Dehradun,248142,6,0,0
+08-09-2025,Uttarakhand,Dehradun,248196,4,0,0
+08-09-2025,Uttarakhand,Garhwal,246159,1,0,0
+08-09-2025,Uttarakhand,Hardwar,249402,1,0,0
+08-09-2025,Uttarakhand,Haridwar,247663,10,3,0
+08-09-2025,Uttarakhand,Haridwar,249402,4,2,0
+08-09-2025,Uttarakhand,Haridwar,249404,1,1,0
+08-09-2025,Uttarakhand,Nainital,263139,22,3,0
+08-09-2025,Uttarakhand,Nainital,263140,1,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246113,1,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246128,4,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246164,2,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246277,1,0,0
+08-09-2025,Uttarakhand,Pauri Garhwal,246285,1,0,0
+08-09-2025,Uttarakhand,Rudraprayag,246141,2,0,0
+08-09-2025,Uttarakhand,Rudraprayag,246475,4,0,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249130,1,0,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249132,3,0,0
+08-09-2025,Uttarakhand,Tehri Garhwal,249192,3,0,0
+08-09-2025,Uttarakhand,Uttarkashi,249141,3,0,0
+08-09-2025,Uttarakhand,Uttarkashi,249152,1,0,0
+08-09-2025,Uttarakhand,Uttarkashi,249193,1,0,0
+11-09-2025,Uttarakhand,Bageshwar,263641,1,0,0
+11-09-2025,Uttarakhand,Chamoli,246424,2,0,0
+11-09-2025,Uttarakhand,Chamoli,246443,3,0,0
+11-09-2025,Uttarakhand,Chamoli,246453,1,0,0
+11-09-2025,Uttarakhand,Chamoli,246473,1,0,0
+11-09-2025,Uttarakhand,Champawat,262525,1,0,0
+11-09-2025,Uttarakhand,Champawat,262527,1,0,0
+11-09-2025,Uttarakhand,Dehradun,248142,7,1,0
+11-09-2025,Uttarakhand,Dehradun,248171,5,0,0
+11-09-2025,Uttarakhand,Dehradun,248197,9,1,0
+11-09-2025,Uttarakhand,Dehradun,249204,2,1,0
+11-09-2025,Uttarakhand,Haridwar,247663,10,2,0
+11-09-2025,Uttarakhand,Haridwar,247670,2,0,0
+11-09-2025,Uttarakhand,Haridwar,247671,3,2,0
+11-09-2025,Uttarakhand,Haridwar,249404,3,0,0
+11-09-2025,Uttarakhand,Nainital,263136,3,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246123,1,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246128,1,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246149,3,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246155,1,0,0
+11-09-2025,Uttarakhand,Pauri Garhwal,246174,2,0,0
+11-09-2025,Uttarakhand,Pithoragarh,262501,5,1,0
+11-09-2025,Uttarakhand,Pithoragarh,262547,1,0,0
+11-09-2025,Uttarakhand,Rudraprayag,246439,1,0,0
+11-09-2025,Uttarakhand,Rudraprayag,246469,2,0,0
+11-09-2025,Uttarakhand,Tehri Garhwal,249132,1,0,0
+11-09-2025,Uttarakhand,Udham Singh Nagar,262401,11,2,0
+10-09-2025,Uttarakhand,Almora,263601,6,0,0
+10-09-2025,Uttarakhand,Almora,263622,1,2,0
+10-09-2025,Uttarakhand,Almora,263638,1,1,0
+10-09-2025,Uttarakhand,Almora,263656,1,0,0
+10-09-2025,Uttarakhand,Almora,263658,1,0,0
+10-09-2025,Uttarakhand,Chamoli,246455,5,0,0
+10-09-2025,Uttarakhand,Chamoli,246486,1,0,0
+10-09-2025,Uttarakhand,Champawat,262523,7,1,0
+10-09-2025,Uttarakhand,Champawat,262524,9,1,0
+10-09-2025,Uttarakhand,Dehradun,248003,1,0,0
+10-09-2025,Uttarakhand,Dehradun,248123,2,0,0
+10-09-2025,Uttarakhand,Dehradun,248141,1,0,0
+10-09-2025,Uttarakhand,Dehradun,248142,4,0,0
+10-09-2025,Uttarakhand,Dehradun,248158,2,0,0
+10-09-2025,Uttarakhand,Dehradun,248159,1,0,0
+10-09-2025,Uttarakhand,Dehradun,248165,1,0,0
+10-09-2025,Uttarakhand,Dehradun,249205,2,0,0
+10-09-2025,Uttarakhand,Hardwar,249408,1,0,0
+10-09-2025,Uttarakhand,Haridwar,247666,1,2,0
+10-09-2025,Uttarakhand,Nainital,263132,13,2,0
+10-09-2025,Uttarakhand,Nainital,263136,1,0,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246128,1,0,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246155,1,1,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246176,1,0,0
+10-09-2025,Uttarakhand,Pauri Garhwal,246193,0,1,0
+10-09-2025,Uttarakhand,Pithoragarh,262501,4,1,0
+10-09-2025,Uttarakhand,Pithoragarh,262534,3,0,0
+10-09-2025,Uttarakhand,Pithoragarh,262552,1,0,0
+10-09-2025,Uttarakhand,Rudraprayag,246141,0,2,0
+10-09-2025,Uttarakhand,Rudraprayag,246421,3,0,0
+10-09-2025,Uttarakhand,Rudraprayag,246425,2,0,0
+10-09-2025,Uttarakhand,Rudraprayag,246439,0,1,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249123,1,0,0
+10-09-2025,Uttarakhand,Tehri Garhwal,249161,0,2,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,262401,15,3,0
+10-09-2025,Uttarakhand,Udham Singh Nagar,263148,12,4,0
+10-09-2025,Uttarakhand,Uttarkashi,249141,1,0,1
+10-09-2025,Uttarakhand,Uttarkashi,249151,1,0,0
+14-09-2025,Uttarakhand,Dehradun,248142,2,0,0
+14-09-2025,Uttarakhand,Haridwar,247668,2,1,0
+14-09-2025,Uttarakhand,Haridwar,249407,3,2,0
+14-09-2025,Uttarakhand,Nainital,263132,6,0,0
+14-09-2025,Uttarakhand,Rudraprayag,246495,1,0,0
+14-09-2025,Uttarakhand,Tehri Garhwal,249145,0,1,0
+14-09-2025,Uttarakhand,Tehri Garhwal,249151,1,0,0
+13-09-2025,Uttarakhand,Almora,263625,1,0,0
+13-09-2025,Uttarakhand,Almora,263645,4,1,0
+13-09-2025,Uttarakhand,Bageshwar,263628,1,0,0
+13-09-2025,Uttarakhand,Bageshwar,263630,1,0,0
+13-09-2025,Uttarakhand,Bageshwar,263639,1,0,0
+13-09-2025,Uttarakhand,Bageshwar,263642,2,0,0
+13-09-2025,Uttarakhand,Chamoli,246427,1,0,0
+13-09-2025,Uttarakhand,Chamoli,246431,4,0,0
+13-09-2025,Uttarakhand,Chamoli,246440,1,0,0
+13-09-2025,Uttarakhand,Chamoli,246481,1,0,0
+13-09-2025,Uttarakhand,Dehradun,248008,5,1,0
+13-09-2025,Uttarakhand,Dehradun,248165,1,0,0
+13-09-2025,Uttarakhand,Dehradun,248198,1,0,0
+13-09-2025,Uttarakhand,Haridwar,247663,10,1,0
+13-09-2025,Uttarakhand,Haridwar,247665,1,0,0
+13-09-2025,Uttarakhand,Haridwar,249407,2,3,0
+13-09-2025,Uttarakhand,Haridwar,249408,4,0,0
+13-09-2025,Uttarakhand,Nainital,263132,2,0,0
+13-09-2025,Uttarakhand,Pauri Garhwal,246162,3,0,0
+13-09-2025,Uttarakhand,Pauri Garhwal,246167,3,0,0
+13-09-2025,Uttarakhand,Pauri Garhwal,246276,1,0,0
+13-09-2025,Uttarakhand,Pithoragarh,262532,0,1,0
+13-09-2025,Uttarakhand,Rudraprayag,246471,1,0,0
+13-09-2025,Uttarakhand,Tehri Garhwal,249155,5,0,0
+13-09-2025,Uttarakhand,Tehri Garhwal,249165,1,1,0
+13-09-2025,Uttarakhand,Tehri Garhwal,249192,1,0,0
+13-09-2025,Uttarakhand,Udham Singh Nagar,263149,2,0,0
+13-09-2025,Uttarakhand,Udham Singh Nagar,263153,4,1,0
+12-09-2025,Uttarakhand,Almora,263678,1,0,0
+12-09-2025,Uttarakhand,Bageshwar,263634,1,0,0
+12-09-2025,Uttarakhand,Chamoli,246426,1,0,0
+12-09-2025,Uttarakhand,Chamoli,246453,1,0,0
+12-09-2025,Uttarakhand,Champawat,262580,1,0,0
+12-09-2025,Uttarakhand,Dehradun,248007,6,1,0
+12-09-2025,Uttarakhand,Haridwar,246763,2,0,0
+12-09-2025,Uttarakhand,Nainital,244716,1,0,0
+12-09-2025,Uttarakhand,Nainital,263001,1,0,0
+12-09-2025,Uttarakhand,Nainital,263138,1,0,0
+12-09-2025,Uttarakhand,Nainital,263139,15,4,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246121,1,0,0
+12-09-2025,Uttarakhand,Pauri Garhwal,246161,3,0,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249124,1,0,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249132,2,0,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249155,12,1,0
+12-09-2025,Uttarakhand,Tehri Garhwal,249192,1,0,0
+12-09-2025,Uttarakhand,Udham Singh Nagar,244712,11,0,0
+12-09-2025,Uttarakhand,Udham Singh Nagar,263152,13,4,0
+12-09-2025,Uttarakhand,Uttarkashi,249171,1,0,0
+15-09-2025,Uttarakhand,Almora,263646,1,0,0
+15-09-2025,Uttarakhand,Bageshwar,263635,1,2,0
+15-09-2025,Uttarakhand,Bageshwar,263641,2,0,0
+15-09-2025,Uttarakhand,Chamoli,246424,2,0,0
+15-09-2025,Uttarakhand,Chamoli,246481,0,1,0
+15-09-2025,Uttarakhand,Dehradun,248001,25,4,0
+15-09-2025,Uttarakhand,Dehradun,248002,1,1,0
+15-09-2025,Uttarakhand,Dehradun,248003,3,0,0
+15-09-2025,Uttarakhand,Dehradun,248196,1,0,0
+15-09-2025,Uttarakhand,Dehradun,249204,5,0,0
+15-09-2025,Uttarakhand,Hardwar,247667,1,0,0
+15-09-2025,Uttarakhand,Hardwar,249402,1,0,0
+15-09-2025,Uttarakhand,Haridwar,246763,2,0,0
+15-09-2025,Uttarakhand,Haridwar,247663,12,2,0
+15-09-2025,Uttarakhand,Haridwar,247665,2,1,0
+15-09-2025,Uttarakhand,Haridwar,249410,1,0,1
+15-09-2025,Uttarakhand,Nainital,263001,0,1,0
+15-09-2025,Uttarakhand,Nainital,263136,1,0,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246149,4,2,0
+15-09-2025,Uttarakhand,Pauri Garhwal,246167,1,0,0
+15-09-2025,Uttarakhand,Rudraprayag,246419,4,0,0
+15-09-2025,Uttarakhand,Rudraprayag,246471,0,1,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249001,1,0,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249123,2,0,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249132,1,1,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249145,2,0,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249146,1,0,0
+15-09-2025,Uttarakhand,Tehri Garhwal,249186,2,0,0
+15-09-2025,Uttarakhand,Udham Singh Nagar,244712,1,0,0
+15-09-2025,Uttarakhand,Udham Singh Nagar,263151,2,0,0
+15-09-2025,Uttarakhand,Udham Singh Nagar,263152,7,0,0
+15-09-2025,Uttarakhand,Uttarkashi,249152,1,0,0
+15-09-2025,Uttarakhand,Uttarkashi,249185,3,2,0
+17-09-2025,Uttarakhand,Almora,263601,2,1,0
+17-09-2025,Uttarakhand,Almora,263661,1,0,0
+17-09-2025,Uttarakhand,Almora,263664,1,0,0
+17-09-2025,Uttarakhand,Dehradun,248001,21,2,0
+17-09-2025,Uttarakhand,Dehradun,248006,1,0,0
+17-09-2025,Uttarakhand,Dehradun,248171,5,2,0
+17-09-2025,Uttarakhand,Dehradun,249202,1,1,0
+17-09-2025,Uttarakhand,Haridwar,247661,5,0,0
+17-09-2025,Uttarakhand,Haridwar,247666,3,1,0
+17-09-2025,Uttarakhand,Haridwar,247667,9,6,0
+17-09-2025,Uttarakhand,Haridwar,249408,2,0,0
+17-09-2025,Uttarakhand,Nainital,263126,1,1,0
+17-09-2025,Uttarakhand,Nainital,263127,1,0,0
+17-09-2025,Uttarakhand,Nainital,263157,1,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246147,2,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246174,2,0,0
+17-09-2025,Uttarakhand,Pauri Garhwal,246277,1,1,0
+17-09-2025,Uttarakhand,Pauri Garhwal,249304,1,0,0
+17-09-2025,Uttarakhand,Pithoragarh,262531,0,1,0
+17-09-2025,Uttarakhand,Tehri Garhwal,249155,2,0,0
+17-09-2025,Uttarakhand,Tehri Garhwal,249199,1,0,0
+17-09-2025,Uttarakhand,Udham Singh Nagar,262311,1,0,0
+17-09-2025,Uttarakhand,Uttarkashi,249135,5,1,0
+17-09-2025,Uttarakhand,Uttarkashi,249194,2,0,0
+16-09-2025,Uttarakhand,Almora,263651,1,0,0
+16-09-2025,Uttarakhand,Bageshwar,263640,3,0,0
+16-09-2025,Uttarakhand,Chamoli,246424,1,0,0
+16-09-2025,Uttarakhand,Chamoli,246429,1,0,0
+16-09-2025,Uttarakhand,Champawat,262523,3,0,0
+16-09-2025,Uttarakhand,Champawat,262524,1,1,0
+16-09-2025,Uttarakhand,Dehradun,248003,2,0,0
+16-09-2025,Uttarakhand,Dehradun,248007,3,1,0
+16-09-2025,Uttarakhand,Dehradun,248008,2,0,0
+16-09-2025,Uttarakhand,Dehradun,248140,1,0,0
+16-09-2025,Uttarakhand,Dehradun,248165,2,0,0
+16-09-2025,Uttarakhand,Dehradun,248171,2,0,0
+16-09-2025,Uttarakhand,Dehradun,249201,1,2,0
+16-09-2025,Uttarakhand,Haridwar,247663,7,3,0
+16-09-2025,Uttarakhand,Haridwar,247665,2,0,0
+16-09-2025,Uttarakhand,Haridwar,247666,2,1,0
+16-09-2025,Uttarakhand,Haridwar,249408,0,1,0
+16-09-2025,Uttarakhand,Nainital,263126,4,1,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246172,2,0,0
+16-09-2025,Uttarakhand,Pauri Garhwal,246275,3,0,0
+16-09-2025,Uttarakhand,Pithoragarh,262521,0,1,0
+16-09-2025,Uttarakhand,Rudraprayag,246421,1,0,0
+16-09-2025,Uttarakhand,Rudraprayag,246425,1,0,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249155,5,1,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249161,7,0,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249165,2,0,0
+16-09-2025,Uttarakhand,Tehri Garhwal,249181,3,0,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,244712,8,2,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,244717,1,0,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,263150,1,0,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,263152,3,0,0
+16-09-2025,Uttarakhand,Udham Singh Nagar,263160,1,0,0
+16-09-2025,Uttarakhand,Uttarkashi,249185,4,1,0
+16-09-2025,Uttarakhand,Uttarkashi,249193,2,1,0
+19-09-2025,Uttarakhand,Chamoli,246472,1,0,0
+19-09-2025,Uttarakhand,Champawat,262524,2,1,0
+19-09-2025,Uttarakhand,Champawat,262528,4,1,0
+19-09-2025,Uttarakhand,Dehradun,248121,1,0,0
+19-09-2025,Uttarakhand,Dehradun,248140,5,0,0
+19-09-2025,Uttarakhand,Dehradun,248197,14,1,0
+19-09-2025,Uttarakhand,Haridwar,247667,6,3,0
+19-09-2025,Uttarakhand,Haridwar,249401,1,0,0
+19-09-2025,Uttarakhand,Nainital,263132,1,1,0
+19-09-2025,Uttarakhand,Nainital,263135,1,0,0
+19-09-2025,Uttarakhand,Nainital,263158,1,0,0
+19-09-2025,Uttarakhand,Pauri Garhwal,246163,0,1,0
+19-09-2025,Uttarakhand,Pithoragarh,262545,5,0,0
+19-09-2025,Uttarakhand,Pithoragarh,262547,1,0,0
+19-09-2025,Uttarakhand,Pithoragarh,262576,1,1,0
+19-09-2025,Uttarakhand,Rudraprayag,246419,1,0,0
+19-09-2025,Uttarakhand,Tehri Garhwal,249122,1,0,0
+19-09-2025,Uttarakhand,Tehri Garhwal,249130,1,0,0
+19-09-2025,Uttarakhand,Tehri Garhwal,249165,6,1,0
+19-09-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+18-09-2025,Uttarakhand,Almora,263623,1,0,0
+18-09-2025,Uttarakhand,Chamoli,246455,1,0,0
+18-09-2025,Uttarakhand,Champawat,262310,1,0,0
+18-09-2025,Uttarakhand,Dehradun,248005,1,0,0
+18-09-2025,Uttarakhand,Dehradun,248146,1,1,0
+18-09-2025,Uttarakhand,Dehradun,248159,1,0,0
+18-09-2025,Uttarakhand,Dehradun,248199,0,2,0
+18-09-2025,Uttarakhand,Garhwal,246149,1,0,0
+18-09-2025,Uttarakhand,Haridwar,247665,1,0,0
+18-09-2025,Uttarakhand,Nainital,244713,1,2,0
+18-09-2025,Uttarakhand,Nainital,244715,9,2,0
+18-09-2025,Uttarakhand,Nainital,263002,2,1,0
+18-09-2025,Uttarakhand,Nainital,263132,3,0,0
+18-09-2025,Uttarakhand,Nainital,263134,1,0,0
+18-09-2025,Uttarakhand,Pauri Garhwal,246131,1,0,0
+18-09-2025,Uttarakhand,Pauri Garhwal,246162,0,1,0
+18-09-2025,Uttarakhand,Pithoragarh,262521,1,0,0
+18-09-2025,Uttarakhand,Pithoragarh,262531,1,1,0
+18-09-2025,Uttarakhand,Pithoragarh,262552,3,1,0
+18-09-2025,Uttarakhand,Rudraprayag,246439,1,1,0
+18-09-2025,Uttarakhand,Tehri Garhwal,249125,2,0,0
+18-09-2025,Uttarakhand,Tehri Garhwal,249161,5,1,0
+18-09-2025,Uttarakhand,Udham Singh Nagar,244713,24,3,0
+18-09-2025,Uttarakhand,Udham Singh Nagar,263151,2,0,0
+18-09-2025,Uttarakhand,Uttarkashi,249151,0,1,0
+22-09-2025,Uttarakhand,Chamoli,246401,1,0,0
+22-09-2025,Uttarakhand,Chamoli,246427,4,0,0
+22-09-2025,Uttarakhand,Dehradun,248124,1,0,0
+22-09-2025,Uttarakhand,Dehradun,248199,2,0,0
+22-09-2025,Uttarakhand,Haridwar,247661,1,1,0
+22-09-2025,Uttarakhand,Nainital,263134,1,0,0
+22-09-2025,Uttarakhand,Nainital,263140,1,0,0
+22-09-2025,Uttarakhand,Pauri Garhwal,246130,1,0,0
+22-09-2025,Uttarakhand,Pauri Garhwal,246163,1,0,0
+22-09-2025,Uttarakhand,Pauri Garhwal,246167,2,0,0
+22-09-2025,Uttarakhand,Pauri Garhwal,246174,2,0,0
+22-09-2025,Uttarakhand,Pithoragarh,262501,1,0,0
+22-09-2025,Uttarakhand,Rudraprayag,246141,1,0,0
+22-09-2025,Uttarakhand,Tehri Garhwal,249161,2,1,0
+20-09-2025,Uttarakhand,Almora,263623,1,0,0
+20-09-2025,Uttarakhand,Almora,263656,1,0,0
+20-09-2025,Uttarakhand,Chamoli,246446,0,1,0
+20-09-2025,Uttarakhand,Champawat,262523,1,0,0
+20-09-2025,Uttarakhand,Dehradun,248002,2,1,0
+20-09-2025,Uttarakhand,Dehradun,248003,1,0,0
+20-09-2025,Uttarakhand,Dehradun,248140,7,0,0
+20-09-2025,Uttarakhand,Dehradun,248165,3,0,0
+20-09-2025,Uttarakhand,Dehradun,248171,8,0,0
+20-09-2025,Uttarakhand,Dehradun,249205,2,0,0
+20-09-2025,Uttarakhand,Haridwar,247656,0,1,0
+20-09-2025,Uttarakhand,Haridwar,247662,1,0,0
+20-09-2025,Uttarakhand,Haridwar,247665,1,1,0
+20-09-2025,Uttarakhand,Haridwar,247666,1,0,0
+20-09-2025,Uttarakhand,Haridwar,247671,3,0,0
+20-09-2025,Uttarakhand,Haridwar,249402,5,0,0
+20-09-2025,Uttarakhand,Nainital,263132,3,1,0
+20-09-2025,Uttarakhand,Nainital,263135,1,0,0
+20-09-2025,Uttarakhand,Nainital,263139,13,2,0
+20-09-2025,Uttarakhand,Nainital,263140,3,0,0
+20-09-2025,Uttarakhand,Nainital,263157,1,0,0
+20-09-2025,Uttarakhand,Pauri Garhwal,246123,3,0,0
+20-09-2025,Uttarakhand,Pauri Garhwal,246161,1,0,0
+20-09-2025,Uttarakhand,Pauri Garhwal,246172,1,0,0
+20-09-2025,Uttarakhand,Pauri Garhwal,249306,1,0,0
+20-09-2025,Uttarakhand,Pithoragarh,262522,1,0,0
+20-09-2025,Uttarakhand,Pithoragarh,262532,0,1,0
+20-09-2025,Uttarakhand,Pithoragarh,262553,2,0,0
+20-09-2025,Uttarakhand,Rudraprayag,246421,1,0,0
+20-09-2025,Uttarakhand,Rudraprayag,246425,1,0,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249001,1,0,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249132,1,0,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249137,1,0,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249155,11,0,0
+20-09-2025,Uttarakhand,Tehri Garhwal,249180,7,1,0
+20-09-2025,Uttarakhand,Udham Singh Nagar,262308,14,4,0
+20-09-2025,Uttarakhand,Udham Singh Nagar,262311,3,0,0
+20-09-2025,Uttarakhand,Uttarkashi,249193,2,0,0
+21-09-2025,Uttarakhand,Dehradun,248001,5,1,0
+21-09-2025,Uttarakhand,Haridwar,247663,1,0,0
+21-09-2025,Uttarakhand,Haridwar,247667,1,0,0
+21-09-2025,Uttarakhand,Haridwar,249407,0,1,0
+21-09-2025,Uttarakhand,Tehri Garhwal,249186,1,1,0
+25-09-2025,Uttarakhand,Almora,244715,1,0,0
+25-09-2025,Uttarakhand,Almora,263601,3,0,0
+25-09-2025,Uttarakhand,Almora,263676,1,0,0
+25-09-2025,Uttarakhand,Bageshwar,263635,1,0,0
+25-09-2025,Uttarakhand,Chamoli,246427,2,0,0
+25-09-2025,Uttarakhand,Chamoli,246472,0,1,0
+25-09-2025,Uttarakhand,Champawat,262309,2,1,0
+25-09-2025,Uttarakhand,Dehradun,248009,1,0,0
+25-09-2025,Uttarakhand,Dehradun,248124,3,0,0
+25-09-2025,Uttarakhand,Dehradun,248141,0,1,0
+25-09-2025,Uttarakhand,Dehradun,248197,8,0,0
+25-09-2025,Uttarakhand,Haridwar,247668,2,1,0
+25-09-2025,Uttarakhand,Haridwar,247670,1,3,0
+25-09-2025,Uttarakhand,Haridwar,249402,13,3,0
+25-09-2025,Uttarakhand,Haridwar,249403,0,2,0
+25-09-2025,Uttarakhand,Haridwar,249404,1,0,0
+25-09-2025,Uttarakhand,Nainital,263001,1,0,0
+25-09-2025,Uttarakhand,Nainital,263132,3,0,0
+25-09-2025,Uttarakhand,Pauri Garhwal,246128,1,0,0
+25-09-2025,Uttarakhand,Pauri Garhwal,246169,1,0,0
+25-09-2025,Uttarakhand,Pauri Garhwal,246174,1,0,0
+25-09-2025,Uttarakhand,Pithoragarh,262521,1,0,0
+25-09-2025,Uttarakhand,Pithoragarh,262551,2,0,0
+25-09-2025,Uttarakhand,Rudraprayag,246429,1,0,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249130,1,0,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249131,1,0,0
+25-09-2025,Uttarakhand,Tehri Garhwal,249146,1,0,0
+25-09-2025,Uttarakhand,Udham Singh Nagar,262311,2,1,0
+23-09-2025,Uttarakhand,Almora,263645,2,0,0
+23-09-2025,Uttarakhand,Bageshwar,263631,0,1,0
+23-09-2025,Uttarakhand,Bageshwar,263635,2,0,0
+23-09-2025,Uttarakhand,Dehradun,248001,20,6,0
+23-09-2025,Uttarakhand,Dehradun,248005,3,0,0
+23-09-2025,Uttarakhand,Dehradun,248008,2,0,0
+23-09-2025,Uttarakhand,Dehradun,248009,0,1,0
+23-09-2025,Uttarakhand,Dehradun,248142,5,2,0
+23-09-2025,Uttarakhand,Dehradun,248171,1,1,0
+23-09-2025,Uttarakhand,Hardwar,247661,0,1,0
+23-09-2025,Uttarakhand,Haridwar,249403,0,2,0
+23-09-2025,Uttarakhand,Pauri Garhwal,246179,0,1,0
+23-09-2025,Uttarakhand,Pauri Garhwal,246285,3,1,0
+23-09-2025,Uttarakhand,Pithoragarh,262501,1,0,0
+23-09-2025,Uttarakhand,Tehri Garhwal,249131,2,0,0
+23-09-2025,Uttarakhand,Tehri Garhwal,249132,2,0,0
+23-09-2025,Uttarakhand,Tehri Garhwal,249199,1,0,0
+23-09-2025,Uttarakhand,Udham Singh Nagar,244712,4,0,0
+23-09-2025,Uttarakhand,Udham Singh Nagar,244713,10,1,0
+23-09-2025,Uttarakhand,Udham Singh Nagar,262401,7,1,0
+23-09-2025,Uttarakhand,Udham Singh Nagar,262405,4,1,0
+23-09-2025,Uttarakhand,Uttarkashi,249131,1,0,0
+23-09-2025,Uttarakhand,Uttarkashi,249171,1,0,0
+24-09-2025,Uttarakhand,Bageshwar,263641,2,0,0
+24-09-2025,Uttarakhand,Chamoli,246449,1,0,0
+24-09-2025,Uttarakhand,Dehradun,248121,1,0,0
+24-09-2025,Uttarakhand,Dehradun,248171,1,1,0
+24-09-2025,Uttarakhand,Dehradun,248196,1,0,0
+24-09-2025,Uttarakhand,Dehradun,249203,1,0,0
+24-09-2025,Uttarakhand,Dehradun,249204,1,0,0
+24-09-2025,Uttarakhand,Haridwar,246763,1,0,0
+24-09-2025,Uttarakhand,Haridwar,247663,10,2,0
+24-09-2025,Uttarakhand,Haridwar,249402,6,0,0
+24-09-2025,Uttarakhand,Pauri Garhwal,246121,1,0,0
+24-09-2025,Uttarakhand,Pauri Garhwal,246149,6,0,0
+24-09-2025,Uttarakhand,Pauri Garhwal,246176,1,0,0
+24-09-2025,Uttarakhand,Pauri Garhwal,246276,2,0,0
+24-09-2025,Uttarakhand,Pauri Garhwal,249301,1,0,0
+24-09-2025,Uttarakhand,Rudraprayag,246425,2,1,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249125,1,0,0
+24-09-2025,Uttarakhand,Tehri Garhwal,249131,1,0,0
+24-09-2025,Uttarakhand,Udham Singh Nagar,262311,7,0,0
+24-09-2025,Uttarakhand,Uttarkashi,249141,3,0,0
+24-09-2025,Uttarakhand,Uttarkashi,249193,4,0,0
+27-09-2025,Uttarakhand,Almora,244715,1,0,0
+27-09-2025,Uttarakhand,Dehradun,248171,1,0,0
+27-09-2025,Uttarakhand,Dehradun,248195,1,0,0
+27-09-2025,Uttarakhand,Haridwar,247671,4,1,0
+27-09-2025,Uttarakhand,Haridwar,249401,2,0,0
+27-09-2025,Uttarakhand,Haridwar,249403,1,0,0
+27-09-2025,Uttarakhand,Pauri Garhwal,246276,1,0,0
+27-09-2025,Uttarakhand,Pithoragarh,262554,0,1,0
+27-09-2025,Uttarakhand,Tehri Garhwal,249192,1,0,0
+27-09-2025,Uttarakhand,Udham Singh Nagar,263153,4,0,0
+27-09-2025,Uttarakhand,Udham Singh Nagar,263160,1,0,0
+27-09-2025,Uttarakhand,Uttarkashi,249151,1,0,0
+26-09-2025,Uttarakhand,Almora,263624,1,0,0
+26-09-2025,Uttarakhand,Bageshwar,263635,1,0,0
+26-09-2025,Uttarakhand,Chamoli,246481,1,0,0
+26-09-2025,Uttarakhand,Champawat,262309,1,1,0
+26-09-2025,Uttarakhand,Dehradun,248001,12,3,0
+26-09-2025,Uttarakhand,Dehradun,248002,4,0,0
+26-09-2025,Uttarakhand,Dehradun,248123,2,1,0
+26-09-2025,Uttarakhand,Dehradun,248125,1,0,0
+26-09-2025,Uttarakhand,Dehradun,248199,2,0,0
+26-09-2025,Uttarakhand,Dehradun,249203,1,0,0
+26-09-2025,Uttarakhand,Hardwar,249408,2,0,0
+26-09-2025,Uttarakhand,Haridwar,247656,0,1,0
+26-09-2025,Uttarakhand,Haridwar,247663,5,1,0
+26-09-2025,Uttarakhand,Haridwar,249402,4,1,0
+26-09-2025,Uttarakhand,Nainital,263135,1,0,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246125,1,0,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246147,1,0,0
+26-09-2025,Uttarakhand,Pauri Garhwal,246194,1,0,0
+26-09-2025,Uttarakhand,Pithoragarh,262532,1,0,0
+26-09-2025,Uttarakhand,Pithoragarh,262552,0,1,0
+26-09-2025,Uttarakhand,Rudraprayag,246171,5,0,0
+26-09-2025,Uttarakhand,Rudraprayag,246425,1,1,0
+26-09-2025,Uttarakhand,Rudraprayag,246439,2,0,0
+26-09-2025,Uttarakhand,Rudraprayag,246469,1,0,0
+26-09-2025,Uttarakhand,Tehri Garhwal,249132,1,0,0
+26-09-2025,Uttarakhand,Tehri Garhwal,249145,1,0,0
+26-09-2025,Uttarakhand,Tehri Garhwal,249165,2,0,0
+26-09-2025,Uttarakhand,Tehri Garhwal,249180,5,0,0
+26-09-2025,Uttarakhand,Udham Singh Nagar,262401,6,0,0
+26-09-2025,Uttarakhand,Udham Singh Nagar,263148,3,1,0
+26-09-2025,Uttarakhand,Udham Singh Nagar,263149,1,0,0
+26-09-2025,Uttarakhand,Udham Singh Nagar,263150,2,0,0
+26-09-2025,Uttarakhand,Uttarkashi,249152,1,0,0
+26-09-2025,Uttarakhand,Uttarkashi,249193,4,0,0
+28-09-2025,Uttarakhand,Haridwar,247666,0,1,0
+28-09-2025,Uttarakhand,Pauri Garhwal,246174,0,1,0
+28-09-2025,Uttarakhand,Udham Singh Nagar,262401,0,1,0
+28-09-2025,Uttarakhand,Uttarkashi,249152,1,0,0
+29-09-2025,Uttarakhand,Chamoli,246427,1,0,0
+29-09-2025,Uttarakhand,Chamoli,246429,1,0,0
+29-09-2025,Uttarakhand,Dehradun,248007,2,0,0
+29-09-2025,Uttarakhand,Dehradun,248171,3,0,0
+29-09-2025,Uttarakhand,Haridwar,249408,1,0,0
+29-09-2025,Uttarakhand,Nainital,263132,1,0,0
+29-09-2025,Uttarakhand,Nainital,263139,3,0,0
+29-09-2025,Uttarakhand,Rudraprayag,246419,1,0,0
+29-09-2025,Uttarakhand,Udham Singh Nagar,244713,1,0,0
+29-09-2025,Uttarakhand,Udham Singh Nagar,263160,1,0,0
+30-09-2025,Uttarakhand,Dehradun,248008,1,0,0
+30-09-2025,Uttarakhand,Dehradun,248140,0,1,0
+30-09-2025,Uttarakhand,Pithoragarh,262501,1,0,0
+30-09-2025,Uttarakhand,Udham Singh Nagar,263148,0,1,0
+13-10-2025,Uttarakhand,Bageshwar,263619,2,0,0
+13-10-2025,Uttarakhand,Dehradun,248001,20,4,0
+13-10-2025,Uttarakhand,Dehradun,248007,5,1,0
+13-10-2025,Uttarakhand,Dehradun,248123,1,0,0
+13-10-2025,Uttarakhand,Dehradun,248125,1,0,0
+13-10-2025,Uttarakhand,Dehradun,248198,1,0,0
+13-10-2025,Uttarakhand,Haridwar,247665,2,0,0
+13-10-2025,Uttarakhand,Haridwar,247666,1,1,0
+13-10-2025,Uttarakhand,Haridwar,247671,3,0,0
+13-10-2025,Uttarakhand,Nainital,244715,6,0,0
+13-10-2025,Uttarakhand,Nainital,263134,4,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246172,1,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246175,1,0,0
+13-10-2025,Uttarakhand,Pauri Garhwal,246277,3,0,0
+13-10-2025,Uttarakhand,Pithoragarh,262545,2,0,0
+13-10-2025,Uttarakhand,Tehri Garhwal,249145,4,1,0
+13-10-2025,Uttarakhand,Udham Singh Nagar,262308,14,4,0
+13-10-2025,Uttarakhand,Udham Singh Nagar,263152,1,0,0
+13-10-2025,Uttarakhand,Udham Singh Nagar,263160,3,0,0
+13-10-2025,Uttarakhand,Uttarkashi,249135,1,0,0
+16-10-2025,Uttarakhand,Almora,263637,1,0,0
+16-10-2025,Uttarakhand,Almora,263652,2,0,0
+16-10-2025,Uttarakhand,Bageshwar,263642,1,1,0
+16-10-2025,Uttarakhand,Champawat,262523,2,0,0
+16-10-2025,Uttarakhand,Champawat,262527,1,0,0
+16-10-2025,Uttarakhand,Dehradun,248001,11,4,0
+16-10-2025,Uttarakhand,Dehradun,248141,0,1,0
+16-10-2025,Uttarakhand,Dehradun,248143,1,0,0
+16-10-2025,Uttarakhand,Dehradun,248158,1,0,0
+16-10-2025,Uttarakhand,Dehradun,248179,0,1,0
+16-10-2025,Uttarakhand,Haridwar,247666,1,0,0
+16-10-2025,Uttarakhand,Haridwar,247667,3,1,0
+16-10-2025,Uttarakhand,Haridwar,249408,1,1,0
+16-10-2025,Uttarakhand,Nainital,244715,6,0,0
+16-10-2025,Uttarakhand,Pauri Garhwal,246001,1,0,0
+16-10-2025,Uttarakhand,Pauri Garhwal,246149,3,2,1
+16-10-2025,Uttarakhand,Pauri Garhwal,246162,1,0,0
+16-10-2025,Uttarakhand,Pauri Garhwal,246167,1,0,0
+16-10-2025,Uttarakhand,Pithoragarh,262501,2,0,0
+16-10-2025,Uttarakhand,Tehri Garhwal,249161,4,0,0
+16-10-2025,Uttarakhand,Udham Singh Nagar,263148,4,0,0
+16-10-2025,Uttarakhand,Uttarkashi,249152,1,0,0
+15-10-2025,Uttarakhand,Almora,244715,0,1,0
+15-10-2025,Uttarakhand,Almora,263637,2,0,0
+15-10-2025,Uttarakhand,Almora,263652,2,0,0
+15-10-2025,Uttarakhand,Almora,263653,1,0,0
+15-10-2025,Uttarakhand,Almora,263676,3,0,0
+15-10-2025,Uttarakhand,Bageshwar,263631,0,1,0
+15-10-2025,Uttarakhand,Bageshwar,263632,1,0,0
+15-10-2025,Uttarakhand,Chamoli,246481,1,0,0
+15-10-2025,Uttarakhand,Dehradun,248011,0,0,1
+15-10-2025,Uttarakhand,Dehradun,248013,2,0,0
+15-10-2025,Uttarakhand,Dehradun,248197,5,0,0
+15-10-2025,Uttarakhand,Dehradun,249203,1,0,0
+15-10-2025,Uttarakhand,Haridwar,247667,6,2,0
+15-10-2025,Uttarakhand,Haridwar,247671,2,1,0
+15-10-2025,Uttarakhand,Nainital,263134,3,0,0
+15-10-2025,Uttarakhand,Nainital,263141,1,0,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246130,5,0,0
+15-10-2025,Uttarakhand,Pauri Garhwal,246176,1,0,0
+15-10-2025,Uttarakhand,Pauri Garhwal,249304,0,1,0
+15-10-2025,Uttarakhand,Pithoragarh,262501,1,1,0
+15-10-2025,Uttarakhand,Pithoragarh,262522,3,0,0
+15-10-2025,Uttarakhand,Pithoragarh,262529,1,0,0
+15-10-2025,Uttarakhand,Pithoragarh,262545,2,1,0
+15-10-2025,Uttarakhand,Pithoragarh,262555,0,1,0
+15-10-2025,Uttarakhand,Tehri Garhwal,249161,6,0,0
+15-10-2025,Uttarakhand,Tehri Garhwal,249165,5,0,0
+15-10-2025,Uttarakhand,Tehri Garhwal,249175,1,0,0
+15-10-2025,Uttarakhand,Udham Singh Nagar,262401,7,1,0
+15-10-2025,Uttarakhand,Udham Singh Nagar,263153,5,3,0
+15-10-2025,Uttarakhand,Uttarkashi,249141,0,1,0
+15-10-2025,Uttarakhand,Uttarkashi,249171,1,0,0
+17-10-2025,Uttarakhand,Almora,263652,1,0,0
+17-10-2025,Uttarakhand,Almora,263678,1,0,0
+17-10-2025,Uttarakhand,Bageshwar,263634,3,0,0
+17-10-2025,Uttarakhand,Bageshwar,263642,7,1,0
+17-10-2025,Uttarakhand,Chamoli,246426,1,0,0
+17-10-2025,Uttarakhand,Chamoli,246427,1,0,0
+17-10-2025,Uttarakhand,Chamoli,246428,1,1,0
+17-10-2025,Uttarakhand,Chamoli,246444,1,0,0
+17-10-2025,Uttarakhand,Chamoli,246473,2,0,0
+17-10-2025,Uttarakhand,Chamoli,246481,1,0,0
+17-10-2025,Uttarakhand,Dehradun,248002,4,0,0
+17-10-2025,Uttarakhand,Dehradun,248006,1,0,0
+17-10-2025,Uttarakhand,Dehradun,248007,6,0,0
+17-10-2025,Uttarakhand,Dehradun,248121,1,0,0
+17-10-2025,Uttarakhand,Dehradun,248125,3,1,0
+17-10-2025,Uttarakhand,Dehradun,248158,3,1,0
+17-10-2025,Uttarakhand,Dehradun,248179,2,0,0
+17-10-2025,Uttarakhand,Haridwar,247656,15,3,0
+17-10-2025,Uttarakhand,Haridwar,247662,3,0,0
+17-10-2025,Uttarakhand,Haridwar,247671,3,3,0
+17-10-2025,Uttarakhand,Haridwar,249402,11,2,0
+17-10-2025,Uttarakhand,Haridwar,249403,3,3,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246001,2,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,246128,0,0,1
+17-10-2025,Uttarakhand,Pauri Garhwal,246276,1,0,0
+17-10-2025,Uttarakhand,Pauri Garhwal,249301,1,0,0
+17-10-2025,Uttarakhand,Pithoragarh,262521,1,0,0
+17-10-2025,Uttarakhand,Pithoragarh,262522,4,2,0
+17-10-2025,Uttarakhand,Pithoragarh,262529,3,1,0
+17-10-2025,Uttarakhand,Pithoragarh,262531,4,0,0
+17-10-2025,Uttarakhand,Pithoragarh,262532,2,0,0
+17-10-2025,Uttarakhand,Pithoragarh,262552,1,0,0
+17-10-2025,Uttarakhand,Rudraprayag,246141,10,0,0
+17-10-2025,Uttarakhand,Rudraprayag,246171,3,2,0
+17-10-2025,Uttarakhand,Rudraprayag,246419,1,0,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249161,6,0,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249165,9,0,0
+17-10-2025,Uttarakhand,Tehri Garhwal,249180,5,2,0
+17-10-2025,Uttarakhand,Udham Singh Nagar,263152,4,0,0
+17-10-2025,Uttarakhand,Uttarkashi,249193,8,0,0

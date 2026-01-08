@@ -1,0 +1,26 @@
+{
+    "experiment_name": "Phase 2: Sanity Check (TabPFN vs. AutoGluon)",
+    "run_timestamp_utc": "2025-11-06T08:35:09.108564",
+    "n_repeats": 20,
+    "train_sample_size": 1024,
+    "test_sample_size": 500,
+    "ag_time_limit_seconds": 300,
+    "simple_features_used": [
+        "state",
+        "district",
+        "age_0_5",
+        "age_5_17",
+        "age_18_greater",
+        "month",
+        "day_of_week"
+    ],
+    "categorical_features": [
+        "state",
+        "district"
+    ],
+    "target_task1": "is_anomaly",
+    "target_task3": "high_inequality",
+    "time_cutoff": "2025-09-25T00:00:00",
+    "task1_volatility_threshold": 1.10357669298654,
+    "task3_inequality_threshold": 1.1364626085551897
+}

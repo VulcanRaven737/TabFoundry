@@ -1,0 +1,20 @@
+{
+    "Model Configuration": {
+        "Embed Dim": 128,
+        "Layers": 6,
+        "Heads": 8,
+        "Dropout": 0.2,
+        "Batch Size": 256,
+        "Learning Rate": 0.0001
+    },
+    "Feature Counts": {
+        "Categorical": 5,
+        "Numerical": 11,
+        "Total": 16
+    },
+    "Results": {
+        "Task 1 ROC-AUC": 0.9789364337921143,
+        "Task 2 RMSE": 11.510132789611816,
+        "Task 3 ROC-AUC": 0.9596810936927795
+    }
+}

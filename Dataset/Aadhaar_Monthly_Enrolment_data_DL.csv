@@ -1,0 +1,2942 @@
+date,state,district,pincode,age_0_5,age_5_17,age_18_greater
+01-04-2025,Delhi,North West Delhi,110085,387,114,13
+01-04-2025,Delhi,North West Delhi,110040,221,134,28
+01-04-2025,Delhi,Central Delhi,110003,80,41,12
+01-04-2025,Delhi,South Delhi,110017,151,35,12
+01-05-2025,Delhi,East Delhi,110051,185,67,19
+01-05-2025,Delhi,East Delhi,110092,485,213,36
+01-05-2025,Delhi,South Delhi,110017,118,54,17
+01-06-2025,Delhi,South Delhi,110062,452,188,10
+01-06-2025,Delhi,West Delhi,110059,1193,403,199
+01-06-2025,Delhi,West Delhi,110027,140,52,17
+01-07-2025,Delhi,South Delhi,110029,57,15,16
+01-07-2025,Delhi,New Delhi,110061,52,52,46
+01-07-2025,Delhi,South Delhi,110065,129,52,20
+01-07-2025,Delhi,Central Delhi,110054,103,33,10
+01-09-2025,Delhi,Central Delhi,110005,4,5,0
+01-09-2025,Delhi,East Delhi,110031,9,3,1
+01-09-2025,Delhi,East Delhi,110053,2,1,0
+01-09-2025,Delhi,New Delhi,110001,2,0,0
+01-09-2025,Delhi,North Delhi,110007,10,2,0
+01-09-2025,Delhi,North East,110094,8,6,0
+01-09-2025,Delhi,North East Delhi,110053,17,4,0
+01-09-2025,Delhi,North West Delhi,110009,2,1,0
+01-09-2025,Delhi,North West Delhi,110040,5,6,1
+01-09-2025,Delhi,North West Delhi,110088,1,0,0
+01-09-2025,Delhi,South Delhi,110013,1,1,0
+01-09-2025,Delhi,South Delhi,110016,1,1,0
+01-09-2025,Delhi,South Delhi,110047,4,1,0
+01-09-2025,Delhi,South Delhi,110068,2,0,1
+01-09-2025,Delhi,South West Delhi,110022,3,1,1
+01-09-2025,Delhi,South West Delhi,110038,1,0,0
+01-09-2025,Delhi,South West Delhi,110077,3,2,0
+01-09-2025,Delhi,South West Delhi,110078,9,0,1
+04-09-2025,Delhi,Central Delhi,110002,3,0,0
+04-09-2025,Delhi,North Delhi,110007,1,2,0
+04-09-2025,Delhi,North East,110094,6,12,0
+04-09-2025,Delhi,North East Delhi,110094,38,13,0
+04-09-2025,Delhi,North West Delhi,110040,6,0,0
+04-09-2025,Delhi,North West Delhi,110056,1,0,1
+04-09-2025,Delhi,North West Delhi,110088,5,3,0
+04-09-2025,Delhi,North West Delhi,110089,0,1,0
+04-09-2025,Delhi,South Delhi,110019,7,2,0
+04-09-2025,Delhi,South Delhi,110020,4,0,0
+04-09-2025,Delhi,South Delhi,110030,4,1,0
+04-09-2025,Delhi,South Delhi,110080,5,1,0
+04-09-2025,Delhi,South West Delhi,110029,1,0,0
+04-09-2025,Delhi,South West Delhi,110046,5,1,0
+04-09-2025,Delhi,West Delhi,110027,10,2,0
+04-09-2025,Delhi,West Delhi,110041,43,6,0
+04-09-2025,Delhi,West Delhi,110063,4,0,0
+04-09-2025,Delhi,West Delhi,110064,0,1,0
+02-09-2025,Delhi,Central Delhi,110008,3,1,0
+02-09-2025,Delhi,East Delhi,110031,9,5,0
+02-09-2025,Delhi,East Delhi,110096,7,2,0
+02-09-2025,Delhi,New Delhi,110023,1,0,0
+02-09-2025,Delhi,North East Delhi,110094,31,13,0
+02-09-2025,Delhi,North West Delhi,110009,8,2,1
+02-09-2025,Delhi,North West Delhi,110052,6,2,0
+02-09-2025,Delhi,North West Delhi,110085,10,4,0
+02-09-2025,Delhi,Shahdara,110032,2,0,0
+02-09-2025,Delhi,Shahdara,110095,1,1,0
+02-09-2025,Delhi,South Delhi,110044,14,5,0
+02-09-2025,Delhi,South Delhi,110048,0,0,1
+02-09-2025,Delhi,South West Delhi,110028,0,1,0
+02-09-2025,Delhi,South West Delhi,110061,4,0,0
+02-09-2025,Delhi,South West Delhi,110070,2,0,1
+02-09-2025,Delhi,South West Delhi,110077,4,1,0
+03-09-2025,Delhi,Najafgarh,110043,1,0,0
+03-09-2025,Delhi,North East Delhi,110053,13,5,0
+03-09-2025,Delhi,North East Delhi,110094,35,29,0
+03-09-2025,Delhi,North West Delhi,110009,3,5,0
+03-09-2025,Delhi,North West Delhi,110033,7,0,0
+03-09-2025,Delhi,North West Delhi,110040,5,0,0
+03-09-2025,Delhi,South Delhi,110013,1,1,0
+03-09-2025,Delhi,South Delhi,110019,10,0,1
+03-09-2025,Delhi,South Delhi,110025,4,2,0
+03-09-2025,Delhi,South Delhi,110044,15,9,0
+03-09-2025,Delhi,South Delhi,110047,2,1,0
+03-09-2025,Delhi,South Delhi,110065,4,0,1
+03-09-2025,Delhi,South Delhi,110080,4,2,0
+03-09-2025,Delhi,South West Delhi,110037,4,2,1
+03-09-2025,Delhi,South West Delhi,110061,1,0,0
+03-09-2025,Delhi,South West Delhi,110070,3,3,3
+03-09-2025,Delhi,South West Delhi,110072,3,1,0
+03-09-2025,Delhi,West Delhi,110063,8,3,0
+03-09-2025,Delhi,West Delhi,110087,2,0,0
+06-09-2025,Delhi,Central Delhi,110011,1,0,0
+06-09-2025,Delhi,Central Delhi,110012,4,0,1
+06-09-2025,Delhi,Central Delhi,110055,3,1,0
+06-09-2025,Delhi,Central Delhi,110060,1,0,0
+06-09-2025,Delhi,East Delhi,110032,2,0,0
+06-09-2025,Delhi,East Delhi,110092,26,6,1
+06-09-2025,Delhi,Najafgarh,110043,1,1,0
+06-09-2025,Delhi,North Delhi,110006,10,4,0
+06-09-2025,Delhi,North East Delhi,110094,24,23,1
+06-09-2025,Delhi,North West Delhi,110036,6,4,0
+06-09-2025,Delhi,North West Delhi,110039,4,1,0
+06-09-2025,Delhi,Shahdara,110032,0,1,4
+06-09-2025,Delhi,South Delhi,110016,1,0,0
+06-09-2025,Delhi,South Delhi,110049,0,1,0
+06-09-2025,Delhi,South Delhi,110080,7,0,0
+06-09-2025,Delhi,South West Delhi,110028,1,0,0
+06-09-2025,Delhi,South West Delhi,110043,22,10,0
+06-09-2025,Delhi,South West Delhi,110045,17,4,1
+06-09-2025,Delhi,South West Delhi,110067,1,0,1
+06-09-2025,Delhi,South West Delhi,110075,8,1,0
+06-09-2025,Delhi,West Delhi,110026,1,0,0
+07-09-2025,Delhi,North Delhi,110007,2,0,0
+07-09-2025,Delhi,North West Delhi,110033,1,0,0
+07-09-2025,Delhi,North West Delhi,110035,1,0,0
+07-09-2025,Delhi,South West Delhi,110010,1,0,0
+07-09-2025,Delhi,South West Delhi,110043,4,0,0
+07-09-2025,Delhi,South West Delhi,110077,2,1,0
+07-09-2025,Delhi,West Delhi,110018,2,0,0
+05-09-2025,Delhi,Central Delhi,110012,1,0,0
+05-09-2025,Delhi,East Delhi,110092,7,7,0
+05-09-2025,Delhi,East Delhi,110096,4,2,0
+05-09-2025,Delhi,North East,110094,4,1,0
+05-09-2025,Delhi,North West Delhi,110039,1,0,0
+05-09-2025,Delhi,North West Delhi,110052,1,1,0
+05-09-2025,Delhi,North West Delhi,110086,15,2,0
+05-09-2025,Delhi,South Delhi,110019,2,0,0
+05-09-2025,Delhi,South Delhi,110025,4,2,0
+05-09-2025,Delhi,South Delhi,110062,3,1,0
+05-09-2025,Delhi,South West Delhi,110072,1,0,0
+05-09-2025,Delhi,West Delhi,110018,1,0,0
+10-09-2025,Delhi,Central Delhi,110003,2,0,0
+10-09-2025,Delhi,Central Delhi,110005,6,3,0
+10-09-2025,Delhi,East Delhi,110095,16,2,0
+10-09-2025,Delhi,New Delhi,110001,2,1,0
+10-09-2025,Delhi,North West Delhi,110035,4,2,0
+10-09-2025,Delhi,North West Delhi,110081,4,1,0
+10-09-2025,Delhi,South Delhi,110013,1,0,0
+10-09-2025,Delhi,South Delhi,110019,7,2,0
+10-09-2025,Delhi,South Delhi,110030,7,2,0
+10-09-2025,Delhi,South Delhi,110049,1,0,0
+10-09-2025,Delhi,South West Delhi,110030,1,0,0
+10-09-2025,Delhi,South West Delhi,110037,9,2,0
+10-09-2025,Delhi,South West Delhi,110043,26,10,0
+10-09-2025,Delhi,South West Delhi,110070,2,0,1
+10-09-2025,Delhi,West Delhi,110059,31,10,0
+08-09-2025,Delhi,Central Delhi,110002,4,1,0
+08-09-2025,Delhi,Central Delhi,110011,1,0,0
+08-09-2025,Delhi,East Delhi,110032,6,1,0
+08-09-2025,Delhi,East Delhi,110051,6,2,0
+08-09-2025,Delhi,North East,110053,4,5,0
+08-09-2025,Delhi,North East Delhi,110032,8,2,0
+08-09-2025,Delhi,North West Delhi,110081,7,0,0
+08-09-2025,Delhi,North West Delhi,110088,5,3,0
+08-09-2025,Delhi,South Delhi,110016,0,0,2
+08-09-2025,Delhi,South Delhi,110030,12,2,1
+08-09-2025,Delhi,South West Delhi,110010,1,0,0
+08-09-2025,Delhi,South West Delhi,110023,2,1,0
+08-09-2025,Delhi,South West Delhi,110028,1,1,0
+08-09-2025,Delhi,South West Delhi,110045,22,4,0
+08-09-2025,Delhi,South West Delhi,110067,0,1,4
+08-09-2025,Delhi,South West Delhi,110077,9,1,0
+08-09-2025,Delhi,West Delhi,110059,43,10,0
+08-09-2025,Delhi,West Delhi,110063,7,2,0
+09-09-2025,Delhi,Central Delhi,110055,1,0,0
+09-09-2025,Delhi,East Delhi,110092,11,6,1
+09-09-2025,Delhi,North East Delhi,110032,6,6,0
+09-09-2025,Delhi,North West Delhi,110086,42,12,0
+09-09-2025,Delhi,South Delhi,110003,1,0,0
+09-09-2025,Delhi,South Delhi,110016,3,1,0
+09-09-2025,Delhi,South Delhi,110062,16,6,0
+09-09-2025,Delhi,South Delhi,110065,4,1,1
+09-09-2025,Delhi,South East Delhi,110025,1,0,0
+09-09-2025,Delhi,South West Delhi,110043,12,3,0
+09-09-2025,Delhi,South West Delhi,110066,3,1,0
+09-09-2025,Delhi,West Delhi,110026,1,0,0
+12-09-2025,Delhi,East Delhi,110051,10,3,0
+12-09-2025,Delhi,East Delhi,110091,9,5,0
+12-09-2025,Delhi,East Delhi,110092,7,4,0
+12-09-2025,Delhi,East Delhi,110095,10,1,0
+12-09-2025,Delhi,New Delhi,110001,1,0,0
+12-09-2025,Delhi,North Delhi,110054,3,0,0
+12-09-2025,Delhi,North East,110093,4,0,0
+12-09-2025,Delhi,North East,110094,11,2,0
+12-09-2025,Delhi,North East Delhi,110053,9,4,0
+12-09-2025,Delhi,North West Delhi,110052,3,4,0
+12-09-2025,Delhi,North West Delhi,110085,10,6,0
+12-09-2025,Delhi,Shahdara,110095,2,0,0
+12-09-2025,Delhi,South Delhi,110044,23,8,0
+12-09-2025,Delhi,South Delhi,110080,2,0,0
+12-09-2025,Delhi,South West Delhi,110022,1,1,0
+12-09-2025,Delhi,South West Delhi,110037,11,0,0
+12-09-2025,Delhi,South West Delhi,110064,1,0,0
+12-09-2025,Delhi,South West Delhi,110067,4,1,1
+12-09-2025,Delhi,South West Delhi,110075,3,1,0
+12-09-2025,Delhi,South West Delhi,110077,13,2,0
+12-09-2025,Delhi,West Delhi,110026,0,1,0
+12-09-2025,Delhi,West Delhi,110058,1,2,0
+12-09-2025,Delhi,West Delhi,110087,2,0,0
+11-09-2025,Delhi,Central Delhi,110012,4,0,0
+11-09-2025,Delhi,East Delhi,110031,10,1,0
+11-09-2025,Delhi,East Delhi,110091,10,3,0
+11-09-2025,Delhi,North Delhi,110054,1,1,0
+11-09-2025,Delhi,North East,110053,4,1,0
+11-09-2025,Delhi,North West Delhi,110009,1,0,0
+11-09-2025,Delhi,North West Delhi,110034,6,2,0
+11-09-2025,Delhi,North West Delhi,110081,3,0,0
+11-09-2025,Delhi,South Delhi,110014,2,2,0
+11-09-2025,Delhi,South Delhi,110047,6,0,0
+11-09-2025,Delhi,South Delhi,110074,11,5,0
+11-09-2025,Delhi,South West Delhi,110016,1,0,0
+11-09-2025,Delhi,South West Delhi,110029,4,0,0
+11-09-2025,Delhi,South West Delhi,110043,10,5,0
+11-09-2025,Delhi,South West Delhi,110067,3,0,0
+11-09-2025,Delhi,South West Delhi,110077,2,2,0
+11-09-2025,Delhi,West Delhi,110041,23,6,0
+11-09-2025,Delhi,West Delhi,110059,25,8,0
+15-09-2025,Delhi,Central Delhi,110002,4,0,0
+15-09-2025,Delhi,Central Delhi,110003,5,1,0
+15-09-2025,Delhi,Central Delhi,110008,7,2,0
+15-09-2025,Delhi,Central Delhi,110012,3,1,1
+15-09-2025,Delhi,Central Delhi,110055,5,2,0
+15-09-2025,Delhi,East Delhi,110053,1,0,0
+15-09-2025,Delhi,North Delhi,110006,3,2,0
+15-09-2025,Delhi,North West Delhi,110035,1,0,0
+15-09-2025,Delhi,North West Delhi,110042,11,1,0
+15-09-2025,Delhi,North West Delhi,110052,10,2,0
+15-09-2025,Delhi,North West Delhi,110081,12,0,0
+15-09-2025,Delhi,North West Delhi,110088,3,2,0
+15-09-2025,Delhi,South Delhi,110062,26,6,0
+15-09-2025,Delhi,South Delhi,110065,1,0,0
+15-09-2025,Delhi,South Delhi,110074,20,2,0
+15-09-2025,Delhi,South Delhi,110076,7,0,0
+15-09-2025,Delhi,South West Delhi,110043,9,6,0
+15-09-2025,Delhi,South West Delhi,110072,1,1,0
+15-09-2025,Delhi,South West Delhi,110077,7,0,0
+15-09-2025,Delhi,West Delhi,110015,4,2,0
+14-09-2025,Delhi,Central Delhi,110002,1,0,0
+14-09-2025,Delhi,North East,110094,8,1,0
+14-09-2025,Delhi,North West Delhi,110033,0,1,0
+14-09-2025,Delhi,North West Delhi,110040,0,1,0
+14-09-2025,Delhi,North West Delhi,110083,1,0,0
+14-09-2025,Delhi,North West Delhi,110085,9,0,0
+14-09-2025,Delhi,South Delhi,110014,1,0,0
+14-09-2025,Delhi,South West Delhi,110010,2,0,0
+14-09-2025,Delhi,South West Delhi,110038,1,0,0
+14-09-2025,Delhi,South West Delhi,110077,1,0,0
+14-09-2025,Delhi,West Delhi,110018,1,2,0
+13-09-2025,Delhi,Central Delhi,110001,1,0,0
+13-09-2025,Delhi,Central Delhi,110011,1,0,0
+13-09-2025,Delhi,Central Delhi,110060,1,0,0
+13-09-2025,Delhi,East Delhi,110091,16,1,0
+13-09-2025,Delhi,East Delhi,110096,14,4,0
+13-09-2025,Delhi,Najafgarh,110043,0,1,0
+13-09-2025,Delhi,New Delhi,110021,1,0,0
+13-09-2025,Delhi,North East,110053,1,4,0
+13-09-2025,Delhi,North East,110093,3,1,0
+13-09-2025,Delhi,North East,110094,4,3,0
+13-09-2025,Delhi,North East Delhi,110032,9,2,0
+13-09-2025,Delhi,North West Delhi,110083,8,0,0
+13-09-2025,Delhi,North West Delhi,110085,9,3,0
+13-09-2025,Delhi,North West Delhi,110089,0,1,0
+13-09-2025,Delhi,Shahdara,110032,0,3,0
+13-09-2025,Delhi,South Delhi,110019,7,2,0
+13-09-2025,Delhi,South Delhi,110024,1,0,0
+13-09-2025,Delhi,South Delhi,110025,13,2,0
+13-09-2025,Delhi,South Delhi,110062,21,4,0
+13-09-2025,Delhi,South Delhi,110074,8,0,0
+13-09-2025,Delhi,South Delhi,110080,6,1,0
+13-09-2025,Delhi,South West Delhi,110037,6,4,0
+13-09-2025,Delhi,South West Delhi,110038,0,1,0
+13-09-2025,Delhi,West Delhi,110058,3,1,0
+18-09-2025,Delhi,Central Delhi,110002,4,5,0
+18-09-2025,Delhi,Central Delhi,110012,1,1,0
+18-09-2025,Delhi,Central Delhi,110055,3,3,2
+18-09-2025,Delhi,East Delhi,110032,3,0,0
+18-09-2025,Delhi,East Delhi,110053,1,0,0
+18-09-2025,Delhi,New Delhi,110021,1,0,0
+18-09-2025,Delhi,North Delhi,110006,10,1,0
+18-09-2025,Delhi,North East,110094,11,4,0
+18-09-2025,Delhi,North West Delhi,110082,4,1,0
+18-09-2025,Delhi,North West Delhi,110089,2,0,0
+18-09-2025,Delhi,Shahdara,110095,1,0,0
+18-09-2025,Delhi,South Delhi,110030,7,2,0
+18-09-2025,Delhi,South West Delhi,110029,0,1,0
+18-09-2025,Delhi,South West Delhi,110045,16,2,0
+18-09-2025,Delhi,South West Delhi,110061,2,0,0
+18-09-2025,Delhi,West Delhi,110027,4,0,0
+16-09-2025,Delhi,Central Delhi,110001,0,1,0
+16-09-2025,Delhi,Central Delhi,110005,2,2,1
+16-09-2025,Delhi,Central Delhi,110008,6,1,0
+16-09-2025,Delhi,East Delhi,110032,1,1,0
+16-09-2025,Delhi,East Delhi,110096,9,3,0
+16-09-2025,Delhi,New Delhi,110001,2,0,0
+16-09-2025,Delhi,North West Delhi,110039,8,1,0
+16-09-2025,Delhi,North West Delhi,110086,28,8,0
+16-09-2025,Delhi,South Delhi,110014,5,0,0
+16-09-2025,Delhi,South Delhi,110017,6,3,0
+16-09-2025,Delhi,South Delhi,110076,2,2,0
+16-09-2025,Delhi,South West Delhi,110021,1,0,0
+16-09-2025,Delhi,South West Delhi,110023,1,1,0
+16-09-2025,Delhi,South West Delhi,110028,1,1,0
+16-09-2025,Delhi,South West Delhi,110037,7,1,0
+16-09-2025,Delhi,South West Delhi,110067,0,0,1
+16-09-2025,Delhi,South West Delhi,110075,5,2,0
+16-09-2025,Delhi,South West Delhi,110077,2,0,0
+16-09-2025,Delhi,West Delhi,110059,26,15,1
+17-09-2025,Delhi,Central Delhi,110008,7,2,0
+17-09-2025,Delhi,East Delhi,110096,2,4,0
+17-09-2025,Delhi,North Delhi,110007,6,0,1
+17-09-2025,Delhi,North East Delhi,110032,7,0,0
+17-09-2025,Delhi,North East Delhi,110094,39,17,0
+17-09-2025,Delhi,North West Delhi,110036,3,0,0
+17-09-2025,Delhi,North West Delhi,110039,12,1,1
+17-09-2025,Delhi,North West Delhi,110042,24,5,0
+17-09-2025,Delhi,North West Delhi,110083,1,2,0
+17-09-2025,Delhi,Shahdara,110032,3,4,0
+17-09-2025,Delhi,Shahdara,110053,0,1,0
+17-09-2025,Delhi,South Delhi,110025,11,2,0
+17-09-2025,Delhi,South Delhi,110044,18,11,0
+17-09-2025,Delhi,South Delhi,110047,2,1,0
+17-09-2025,Delhi,South Delhi,110065,2,1,1
+17-09-2025,Delhi,South Delhi,110068,0,1,0
+17-09-2025,Delhi,South Delhi,110076,5,2,0
+17-09-2025,Delhi,South West Delhi,110023,1,0,0
+17-09-2025,Delhi,South West Delhi,110037,3,4,0
+17-09-2025,Delhi,South West Delhi,110043,23,4,0
+17-09-2025,Delhi,South West Delhi,110045,17,4,0
+17-09-2025,Delhi,South West Delhi,110061,1,2,0
+17-09-2025,Delhi,South West Delhi,110073,2,0,0
+17-09-2025,Delhi,South West Delhi,110078,6,1,0
+17-09-2025,Delhi,West Delhi,110058,0,3,0
+20-09-2025,Delhi,Central Delhi,110002,4,0,0
+20-09-2025,Delhi,Central Delhi,110003,3,0,0
+20-09-2025,Delhi,Central Delhi,110005,3,0,0
+20-09-2025,Delhi,Central Delhi,110012,3,0,0
+20-09-2025,Delhi,Central Delhi,110055,3,0,0
+20-09-2025,Delhi,North Delhi,110054,0,6,0
+20-09-2025,Delhi,North East,110093,1,1,0
+20-09-2025,Delhi,North West Delhi,110083,5,0,0
+20-09-2025,Delhi,Shahdara,110093,0,2,1
+20-09-2025,Delhi,South Delhi,110019,6,2,0
+20-09-2025,Delhi,South Delhi,110044,15,4,0
+20-09-2025,Delhi,South Delhi,110062,17,4,1
+20-09-2025,Delhi,South Delhi,110068,2,3,0
+20-09-2025,Delhi,South Delhi,110080,2,1,0
+20-09-2025,Delhi,South West Delhi,110010,3,0,0
+20-09-2025,Delhi,South West Delhi,110043,17,7,0
+20-09-2025,Delhi,South West Delhi,110061,1,0,0
+20-09-2025,Delhi,South West Delhi,110067,2,0,1
+20-09-2025,Delhi,West Delhi,110041,13,4,0
+20-09-2025,Delhi,West Delhi,110043,0,1,0
+20-09-2025,Delhi,West Delhi,110059,38,11,2
+19-09-2025,Delhi,Central Delhi,110012,2,1,0
+19-09-2025,Delhi,East Delhi,110032,5,2,0
+19-09-2025,Delhi,North Delhi,110006,6,2,0
+19-09-2025,Delhi,North East,110093,1,1,0
+19-09-2025,Delhi,North East Delhi,110053,7,8,0
+19-09-2025,Delhi,North East Delhi,110094,22,6,0
+19-09-2025,Delhi,North West Delhi,110039,14,2,1
+19-09-2025,Delhi,North West Delhi,110086,23,11,0
+19-09-2025,Delhi,North West Delhi,110088,4,1,0
+19-09-2025,Delhi,Shahdara,110032,2,0,0
+19-09-2025,Delhi,South Delhi,110019,4,0,0
+19-09-2025,Delhi,South Delhi,110020,4,1,0
+19-09-2025,Delhi,South West Delhi,110029,4,0,0
+19-09-2025,Delhi,South West Delhi,110038,1,0,0
+19-09-2025,Delhi,South West Delhi,110070,1,2,1
+19-09-2025,Delhi,West Delhi,110026,3,0,0
+23-09-2025,Delhi,Central Delhi,110008,7,5,0
+23-09-2025,Delhi,Central Delhi,110012,1,1,0
+23-09-2025,Delhi,East Delhi,110051,7,0,0
+23-09-2025,Delhi,East Delhi,110092,19,7,1
+23-09-2025,Delhi,North Delhi,110007,5,8,0
+23-09-2025,Delhi,North Delhi,110054,2,0,0
+23-09-2025,Delhi,North Delhi,110084,14,6,0
+23-09-2025,Delhi,North East,110053,13,3,0
+23-09-2025,Delhi,North West Delhi,110088,2,0,0
+23-09-2025,Delhi,Shahdara,110095,0,0,1
+23-09-2025,Delhi,South Delhi,110024,2,2,0
+23-09-2025,Delhi,South Delhi,110030,4,1,2
+23-09-2025,Delhi,South Delhi,110048,2,1,0
+23-09-2025,Delhi,South Delhi,110074,3,2,0
+23-09-2025,Delhi,South West Delhi,110045,2,5,0
+23-09-2025,Delhi,South West Delhi,110046,6,0,0
+23-09-2025,Delhi,South West Delhi,110067,0,1,0
+22-09-2025,Delhi,Central Delhi,110008,3,1,0
+22-09-2025,Delhi,East Delhi,110031,5,4,0
+22-09-2025,Delhi,East Delhi,110032,1,2,0
+22-09-2025,Delhi,East Delhi,110051,5,1,0
+22-09-2025,Delhi,East Delhi,110053,0,1,0
+22-09-2025,Delhi,North Delhi,110084,3,2,0
+22-09-2025,Delhi,North West Delhi,110033,8,3,0
+22-09-2025,Delhi,Shahdara,110095,0,1,0
+22-09-2025,Delhi,South Delhi,110019,0,1,0
+22-09-2025,Delhi,South Delhi,110025,5,4,0
+22-09-2025,Delhi,South Delhi,110030,4,0,1
+22-09-2025,Delhi,South West Delhi,110030,1,0,0
+22-09-2025,Delhi,South West Delhi,110037,3,2,0
+22-09-2025,Delhi,South West Delhi,110061,2,0,0
+22-09-2025,Delhi,South West Delhi,110071,2,0,0
+22-09-2025,Delhi,West Delhi,110087,1,0,0
+21-09-2025,Delhi,East Delhi,110032,0,1,0
+21-09-2025,Delhi,East Delhi,110096,5,0,0
+21-09-2025,Delhi,North Delhi,110006,0,1,0
+21-09-2025,Delhi,North West Delhi,110009,0,1,0
+21-09-2025,Delhi,North West Delhi,110033,1,0,0
+21-09-2025,Delhi,North West Delhi,110042,0,1,0
+21-09-2025,Delhi,North West Delhi,110088,1,0,0
+21-09-2025,Delhi,South Delhi,110003,1,0,0
+21-09-2025,Delhi,South Delhi,110019,3,0,0
+21-09-2025,Delhi,South Delhi,110044,6,1,0
+21-09-2025,Delhi,South West Delhi,110045,2,0,1
+21-09-2025,Delhi,West Delhi,110027,1,0,0
+26-09-2025,Delhi,Central Delhi,110001,1,0,0
+26-09-2025,Delhi,East Delhi,110091,8,1,0
+26-09-2025,Delhi,East Delhi,110095,21,2,0
+26-09-2025,Delhi,North Delhi,110054,3,1,0
+26-09-2025,Delhi,North East Delhi,110094,10,10,0
+26-09-2025,Delhi,North West Delhi,110033,8,4,0
+26-09-2025,Delhi,North West Delhi,110040,1,0,3
+26-09-2025,Delhi,North West Delhi,110085,5,2,0
+26-09-2025,Delhi,Shahdara,110095,2,0,0
+26-09-2025,Delhi,South Delhi,110003,0,1,0
+26-09-2025,Delhi,South Delhi,110017,3,0,0
+24-09-2025,Delhi,Central Delhi,110003,1,0,1
+24-09-2025,Delhi,Central Delhi,110008,2,0,0
+24-09-2025,Delhi,East Delhi,110095,8,0,0
+24-09-2025,Delhi,North Delhi,110006,11,1,1
+24-09-2025,Delhi,North West Delhi,110009,3,0,0
+24-09-2025,Delhi,North West Delhi,110033,10,0,0
+24-09-2025,Delhi,North West Delhi,110036,4,0,0
+24-09-2025,Delhi,North West Delhi,110081,11,2,0
+24-09-2025,Delhi,North West Delhi,110089,3,0,0
+24-09-2025,Delhi,South Delhi,110074,7,1,0
+24-09-2025,Delhi,South West Delhi,110046,6,0,0
+24-09-2025,Delhi,South West Delhi,110057,0,1,0
+24-09-2025,Delhi,South West Delhi,110070,2,0,0
+25-09-2025,Delhi,Central Delhi,110008,2,3,0
+25-09-2025,Delhi,Central Delhi,110012,2,0,0
+25-09-2025,Delhi,Central Delhi,110055,0,1,0
+25-09-2025,Delhi,New Delhi,110021,2,0,0
+25-09-2025,Delhi,North East Delhi,110032,4,1,0
+25-09-2025,Delhi,North East Delhi,110093,7,3,0
+25-09-2025,Delhi,North West Delhi,110033,2,2,0
+25-09-2025,Delhi,North West Delhi,110040,3,4,0
+25-09-2025,Delhi,South Delhi,110019,6,1,0
+25-09-2025,Delhi,South Delhi,110025,4,2,0
+25-09-2025,Delhi,South Delhi,110074,1,0,0
+25-09-2025,Delhi,South West Delhi,110071,5,1,0
+25-09-2025,Delhi,South West Delhi,110075,1,0,0
+25-09-2025,Delhi,South West Delhi,110077,3,1,0
+25-09-2025,Delhi,West Delhi,110026,1,0,0
+26-09-2025,Delhi,South Delhi,110025,6,1,0
+26-09-2025,Delhi,South Delhi,110062,13,4,0
+26-09-2025,Delhi,South Delhi,110074,4,0,0
+26-09-2025,Delhi,South Delhi,110080,5,0,0
+26-09-2025,Delhi,South West Delhi,110037,4,1,0
+26-09-2025,Delhi,South West Delhi,110078,5,0,0
+26-09-2025,Delhi,West Delhi,110041,10,1,0
+26-09-2025,Delhi,West Delhi,110059,32,3,0
+26-09-2025,Delhi,West Delhi,110063,2,0,0
+27-09-2025,Delhi,Central Delhi,110003,2,0,0
+27-09-2025,Delhi,Central Delhi,110005,1,1,0
+27-09-2025,Delhi,East Delhi,110032,1,0,0
+27-09-2025,Delhi,North Delhi,110084,5,1,0
+27-09-2025,Delhi,North East Delhi,110032,1,0,0
+27-09-2025,Delhi,North West Delhi,110039,3,1,1
+27-09-2025,Delhi,North West Delhi,110085,3,3,0
+27-09-2025,Delhi,North West Delhi,110088,1,3,0
+27-09-2025,Delhi,South Delhi,110003,0,1,0
+27-09-2025,Delhi,South Delhi,110044,7,0,0
+27-09-2025,Delhi,South Delhi,110062,11,2,1
+27-09-2025,Delhi,South Delhi,110074,4,6,0
+27-09-2025,Delhi,South West Delhi,110029,2,0,0
+27-09-2025,Delhi,South West Delhi,110037,2,1,0
+27-09-2025,Delhi,South West Delhi,110070,1,0,0
+27-09-2025,Delhi,South West Delhi,110071,2,1,0
+27-09-2025,Delhi,South West Delhi,110075,2,1,0
+27-09-2025,Delhi,West Delhi,110027,0,1,0
+27-09-2025,Delhi,West Delhi,110063,1,0,0
+28-09-2025,Delhi,Central Delhi,110005,1,0,0
+28-09-2025,Delhi,North East,110053,2,0,0
+28-09-2025,Delhi,South West Delhi,110046,1,0,0
+29-09-2025,Delhi,East Delhi,110092,1,1,0
+29-09-2025,Delhi,North East Delhi,110053,1,1,1
+29-09-2025,Delhi,North East Delhi,110093,1,0,0
+29-09-2025,Delhi,North West Delhi,110033,1,0,0
+29-09-2025,Delhi,North West Delhi,110040,1,1,0
+29-09-2025,Delhi,North West Delhi,110052,1,0,0
+29-09-2025,Delhi,South Delhi,110020,0,1,0
+29-09-2025,Delhi,South East Delhi,110025,1,0,0
+29-09-2025,Delhi,South West Delhi,110075,2,0,0
+29-09-2025,Delhi,West Delhi,110087,1,0,0
+30-09-2025,Delhi,North Delhi,110084,0,1,0
+30-09-2025,Delhi,North West Delhi,110086,0,1,0
+30-09-2025,Delhi,South Delhi,110019,0,1,0
+30-09-2025,Delhi,South Delhi,110025,1,0,1
+30-09-2025,Delhi,South Delhi,110062,0,1,0
+13-10-2025,Delhi,Central Delhi,110008,3,3,0
+13-10-2025,Delhi,East Delhi,110053,2,0,0
+13-10-2025,Delhi,North East,110094,15,4,0
+13-10-2025,Delhi,North West Delhi,110036,6,2,0
+13-10-2025,Delhi,Shahdara,110053,1,0,0
+13-10-2025,Delhi,South Delhi,110019,5,2,0
+13-10-2025,Delhi,South Delhi,110025,13,15,0
+13-10-2025,Delhi,South Delhi,110049,4,0,0
+13-10-2025,Delhi,South West Delhi,110022,7,0,0
+13-10-2025,Delhi,South West Delhi,110043,17,3,0
+13-10-2025,Delhi,South West Delhi,110070,6,0,1
+13-10-2025,Delhi,West Delhi,110018,15,3,0
+13-10-2025,Delhi,West Delhi,110041,10,5,0
+13-10-2025,Delhi,West Delhi,110059,44,9,2
+13-10-2025,Delhi,West Delhi,110064,1,0,0
+16-10-2025,Delhi,East Delhi,110092,8,4,1
+16-10-2025,Delhi,North Delhi,110006,6,0,0
+16-10-2025,Delhi,North East,110093,1,0,0
+16-10-2025,Delhi,North East,110094,2,3,0
+16-10-2025,Delhi,North East Delhi,110032,3,0,0
+16-10-2025,Delhi,North West Delhi,110035,3,0,0
+16-10-2025,Delhi,North West Delhi,110040,2,1,2
+16-10-2025,Delhi,North West Delhi,110081,2,0,0
+16-10-2025,Delhi,North West Delhi,110085,7,3,0
+16-10-2025,Delhi,South Delhi,110048,0,0,1
+16-10-2025,Delhi,South Delhi,110074,2,1,0
+16-10-2025,Delhi,South West Delhi,110045,4,2,0
+16-10-2025,Delhi,South West Delhi,110061,1,0,0
+16-10-2025,Delhi,South West Delhi,110070,2,1,0
+16-10-2025,Delhi,South West Delhi,110077,2,2,0
+15-10-2025,Delhi,East Delhi,110031,5,3,0
+15-10-2025,Delhi,East Delhi,110096,6,1,0
+15-10-2025,Delhi,New Delhi,110001,0,1,0
+15-10-2025,Delhi,North West Delhi,110039,5,1,0
+15-10-2025,Delhi,North West Delhi,110040,4,0,1
+15-10-2025,Delhi,North West Delhi,110042,15,5,0
+15-10-2025,Delhi,North West Delhi,110052,7,0,0
+15-10-2025,Delhi,North West Delhi,110056,1,0,0
+15-10-2025,Delhi,North West Delhi,110081,5,1,0
+15-10-2025,Delhi,North West Delhi,110083,6,2,0
+15-10-2025,Delhi,North West Delhi,110085,11,5,0
+15-10-2025,Delhi,North West Delhi,110086,25,9,0
+15-10-2025,Delhi,South Delhi,110013,1,0,0
+15-10-2025,Delhi,South Delhi,110047,3,0,0
+15-10-2025,Delhi,South Delhi,110065,1,1,0
+15-10-2025,Delhi,South Delhi,110080,8,1,0
+15-10-2025,Delhi,South West Delhi,110021,0,1,0
+15-10-2025,Delhi,South West Delhi,110057,2,0,0
+15-10-2025,Delhi,South West Delhi,110064,2,1,1
+15-10-2025,Delhi,South West Delhi,110071,1,0,0
+15-10-2025,Delhi,South West Delhi,110073,3,0,0
+15-10-2025,Delhi,South West Delhi,110077,3,2,0
+15-10-2025,Delhi,West Delhi,110059,27,10,1
+17-10-2025,Delhi,Central Delhi,110055,7,1,0
+17-10-2025,Delhi,East Delhi,110091,21,3,0
+17-10-2025,Delhi,North Delhi,110054,6,1,0
+17-10-2025,Delhi,North East,110094,19,6,0
+17-10-2025,Delhi,North West Delhi,110033,20,8,0
+17-10-2025,Delhi,North West Delhi,110052,9,3,0
+17-10-2025,Delhi,North West Delhi,110083,11,3,0
+17-10-2025,Delhi,North West Delhi,110085,22,4,0
+17-10-2025,Delhi,North West Delhi,110088,5,0,0
+17-10-2025,Delhi,South Delhi,110013,5,0,0
+17-10-2025,Delhi,South Delhi,110017,10,3,0
+17-10-2025,Delhi,South Delhi,110025,28,3,0
+17-10-2025,Delhi,South Delhi,110047,10,2,0
+17-10-2025,Delhi,South Delhi,110049,1,0,0
+17-10-2025,Delhi,South Delhi,110068,4,3,0
+17-10-2025,Delhi,South West Delhi,110010,3,0,0
+17-10-2025,Delhi,South West Delhi,110022,3,1,0
+17-10-2025,Delhi,South West Delhi,110037,15,4,0
+17-10-2025,Delhi,South West Delhi,110043,27,3,0
+17-10-2025,Delhi,South West Delhi,110057,3,1,0
+17-10-2025,Delhi,South West Delhi,110067,2,0,0
+01-09-2025,Delhi,Central Delhi,110001,0,1,0
+01-09-2025,Delhi,Central Delhi,110060,4,0,0
+01-09-2025,Delhi,East Delhi,110096,5,2,0
+01-09-2025,Delhi,New Delhi,110021,0,1,0
+01-09-2025,Delhi,North East Delhi,110032,5,2,0
+01-09-2025,Delhi,North West Delhi,110034,2,1,0
+01-09-2025,Delhi,North West Delhi,110039,1,0,0
+01-09-2025,Delhi,North West Delhi,110042,15,7,0
+01-09-2025,Delhi,North West Delhi,110083,8,2,0
+01-09-2025,Delhi,North West Delhi,110086,32,11,0
+01-09-2025,Delhi,Shahdara,110032,3,3,0
+01-09-2025,Delhi,Shahdara,110095,3,0,0
+01-09-2025,Delhi,South Delhi,110017,4,0,0
+01-09-2025,Delhi,South Delhi,110019,6,3,1
+01-09-2025,Delhi,South Delhi,110044,18,11,0
+01-09-2025,Delhi,South Delhi,110049,14,0,0
+01-09-2025,Delhi,South West Delhi,110021,0,1,0
+01-09-2025,Delhi,South West Delhi,110028,0,1,0
+01-09-2025,Delhi,South West Delhi,110045,16,4,0
+01-09-2025,Delhi,South West Delhi,110057,0,2,0
+01-09-2025,Delhi,West Delhi,110026,0,1,0
+01-09-2025,Delhi,West Delhi,110043,0,1,0
+01-09-2025,Delhi,West Delhi,110063,6,1,0
+01-09-2025,Delhi,West Delhi,110087,2,3,0
+01-04-2025,Delhi,West Delhi,110059,974,344,151
+01-04-2025,Delhi,South West Delhi,110061,50,20,11
+01-05-2025,Delhi,East Delhi,110095,299,62,12
+01-06-2025,Delhi,East Delhi,110091,305,113,12
+01-06-2025,Delhi,East Delhi,110092,355,186,14
+01-06-2025,Delhi,New Delhi,110037,101,44,16
+01-07-2025,Delhi,South Delhi,110017,199,83,23
+01-07-2025,Delhi,North West Delhi,110034,372,126,16
+01-07-2025,Delhi,East Delhi,110092,792,290,43
+01-07-2025,Delhi,East Delhi,110091,527,214,12
+01-07-2025,Delhi,South West Delhi,110045,468,207,29
+01-07-2025,Delhi,New Delhi,110057,58,23,19
+01-07-2025,Delhi,New Delhi,110021,61,33,34
+01-07-2025,Delhi,North East Delhi,110094,1826,1029,19
+15-03-2025,Delhi,West Delhi,110059,24,34,18
+01-04-2025,Delhi,South West Delhi,110045,314,95,22
+01-04-2025,Delhi,South West Delhi,110037,126,65,11
+01-04-2025,Delhi,East Delhi,110092,676,221,15
+01-04-2025,Delhi,North West Delhi,110034,295,101,13
+03-09-2025,Delhi,Central Delhi,110002,3,3,0
+03-09-2025,Delhi,Central Delhi,110003,3,1,0
+03-09-2025,Delhi,Central Delhi,110008,3,1,0
+03-09-2025,Delhi,East Delhi,110031,8,3,0
+03-09-2025,Delhi,East Delhi,110092,11,5,1
+03-09-2025,Delhi,East Delhi,110096,6,2,0
+03-09-2025,Delhi,North West Delhi,110042,14,2,0
+03-09-2025,Delhi,North West Delhi,110086,25,11,0
+03-09-2025,Delhi,Shahdara,110053,1,0,0
+03-09-2025,Delhi,Shahdara,110093,1,0,0
+03-09-2025,Delhi,South Delhi,110017,3,2,0
+03-09-2025,Delhi,South West Delhi,110046,7,0,0
+03-09-2025,Delhi,South West Delhi,110064,3,0,0
+03-09-2025,Delhi,South West Delhi,110073,2,0,0
+03-09-2025,Delhi,West Delhi,110015,2,2,0
+02-09-2025,Delhi,East Delhi,110032,4,0,0
+02-09-2025,Delhi,East Delhi,110051,3,3,0
+02-09-2025,Delhi,East Delhi,110091,14,1,0
+02-09-2025,Delhi,East Delhi,110095,30,2,0
+02-09-2025,Delhi,New Delhi,110001,1,1,0
+02-09-2025,Delhi,North Delhi,110006,5,2,0
+02-09-2025,Delhi,North Delhi,110084,11,7,0
+02-09-2025,Delhi,North East,110053,5,1,0
+02-09-2025,Delhi,North East,110094,14,3,0
+02-09-2025,Delhi,North West Delhi,110035,0,1,0
+02-09-2025,Delhi,North West Delhi,110040,2,2,0
+02-09-2025,Delhi,South Delhi,110017,8,1,0
+02-09-2025,Delhi,South Delhi,110019,5,2,0
+02-09-2025,Delhi,South Delhi,110025,11,4,0
+02-09-2025,Delhi,South Delhi,110030,4,0,0
+02-09-2025,Delhi,South Delhi,110074,3,0,0
+02-09-2025,Delhi,South Delhi,110076,7,0,0
+02-09-2025,Delhi,South East Delhi,110025,1,0,0
+02-09-2025,Delhi,South West Delhi,110023,1,0,0
+02-09-2025,Delhi,South West Delhi,110037,0,3,0
+02-09-2025,Delhi,South West Delhi,110045,24,5,0
+02-09-2025,Delhi,South West Delhi,110066,1,0,0
+02-09-2025,Delhi,West Delhi,110041,24,7,0
+06-09-2025,Delhi,New Delhi,110021,0,1,0
+06-09-2025,Delhi,North East,110094,8,5,0
+06-09-2025,Delhi,North West Delhi,110040,2,3,0
+06-09-2025,Delhi,North West Delhi,110042,18,11,0
+06-09-2025,Delhi,North West Delhi,110081,16,4,0
+06-09-2025,Delhi,Shahdara,110093,0,0,1
+06-09-2025,Delhi,South Delhi,110014,2,0,0
+06-09-2025,Delhi,South Delhi,110044,22,7,0
+06-09-2025,Delhi,South West Delhi,110022,1,0,0
+06-09-2025,Delhi,South West Delhi,110064,4,0,0
+06-09-2025,Delhi,South West Delhi,110072,1,0,0
+06-09-2025,Delhi,West Delhi,110058,3,0,0
+06-09-2025,Delhi,West Delhi,110059,64,13,0
+06-09-2025,Delhi,West Delhi,110087,0,0,1
+04-09-2025,Delhi,New Delhi,110021,1,0,0
+04-09-2025,Delhi,North Delhi,110054,1,0,0
+04-09-2025,Delhi,North East,110093,3,0,0
+04-09-2025,Delhi,North East Delhi,110093,11,4,0
+04-09-2025,Delhi,North West Delhi,110035,3,2,0
+04-09-2025,Delhi,South Delhi,110047,3,0,0
+04-09-2025,Delhi,South Delhi,110048,3,1,0
+04-09-2025,Delhi,South Delhi,110074,3,0,0
+04-09-2025,Delhi,South West Delhi,110045,16,4,2
+04-09-2025,Delhi,South West Delhi,110072,1,0,0
+04-09-2025,Delhi,South West Delhi,110075,3,2,0
+04-09-2025,Delhi,South West Delhi,110077,1,3,0
+04-09-2025,Delhi,West Delhi,110058,1,0,0
+05-09-2025,Delhi,Central Delhi,110005,1,1,0
+05-09-2025,Delhi,Central Delhi,110008,3,1,0
+05-09-2025,Delhi,East Delhi,110051,3,1,0
+05-09-2025,Delhi,North East Delhi,110053,4,0,0
+05-09-2025,Delhi,North West Delhi,110040,3,0,0
+05-09-2025,Delhi,Shahdara,110095,5,0,0
+05-09-2025,Delhi,South Delhi,110020,1,0,0
+05-09-2025,Delhi,South Delhi,110044,9,6,0
+05-09-2025,Delhi,South Delhi,110047,4,0,0
+05-09-2025,Delhi,South East Delhi,110025,0,2,0
+05-09-2025,Delhi,South West Delhi,110037,1,0,0
+05-09-2025,Delhi,West Delhi,110041,1,1,0
+05-09-2025,Delhi,West Delhi,110059,10,5,0
+07-09-2025,Delhi,Central Delhi,110008,3,0,0
+07-09-2025,Delhi,North East,110094,7,0,0
+07-09-2025,Delhi,North East Delhi,110053,4,2,0
+07-09-2025,Delhi,North West Delhi,110081,2,1,0
+07-09-2025,Delhi,Shahdara,110093,0,1,0
+07-09-2025,Delhi,West Delhi,110015,3,0,0
+07-09-2025,Delhi,West Delhi,110041,9,1,0
+07-09-2025,Delhi,West Delhi,110059,5,5,0
+09-09-2025,Delhi,Central Delhi,110002,5,0,0
+09-09-2025,Delhi,Central Delhi,110012,1,2,1
+09-09-2025,Delhi,East Delhi,110051,8,3,0
+09-09-2025,Delhi,North East,110094,10,7,0
+09-09-2025,Delhi,North East Delhi,110093,9,4,0
+09-09-2025,Delhi,North West Delhi,110036,4,2,0
+09-09-2025,Delhi,North West Delhi,110040,4,7,1
+09-09-2025,Delhi,North West Delhi,110042,11,7,0
+09-09-2025,Delhi,Shahdara,110093,2,0,0
+09-09-2025,Delhi,South Delhi,110019,9,3,0
+09-09-2025,Delhi,South Delhi,110030,4,0,0
+09-09-2025,Delhi,South Delhi,110047,5,1,0
+09-09-2025,Delhi,South Delhi,110074,5,0,0
+09-09-2025,Delhi,South West Delhi,110010,1,2,0
+09-09-2025,Delhi,South West Delhi,110016,0,1,0
+09-09-2025,Delhi,South West Delhi,110029,1,2,1
+09-09-2025,Delhi,South West Delhi,110038,2,0,0
+09-09-2025,Delhi,South West Delhi,110046,4,2,0
+09-09-2025,Delhi,South West Delhi,110072,2,0,0
+09-09-2025,Delhi,South West Delhi,110073,3,0,0
+09-09-2025,Delhi,South West Delhi,110077,6,1,0
+09-09-2025,Delhi,West Delhi,110043,0,1,0
+09-09-2025,Delhi,West Delhi,110058,1,0,1
+09-09-2025,Delhi,West Delhi,110059,53,11,0
+09-09-2025,Delhi,West Delhi,110087,8,0,0
+08-09-2025,Delhi,East Delhi,110091,18,1,0
+08-09-2025,Delhi,North West Delhi,110035,5,0,0
+08-09-2025,Delhi,North West Delhi,110040,7,0,0
+08-09-2025,Delhi,North West Delhi,110082,3,0,0
+08-09-2025,Delhi,North West Delhi,110083,12,2,0
+08-09-2025,Delhi,South Delhi,110019,6,5,0
+08-09-2025,Delhi,South Delhi,110024,1,1,1
+08-09-2025,Delhi,South Delhi,110065,4,0,0
+08-09-2025,Delhi,South Delhi,110076,9,4,0
+08-09-2025,Delhi,South West Delhi,110021,1,0,1
+08-09-2025,Delhi,South West Delhi,110037,4,1,0
+08-09-2025,Delhi,South West Delhi,110061,0,1,0
+08-09-2025,Delhi,South West Delhi,110070,3,0,0
+08-09-2025,Delhi,South West Delhi,110075,1,1,0
+08-09-2025,Delhi,South West Delhi,110078,8,1,0
+08-09-2025,Delhi,West Delhi,110018,8,6,0
+08-09-2025,Delhi,West Delhi,110043,1,0,0
+08-09-2025,Delhi,West Delhi,110087,3,0,0
+10-09-2025,Delhi,North West Delhi,110040,5,4,1
+10-09-2025,Delhi,North West Delhi,110052,9,2,0
+10-09-2025,Delhi,North West Delhi,110082,3,2,1
+10-09-2025,Delhi,North West Delhi,110083,10,1,0
+10-09-2025,Delhi,North West Delhi,110085,16,3,0
+10-09-2025,Delhi,South Delhi,110017,9,2,3
+10-09-2025,Delhi,South Delhi,110020,4,2,0
+10-09-2025,Delhi,South Delhi,110025,11,1,0
+10-09-2025,Delhi,South Delhi,110044,17,11,0
+10-09-2025,Delhi,South Delhi,110068,5,1,0
+10-09-2025,Delhi,South West Delhi,110022,1,1,0
+10-09-2025,Delhi,South West Delhi,110023,2,0,0
+10-09-2025,Delhi,South West Delhi,110046,10,3,0
+10-09-2025,Delhi,South West Delhi,110075,2,0,0
+10-09-2025,Delhi,South West Delhi,110078,8,0,1
+10-09-2025,Delhi,West Delhi,110015,1,0,0
+10-09-2025,Delhi,West Delhi,110027,9,1,0
+10-09-2025,Delhi,West Delhi,110041,29,6,0
+10-09-2025,Delhi,West Delhi,110087,5,0,0
+11-09-2025,Delhi,Central Delhi,110003,2,4,1
+11-09-2025,Delhi,East Delhi,110053,0,1,0
+11-09-2025,Delhi,East Delhi,110092,12,4,3
+11-09-2025,Delhi,New Delhi,110001,0,0,1
+11-09-2025,Delhi,New Delhi,110021,4,0,0
+11-09-2025,Delhi,North Delhi,110007,6,1,0
+11-09-2025,Delhi,North Delhi,110084,10,5,0
+11-09-2025,Delhi,North East Delhi,110032,9,5,0
+11-09-2025,Delhi,North East Delhi,110053,16,7,0
+11-09-2025,Delhi,North West Delhi,110040,6,6,0
+11-09-2025,Delhi,North West Delhi,110086,25,13,0
+11-09-2025,Delhi,Shahdara,110053,0,1,0
+11-09-2025,Delhi,South Delhi,110013,1,0,0
+11-09-2025,Delhi,South Delhi,110024,1,0,0
+11-09-2025,Delhi,South Delhi,110030,8,4,0
+11-09-2025,Delhi,South Delhi,110062,23,2,0
+11-09-2025,Delhi,South West Delhi,110028,1,0,0
+11-09-2025,Delhi,South West Delhi,110070,3,1,1
+11-09-2025,Delhi,South West Delhi,110072,1,0,0
+11-09-2025,Delhi,South West Delhi,110073,2,0,0
+11-09-2025,Delhi,South West Delhi,110078,12,1,0
+11-09-2025,Delhi,West Delhi,110015,12,1,0
+11-09-2025,Delhi,West Delhi,110026,3,1,0
+11-09-2025,Delhi,West Delhi,110043,1,1,0
+11-09-2025,Delhi,West Delhi,110058,2,0,0
+14-09-2025,Delhi,East Delhi,110096,4,6,0
+14-09-2025,Delhi,North East Delhi,110032,1,3,0
+14-09-2025,Delhi,North East Delhi,110053,1,1,0
+14-09-2025,Delhi,North East Delhi,110093,5,2,0
+14-09-2025,Delhi,North West Delhi,110009,1,0,0
+14-09-2025,Delhi,North West Delhi,110035,3,0,0
+14-09-2025,Delhi,North West Delhi,110036,2,2,0
+14-09-2025,Delhi,Shahdara,110032,2,0,0
+14-09-2025,Delhi,South Delhi,110013,2,0,0
+14-09-2025,Delhi,South Delhi,110020,4,1,0
+14-09-2025,Delhi,South West Delhi,110037,1,1,0
+14-09-2025,Delhi,West Delhi,110063,1,0,0
+15-09-2025,Delhi,North East,110094,6,3,1
+15-09-2025,Delhi,North East Delhi,110053,27,2,0
+15-09-2025,Delhi,North West Delhi,110009,3,2,0
+15-09-2025,Delhi,North West Delhi,110082,3,1,0
+15-09-2025,Delhi,North West Delhi,110083,6,0,0
+15-09-2025,Delhi,North West Delhi,110089,2,0,0
+15-09-2025,Delhi,South Delhi,110013,0,2,0
+15-09-2025,Delhi,South Delhi,110014,3,1,0
+15-09-2025,Delhi,South Delhi,110016,2,0,0
+15-09-2025,Delhi,South Delhi,110019,7,2,0
+15-09-2025,Delhi,South Delhi,110020,4,0,0
+15-09-2025,Delhi,South Delhi,110024,3,0,1
+15-09-2025,Delhi,South Delhi,110044,27,4,0
+15-09-2025,Delhi,South Delhi,110068,3,0,0
+15-09-2025,Delhi,South West Delhi,110022,4,0,0
+15-09-2025,Delhi,South West Delhi,110038,1,0,0
+15-09-2025,Delhi,South West Delhi,110064,3,1,0
+15-09-2025,Delhi,South West Delhi,110067,1,2,0
+15-09-2025,Delhi,South West Delhi,110071,3,1,0
+15-09-2025,Delhi,South West Delhi,110075,6,0,0
+15-09-2025,Delhi,South West Delhi,110078,12,1,0
+15-09-2025,Delhi,West Delhi,110043,4,1,0
+15-09-2025,Delhi,West Delhi,110059,14,8,0
+15-09-2025,Delhi,West Delhi,110063,3,0,0
+12-09-2025,Delhi,Central Delhi,110008,7,2,0
+12-09-2025,Delhi,North Delhi,110006,7,2,0
+12-09-2025,Delhi,North East Delhi,110032,4,2,0
+12-09-2025,Delhi,North West Delhi,110033,13,3,0
+12-09-2025,Delhi,North West Delhi,110056,1,0,0
+12-09-2025,Delhi,South Delhi,110017,2,1,0
+12-09-2025,Delhi,South Delhi,110019,8,0,1
+12-09-2025,Delhi,South Delhi,110024,2,0,0
+12-09-2025,Delhi,South Delhi,110065,1,3,0
+12-09-2025,Delhi,South West Delhi,110021,1,0,0
+12-09-2025,Delhi,South West Delhi,110028,6,0,0
+12-09-2025,Delhi,South West Delhi,110030,1,0,0
+12-09-2025,Delhi,West Delhi,110015,3,0,0
+12-09-2025,Delhi,West Delhi,110018,12,4,0
+12-09-2025,Delhi,West Delhi,110059,62,10,0
+13-09-2025,Delhi,Central Delhi,110002,7,0,0
+13-09-2025,Delhi,Central Delhi,110004,1,0,0
+13-09-2025,Delhi,Central Delhi,110005,2,0,0
+13-09-2025,Delhi,Central Delhi,110012,2,0,0
+13-09-2025,Delhi,Central Delhi,110055,4,1,0
+13-09-2025,Delhi,East Delhi,110032,3,4,0
+13-09-2025,Delhi,North Delhi,110084,17,9,0
+13-09-2025,Delhi,North West Delhi,110035,4,1,0
+13-09-2025,Delhi,North West Delhi,110056,1,0,0
+13-09-2025,Delhi,North West Delhi,110086,23,4,0
+13-09-2025,Delhi,Shahdara,110093,1,1,0
+13-09-2025,Delhi,South Delhi,110049,4,2,0
+13-09-2025,Delhi,South Delhi,110065,6,2,0
+13-09-2025,Delhi,South Delhi,110076,5,2,0
+13-09-2025,Delhi,South West Delhi,110022,9,1,0
+13-09-2025,Delhi,South West Delhi,110029,1,1,0
+13-09-2025,Delhi,South West Delhi,110061,9,2,0
+13-09-2025,Delhi,South West Delhi,110072,3,1,0
+13-09-2025,Delhi,South West Delhi,110075,2,0,0
+13-09-2025,Delhi,South West Delhi,110078,8,3,0
+13-09-2025,Delhi,West Delhi,110018,12,3,0
+13-09-2025,Delhi,West Delhi,110026,4,1,0
+13-09-2025,Delhi,West Delhi,110041,10,5,0
+13-09-2025,Delhi,West Delhi,110043,1,0,0
+13-09-2025,Delhi,West Delhi,110059,39,25,0
+16-09-2025,Delhi,Central Delhi,110002,3,2,0
+16-09-2025,Delhi,Central Delhi,110003,1,0,0
+16-09-2025,Delhi,East Delhi,110091,17,2,0
+16-09-2025,Delhi,North Delhi,110007,10,0,0
+16-09-2025,Delhi,North West Delhi,110033,8,9,0
+16-09-2025,Delhi,North West Delhi,110036,7,2,0
+16-09-2025,Delhi,North West Delhi,110056,2,1,0
+16-09-2025,Delhi,South Delhi,110025,11,6,0
+16-09-2025,Delhi,South Delhi,110030,4,3,0
+16-09-2025,Delhi,South Delhi,110048,0,0,1
+16-09-2025,Delhi,South West Delhi,110010,0,1,0
+16-09-2025,Delhi,South West Delhi,110022,0,1,0
+16-09-2025,Delhi,South West Delhi,110043,11,8,0
+16-09-2025,Delhi,South West Delhi,110045,17,3,0
+16-09-2025,Delhi,South West Delhi,110057,5,1,0
+16-09-2025,Delhi,South West Delhi,110070,0,1,1
+17-09-2025,Delhi,Central Delhi,110002,3,0,0
+17-09-2025,Delhi,East Delhi,110094,1,0,0
+17-09-2025,Delhi,East Delhi,110095,20,3,0
+17-09-2025,Delhi,North Delhi,110054,2,0,0
+17-09-2025,Delhi,North Delhi,110084,28,7,0
+17-09-2025,Delhi,North East,110053,5,4,0
+17-09-2025,Delhi,North East Delhi,110053,16,4,0
+17-09-2025,Delhi,North West Delhi,110034,5,4,7
+17-09-2025,Delhi,South Delhi,110003,3,0,0
+17-09-2025,Delhi,South West Delhi,110029,1,0,0
+17-09-2025,Delhi,West Delhi,110018,7,7,0
+20-09-2025,Delhi,North Delhi,110006,6,2,2
+20-09-2025,Delhi,North Delhi,110084,10,1,0
+20-09-2025,Delhi,North East,110094,7,3,0
+20-09-2025,Delhi,North East Delhi,110053,12,2,0
+20-09-2025,Delhi,North West Delhi,110009,4,0,1
+20-09-2025,Delhi,North West Delhi,110035,4,0,0
+20-09-2025,Delhi,North West Delhi,110052,3,1,0
+20-09-2025,Delhi,North West Delhi,110086,17,9,0
+20-09-2025,Delhi,South Delhi,110014,1,2,0
+20-09-2025,Delhi,South Delhi,110024,1,0,0
+20-09-2025,Delhi,South Delhi,110025,7,8,0
+20-09-2025,Delhi,South Delhi,110065,3,2,0
+20-09-2025,Delhi,South West Delhi,110030,0,0,1
+20-09-2025,Delhi,South West Delhi,110064,1,0,0
+20-09-2025,Delhi,South West Delhi,110066,1,0,0
+20-09-2025,Delhi,South West Delhi,110070,0,1,0
+20-09-2025,Delhi,South West Delhi,110075,5,1,0
+20-09-2025,Delhi,West Delhi,110018,6,2,0
+20-09-2025,Delhi,West Delhi,110027,5,0,3
+20-09-2025,Delhi,West Delhi,110063,4,3,0
+18-09-2025,Delhi,Central Delhi,110008,8,2,1
+18-09-2025,Delhi,East Delhi,110094,0,1,0
+18-09-2025,Delhi,North East,110093,8,3,0
+18-09-2025,Delhi,North East Delhi,110032,6,0,0
+18-09-2025,Delhi,North East Delhi,110093,13,9,0
+18-09-2025,Delhi,North West Delhi,110009,3,3,0
+18-09-2025,Delhi,North West Delhi,110035,5,0,0
+18-09-2025,Delhi,North West Delhi,110085,11,2,0
+18-09-2025,Delhi,North West Delhi,110086,17,5,0
+18-09-2025,Delhi,North West Delhi,110088,3,2,0
+18-09-2025,Delhi,Shahdara,110093,3,0,0
+18-09-2025,Delhi,South Delhi,110016,1,1,0
+18-09-2025,Delhi,South Delhi,110019,5,2,0
+18-09-2025,Delhi,South Delhi,110025,8,3,0
+18-09-2025,Delhi,South Delhi,110076,8,2,0
+18-09-2025,Delhi,South West Delhi,110010,0,1,0
+18-09-2025,Delhi,South West Delhi,110064,0,1,0
+18-09-2025,Delhi,South West Delhi,110075,2,0,0
+18-09-2025,Delhi,West Delhi,110058,3,0,0
+18-09-2025,Delhi,West Delhi,110063,6,0,0
+19-09-2025,Delhi,Central Delhi,110002,4,2,0
+19-09-2025,Delhi,Central Delhi,110008,5,2,0
+19-09-2025,Delhi,East Delhi,110031,5,3,0
+19-09-2025,Delhi,East Delhi,110051,5,2,0
+19-09-2025,Delhi,East Delhi,110091,9,1,0
+19-09-2025,Delhi,East Delhi,110095,7,1,0
+19-09-2025,Delhi,North Delhi,110007,1,2,0
+19-09-2025,Delhi,North Delhi,110084,8,6,0
+19-09-2025,Delhi,North East Delhi,110032,9,2,0
+19-09-2025,Delhi,North West Delhi,110036,4,1,0
+19-09-2025,Delhi,North West Delhi,110052,4,0,0
+19-09-2025,Delhi,North West Delhi,110081,15,1,0
+19-09-2025,Delhi,North West Delhi,110082,2,0,0
+19-09-2025,Delhi,Shahdara,110093,2,0,0
+19-09-2025,Delhi,South Delhi,110017,1,0,0
+19-09-2025,Delhi,South Delhi,110024,2,0,0
+19-09-2025,Delhi,South Delhi,110047,1,2,0
+19-09-2025,Delhi,South Delhi,110048,0,1,1
+19-09-2025,Delhi,South Delhi,110076,3,0,0
+19-09-2025,Delhi,South West Delhi,110028,0,1,0
+19-09-2025,Delhi,South West Delhi,110045,13,3,1
+19-09-2025,Delhi,South West Delhi,110046,1,2,0
+19-09-2025,Delhi,South West Delhi,110061,2,1,0
+19-09-2025,Delhi,South West Delhi,110064,4,0,0
+23-09-2025,Delhi,North East Delhi,110032,5,5,0
+23-09-2025,Delhi,North East Delhi,110093,11,2,0
+23-09-2025,Delhi,South Delhi,110013,2,0,0
+23-09-2025,Delhi,South Delhi,110019,9,0,0
+23-09-2025,Delhi,South Delhi,110047,4,1,0
+23-09-2025,Delhi,South Delhi,110049,0,1,0
+23-09-2025,Delhi,South West Delhi,110043,15,8,0
+23-09-2025,Delhi,South West Delhi,110071,3,2,0
+23-09-2025,Delhi,South West Delhi,110072,1,0,0
+23-09-2025,Delhi,South West Delhi,110075,3,0,0
+23-09-2025,Delhi,West Delhi,110018,7,0,0
+23-09-2025,Delhi,West Delhi,110059,18,9,2
+23-09-2025,Delhi,West Delhi,110087,2,2,0
+22-09-2025,Delhi,Central Delhi,110003,1,0,1
+22-09-2025,Delhi,North East,110053,2,0,0
+22-09-2025,Delhi,North East,110094,6,2,0
+22-09-2025,Delhi,North West Delhi,110034,4,3,0
+22-09-2025,Delhi,North West Delhi,110039,2,2,0
+22-09-2025,Delhi,South Delhi,110013,0,0,1
+22-09-2025,Delhi,South Delhi,110014,1,0,0
+22-09-2025,Delhi,South Delhi,110020,2,0,0
+22-09-2025,Delhi,South Delhi,110024,3,0,0
+22-09-2025,Delhi,South Delhi,110049,1,0,0
+22-09-2025,Delhi,South West Delhi,110016,0,1,0
+22-09-2025,Delhi,South West Delhi,110021,1,0,0
+22-09-2025,Delhi,South West Delhi,110028,2,0,0
+21-09-2025,Delhi,East Delhi,110051,1,0,0
+21-09-2025,Delhi,East Delhi,110091,3,0,0
+21-09-2025,Delhi,North East Delhi,110032,1,0,0
+21-09-2025,Delhi,North East Delhi,110093,0,1,0
+21-09-2025,Delhi,North West Delhi,110040,0,1,0
+21-09-2025,Delhi,North West Delhi,110081,0,3,0
+21-09-2025,Delhi,Shahdara,110053,0,1,0
+21-09-2025,Delhi,South Delhi,110025,1,0,0
+21-09-2025,Delhi,South West Delhi,110061,0,1,0
+24-09-2025,Delhi,Central Delhi,110005,2,0,1
+24-09-2025,Delhi,East Delhi,110051,5,0,0
+24-09-2025,Delhi,East Delhi,110091,11,3,0
+24-09-2025,Delhi,New Delhi,110021,1,0,1
+24-09-2025,Delhi,North West Delhi,110088,1,0,0
+24-09-2025,Delhi,Shahdara,110093,0,2,1
+24-09-2025,Delhi,South Delhi,110017,2,0,2
+24-09-2025,Delhi,South Delhi,110019,8,2,0
+24-09-2025,Delhi,South Delhi,110025,9,2,0
+24-09-2025,Delhi,South Delhi,110049,5,0,0
+24-09-2025,Delhi,South Delhi,110076,13,1,0
+24-09-2025,Delhi,South West Delhi,110066,1,0,0
+24-09-2025,Delhi,South West Delhi,110077,1,2,0
+24-09-2025,Delhi,South West Delhi,110078,4,0,0
+24-09-2025,Delhi,West Delhi,110015,1,1,0
+25-09-2025,Delhi,East Delhi,110031,2,1,0
+25-09-2025,Delhi,New Delhi,110001,0,1,0
+25-09-2025,Delhi,North Delhi,110054,1,0,0
+25-09-2025,Delhi,North Delhi,110084,11,7,0
+25-09-2025,Delhi,North West Delhi,110035,1,0,0
+25-09-2025,Delhi,North West Delhi,110082,3,0,0
+25-09-2025,Delhi,South Delhi,110017,2,0,0
+25-09-2025,Delhi,South Delhi,110024,1,0,0
+25-09-2025,Delhi,South Delhi,110047,2,1,0
+25-09-2025,Delhi,South Delhi,110080,3,1,0
+25-09-2025,Delhi,South West Delhi,110010,2,0,0
+25-09-2025,Delhi,South West Delhi,110043,16,5,0
+25-09-2025,Delhi,South West Delhi,110046,9,1,1
+25-09-2025,Delhi,South West Delhi,110067,0,0,1
+25-09-2025,Delhi,West Delhi,110043,0,2,0
+25-09-2025,Delhi,West Delhi,110087,1,0,0
+26-09-2025,Delhi,Central Delhi,110002,2,0,0
+26-09-2025,Delhi,East Delhi,110051,7,0,0
+26-09-2025,Delhi,North Delhi,110006,5,0,0
+26-09-2025,Delhi,North East Delhi,110032,4,1,0
+26-09-2025,Delhi,North West Delhi,110034,2,0,0
+26-09-2025,Delhi,North West Delhi,110036,2,0,0
+26-09-2025,Delhi,North West Delhi,110052,2,0,0
+26-09-2025,Delhi,South Delhi,110044,7,3,0
+26-09-2025,Delhi,South Delhi,110047,2,0,0
+26-09-2025,Delhi,South Delhi,110065,0,0,1
+26-09-2025,Delhi,South West Delhi,110023,2,0,1
+26-09-2025,Delhi,South West Delhi,110067,0,1,0
+26-09-2025,Delhi,West Delhi,110026,1,0,0
+30-09-2025,Delhi,Central Delhi,110055,0,1,0
+30-09-2025,Delhi,North Delhi,110007,0,2,0
+30-09-2025,Delhi,South West Delhi,110023,0,1,0
+30-09-2025,Delhi,South West Delhi,110045,1,0,0
+27-09-2025,Delhi,Central Delhi,110011,1,0,0
+27-09-2025,Delhi,East Delhi,110091,10,3,0
+27-09-2025,Delhi,East Delhi,110095,5,0,0
+27-09-2025,Delhi,New Delhi,110001,1,0,0
+27-09-2025,Delhi,North East,110094,2,0,0
+27-09-2025,Delhi,North East Delhi,110053,2,0,0
+27-09-2025,Delhi,North West Delhi,110035,0,1,0
+27-09-2025,Delhi,North West Delhi,110042,1,0,0
+27-09-2025,Delhi,North West Delhi,110052,1,0,0
+27-09-2025,Delhi,North West Delhi,110083,1,0,0
+27-09-2025,Delhi,Shahdara,110032,0,1,0
+27-09-2025,Delhi,South Delhi,110019,1,1,0
+27-09-2025,Delhi,South West Delhi,110045,2,0,0
+27-09-2025,Delhi,South West Delhi,110073,1,0,0
+27-09-2025,Delhi,West Delhi,110059,29,3,0
+28-09-2025,Delhi,East Delhi,110091,3,1,0
+28-09-2025,Delhi,North East Delhi,110094,0,1,0
+29-09-2025,Delhi,East Delhi,110095,1,0,0
+29-09-2025,Delhi,Najafgarh,110043,1,0,0
+29-09-2025,Delhi,North Delhi,110084,2,0,0
+29-09-2025,Delhi,North West Delhi,110034,2,0,0
+29-09-2025,Delhi,North West Delhi,110082,0,0,1
+29-09-2025,Delhi,North West Delhi,110085,1,0,0
+29-09-2025,Delhi,North West Delhi,110086,4,2,0
+29-09-2025,Delhi,South Delhi,110013,2,0,0
+29-09-2025,Delhi,South Delhi,110019,1,0,0
+29-09-2025,Delhi,South Delhi,110024,0,1,0
+29-09-2025,Delhi,South Delhi,110044,1,0,0
+29-09-2025,Delhi,South Delhi,110076,1,1,0
+29-09-2025,Delhi,South West Delhi,110022,3,0,0
+29-09-2025,Delhi,South West Delhi,110077,1,0,0
+13-10-2025,Delhi,Central Delhi,110012,1,0,0
+13-10-2025,Delhi,East Delhi,110091,10,0,0
+13-10-2025,Delhi,New Delhi,110001,1,1,0
+13-10-2025,Delhi,North Delhi,110006,13,3,0
+13-10-2025,Delhi,North East Delhi,110053,22,9,1
+13-10-2025,Delhi,North West Delhi,110033,11,1,0
+13-10-2025,Delhi,North West Delhi,110035,5,0,0
+13-10-2025,Delhi,North West Delhi,110040,6,2,1
+13-10-2025,Delhi,North West Delhi,110052,8,1,0
+13-10-2025,Delhi,North West Delhi,110082,3,5,0
+13-10-2025,Delhi,North West Delhi,110085,7,1,1
+13-10-2025,Delhi,North West Delhi,110089,2,1,0
+13-10-2025,Delhi,South Delhi,110016,2,1,0
+13-10-2025,Delhi,South Delhi,110044,22,6,0
+13-10-2025,Delhi,South Delhi,110076,11,0,0
+13-10-2025,Delhi,South West Delhi,110029,2,0,0
+13-10-2025,Delhi,South West Delhi,110045,9,2,0
+13-10-2025,Delhi,South West Delhi,110061,1,1,1
+13-10-2025,Delhi,South West Delhi,110078,6,0,0
+13-10-2025,Delhi,West Delhi,110027,10,1,0
+13-10-2025,Delhi,West Delhi,110058,2,0,0
+13-10-2025,Delhi,West Delhi,110063,6,2,0
+15-10-2025,Delhi,Central Delhi,110005,5,0,1
+15-10-2025,Delhi,North East Delhi,110053,11,13,0
+15-10-2025,Delhi,North West Delhi,110033,10,2,0
+15-10-2025,Delhi,North West Delhi,110088,0,1,0
+15-10-2025,Delhi,Shahdara,110095,1,0,0
+15-10-2025,Delhi,South Delhi,110003,0,1,0
+15-10-2025,Delhi,South Delhi,110014,2,0,0
+15-10-2025,Delhi,South Delhi,110030,5,0,0
+15-10-2025,Delhi,South Delhi,110044,20,6,0
+15-10-2025,Delhi,South Delhi,110062,18,3,0
+15-10-2025,Delhi,South Delhi,110068,0,1,0
+15-10-2025,Delhi,South Delhi,110074,3,2,0
+15-10-2025,Delhi,South West Delhi,110023,1,0,0
+15-10-2025,Delhi,South West Delhi,110028,2,1,0
+15-10-2025,Delhi,South West Delhi,110045,13,2,1
+15-10-2025,Delhi,West Delhi,110026,1,1,0
+17-10-2025,Delhi,Central Delhi,110003,4,4,0
+17-10-2025,Delhi,East Delhi,110032,2,1,0
+17-10-2025,Delhi,East Delhi,110051,11,1,0
+17-10-2025,Delhi,East Delhi,110095,21,1,0
+17-10-2025,Delhi,North East Delhi,110032,10,1,0
+17-10-2025,Delhi,North West Delhi,110056,1,0,0
+17-10-2025,Delhi,North West Delhi,110081,16,3,0
+17-10-2025,Delhi,Shahdara,110032,1,1,0
+17-10-2025,Delhi,Shahdara,110053,3,0,0
+17-10-2025,Delhi,Shahdara,110093,4,0,0
+17-10-2025,Delhi,South Delhi,110019,11,2,0
+17-10-2025,Delhi,South Delhi,110020,5,2,0
+17-10-2025,Delhi,South Delhi,110024,4,0,0
+17-10-2025,Delhi,South Delhi,110030,6,4,1
+17-10-2025,Delhi,South Delhi,110044,37,10,0
+17-10-2025,Delhi,South Delhi,110080,12,0,0
+17-10-2025,Delhi,South West Delhi,110016,1,1,0
+17-10-2025,Delhi,South West Delhi,110029,2,0,0
+17-10-2025,Delhi,West Delhi,110015,11,1,0
+17-10-2025,Delhi,West Delhi,110087,4,1,0
+16-10-2025,Delhi,East Delhi,110053,2,0,0
+16-10-2025,Delhi,New Delhi,110021,0,1,1
+16-10-2025,Delhi,North East Delhi,110053,14,7,0
+16-10-2025,Delhi,North West Delhi,110009,3,0,1
+16-10-2025,Delhi,North West Delhi,110033,7,0,0
+16-10-2025,Delhi,North West Delhi,110034,3,3,1
+16-10-2025,Delhi,North West Delhi,110052,2,2,0
+16-10-2025,Delhi,Shahdara,110053,0,1,0
+16-10-2025,Delhi,Shahdara,110093,0,1,0
+16-10-2025,Delhi,Shahdara,110095,0,1,0
+16-10-2025,Delhi,South Delhi,110013,1,1,0
+16-10-2025,Delhi,South Delhi,110014,1,1,0
+16-10-2025,Delhi,South Delhi,110030,4,0,0
+16-10-2025,Delhi,South Delhi,110065,1,0,0
+16-10-2025,Delhi,West Delhi,110026,1,0,0
+16-10-2025,Delhi,West Delhi,110058,1,1,0
+01-04-2025,Delhi,West Delhi,110018,275,96,32
+01-05-2025,Delhi,North West Delhi,110034,198,110,13
+01-05-2025,Delhi,South West Delhi,110061,32,33,12
+01-05-2025,Delhi,Central Delhi,110003,53,22,10
+01-05-2025,Delhi,South West Delhi,110077,107,38,11
+01-05-2025,Delhi,South Delhi,110065,99,34,11
+01-06-2025,Delhi,South West Delhi,110045,202,90,29
+01-06-2025,Delhi,North Delhi,110040,151,151,11
+01-06-2025,Delhi,New Delhi,110061,33,26,19
+01-06-2025,Delhi,Central Delhi,110005,134,49,11
+01-06-2025,Delhi,North Delhi,110039,181,93,11
+01-07-2025,Delhi,South Delhi,110030,231,105,21
+01-07-2025,Delhi,North West Delhi,110085,486,141,30
+01-07-2025,Delhi,South Delhi,110016,72,24,20
+01-07-2025,Delhi,South Delhi,110024,56,25,23
+01-07-2025,Delhi,New Delhi,110003,131,66,15
+01-07-2025,Delhi,Central Delhi,110007,285,89,14
+01-07-2025,Delhi,West Delhi,110018,753,205,32
+01-07-2025,Delhi,North Delhi,110039,279,118,13
+01-09-2025,Delhi,Central Delhi,110008,16,3,0
+01-09-2025,Delhi,East Delhi,110032,2,0,0
+01-09-2025,Delhi,East Delhi,110092,14,7,0
+01-09-2025,Delhi,North West Delhi,110085,13,0,0
+01-09-2025,Delhi,North West Delhi,110089,1,2,0
+01-09-2025,Delhi,South Delhi,110024,0,1,0
+01-09-2025,Delhi,South Delhi,110030,5,1,0
+01-09-2025,Delhi,South Delhi,110048,0,0,1
+01-09-2025,Delhi,South Delhi,110074,5,3,0
+01-09-2025,Delhi,South West Delhi,110029,1,0,0
+01-09-2025,Delhi,South West Delhi,110070,1,0,2
+01-09-2025,Delhi,South West Delhi,110071,4,1,0
+01-09-2025,Delhi,West Delhi,110027,6,0,0
+01-09-2025,Delhi,West Delhi,110041,24,10,0
+03-09-2025,Delhi,Central Delhi,110005,3,1,0
+03-09-2025,Delhi,Central Delhi,110055,5,0,0
+03-09-2025,Delhi,East Delhi,110094,1,0,0
+03-09-2025,Delhi,North Delhi,110054,1,1,0
+03-09-2025,Delhi,North East,110053,4,0,0
+03-09-2025,Delhi,North East,110094,5,6,1
+03-09-2025,Delhi,North West Delhi,110034,10,2,1
+03-09-2025,Delhi,North West Delhi,110035,1,2,0
+03-09-2025,Delhi,North West Delhi,110036,5,0,0
+03-09-2025,Delhi,North West Delhi,110052,4,1,0
+03-09-2025,Delhi,North West Delhi,110081,6,1,0
+03-09-2025,Delhi,North West Delhi,110083,7,1,0
+03-09-2025,Delhi,North West Delhi,110085,15,2,0
+03-09-2025,Delhi,North West Delhi,110088,7,1,0
+03-09-2025,Delhi,Shahdara,110095,5,0,0
+03-09-2025,Delhi,South Delhi,110014,5,0,0
+03-09-2025,Delhi,South Delhi,110020,3,4,0
+03-09-2025,Delhi,South Delhi,110068,3,3,0
+03-09-2025,Delhi,South Delhi,110074,5,1,0
+03-09-2025,Delhi,South East Delhi,110025,1,1,0
+03-09-2025,Delhi,South West Delhi,110030,1,0,0
+03-09-2025,Delhi,South West Delhi,110043,13,2,0
+03-09-2025,Delhi,South West Delhi,110057,1,2,0
+03-09-2025,Delhi,West Delhi,110041,23,6,0
+03-09-2025,Delhi,West Delhi,110059,40,11,1
+02-09-2025,Delhi,East Delhi,110092,17,3,0
+02-09-2025,Delhi,East Delhi,110094,0,1,0
+02-09-2025,Delhi,Najafgarh,110043,1,0,0
+02-09-2025,Delhi,North East Delhi,110053,27,9,0
+02-09-2025,Delhi,North West Delhi,110039,12,3,0
+02-09-2025,Delhi,North West Delhi,110083,5,3,0
+02-09-2025,Delhi,North West Delhi,110086,31,6,1
+02-09-2025,Delhi,North West Delhi,110088,2,0,0
+02-09-2025,Delhi,South Delhi,110013,2,0,0
+02-09-2025,Delhi,South Delhi,110047,12,4,0
+02-09-2025,Delhi,South West Delhi,110071,2,0,0
+02-09-2025,Delhi,West Delhi,110015,9,1,2
+02-09-2025,Delhi,West Delhi,110027,3,0,0
+02-09-2025,Delhi,West Delhi,110087,2,0,0
+04-09-2025,Delhi,Central Delhi,110012,1,0,0
+04-09-2025,Delhi,East Delhi,110096,12,5,0
+04-09-2025,Delhi,North Delhi,110006,12,3,0
+04-09-2025,Delhi,North West Delhi,110042,16,5,0
+04-09-2025,Delhi,South Delhi,110017,2,0,0
+04-09-2025,Delhi,South Delhi,110049,4,0,0
+04-09-2025,Delhi,South Delhi,110062,25,8,0
+04-09-2025,Delhi,South West Delhi,110010,3,1,0
+04-09-2025,Delhi,South West Delhi,110022,3,0,0
+04-09-2025,Delhi,South West Delhi,110028,1,1,0
+04-09-2025,Delhi,South West Delhi,110037,2,0,0
+04-09-2025,Delhi,South West Delhi,110064,2,0,0
+04-09-2025,Delhi,South West Delhi,110078,7,1,0
+04-09-2025,Delhi,West Delhi,110018,14,3,1
+04-09-2025,Delhi,West Delhi,110026,1,2,0
+04-09-2025,Delhi,West Delhi,110059,53,16,1
+04-09-2025,Delhi,West Delhi,110087,4,0,0
+06-09-2025,Delhi,East Delhi,110051,7,0,0
+06-09-2025,Delhi,East Delhi,110096,4,6,0
+06-09-2025,Delhi,North East,110093,3,1,0
+06-09-2025,Delhi,North East Delhi,110053,30,23,2
+06-09-2025,Delhi,North West Delhi,110033,7,3,0
+06-09-2025,Delhi,North West Delhi,110035,6,1,0
+06-09-2025,Delhi,North West Delhi,110083,11,1,0
+06-09-2025,Delhi,North West Delhi,110088,4,2,2
+06-09-2025,Delhi,South Delhi,110003,1,0,0
+06-09-2025,Delhi,South Delhi,110020,3,1,0
+06-09-2025,Delhi,South Delhi,110030,9,4,0
+06-09-2025,Delhi,South Delhi,110068,3,3,0
+06-09-2025,Delhi,South West Delhi,110037,3,2,0
+06-09-2025,Delhi,South West Delhi,110038,0,1,0
+06-09-2025,Delhi,South West Delhi,110061,3,1,0
+06-09-2025,Delhi,South West Delhi,110071,5,4,0
+06-09-2025,Delhi,South West Delhi,110078,11,2,0
+06-09-2025,Delhi,West Delhi,110027,6,0,0
+05-09-2025,Delhi,East Delhi,110031,1,1,0
+05-09-2025,Delhi,East Delhi,110032,3,0,0
+05-09-2025,Delhi,North West Delhi,110009,4,0,0
+05-09-2025,Delhi,North West Delhi,110085,2,1,0
+05-09-2025,Delhi,South Delhi,110014,1,0,0
+05-09-2025,Delhi,South Delhi,110074,4,0,0
+05-09-2025,Delhi,South West Delhi,110028,1,0,0
+05-09-2025,Delhi,South West Delhi,110046,1,0,0
+05-09-2025,Delhi,South West Delhi,110057,1,0,0
+05-09-2025,Delhi,South West Delhi,110077,3,0,0
+05-09-2025,Delhi,West Delhi,110015,3,1,0
+05-09-2025,Delhi,West Delhi,110027,1,1,0
+07-09-2025,Delhi,Central Delhi,110002,1,0,0
+07-09-2025,Delhi,East Delhi,110051,4,0,0
+07-09-2025,Delhi,East Delhi,110053,0,1,0
+07-09-2025,Delhi,East Delhi,110092,9,3,0
+07-09-2025,Delhi,North East Delhi,110093,2,0,0
+07-09-2025,Delhi,North West Delhi,110009,2,0,0
+07-09-2025,Delhi,North West Delhi,110040,2,0,0
+07-09-2025,Delhi,North West Delhi,110052,5,0,0
+07-09-2025,Delhi,South Delhi,110016,1,0,0
+07-09-2025,Delhi,South Delhi,110044,16,6,0
+07-09-2025,Delhi,South Delhi,110062,6,3,0
+07-09-2025,Delhi,South East Delhi,110025,2,0,0
+07-09-2025,Delhi,South West Delhi,110038,1,0,0
+07-09-2025,Delhi,South West Delhi,110075,2,0,0
+07-09-2025,Delhi,West Delhi,110087,1,0,0
+08-09-2025,Delhi,Central Delhi,110003,1,0,1
+08-09-2025,Delhi,Central Delhi,110005,8,1,2
+08-09-2025,Delhi,Central Delhi,110055,4,1,0
+08-09-2025,Delhi,Central Delhi,110060,2,0,0
+08-09-2025,Delhi,East Delhi,110096,10,5,1
+08-09-2025,Delhi,North West Delhi,110034,9,2,0
+08-09-2025,Delhi,North West Delhi,110039,13,2,0
+08-09-2025,Delhi,North West Delhi,110042,18,4,2
+08-09-2025,Delhi,North West Delhi,110086,40,12,1
+08-09-2025,Delhi,South Delhi,110014,2,1,1
+08-09-2025,Delhi,South Delhi,110020,3,0,0
+08-09-2025,Delhi,South Delhi,110048,1,1,0
+08-09-2025,Delhi,South West Delhi,110029,1,0,1
+08-09-2025,Delhi,South West Delhi,110071,6,2,0
+10-09-2025,Delhi,Central Delhi,110001,1,0,0
+10-09-2025,Delhi,Central Delhi,110008,11,10,0
+10-09-2025,Delhi,Central Delhi,110012,4,0,0
+10-09-2025,Delhi,East Delhi,110031,5,2,0
+10-09-2025,Delhi,East Delhi,110032,4,0,0
+10-09-2025,Delhi,North East Delhi,110053,19,1,0
+10-09-2025,Delhi,North East Delhi,110094,28,11,0
+10-09-2025,Delhi,North West Delhi,110009,2,3,0
+10-09-2025,Delhi,North West Delhi,110036,12,1,0
+10-09-2025,Delhi,Shahdara,110032,3,1,0
+10-09-2025,Delhi,Shahdara,110053,0,1,0
+10-09-2025,Delhi,Shahdara,110093,2,1,0
+10-09-2025,Delhi,South Delhi,110016,1,0,0
+10-09-2025,Delhi,South Delhi,110047,6,1,0
+10-09-2025,Delhi,South Delhi,110065,9,1,0
+10-09-2025,Delhi,South Delhi,110074,19,0,0
+10-09-2025,Delhi,South West Delhi,110038,4,0,0
+10-09-2025,Delhi,South West Delhi,110045,13,5,0
+10-09-2025,Delhi,South West Delhi,110057,0,0,1
+10-09-2025,Delhi,South West Delhi,110061,3,1,0
+10-09-2025,Delhi,South West Delhi,110064,2,0,0
+10-09-2025,Delhi,South West Delhi,110066,1,1,0
+10-09-2025,Delhi,South West Delhi,110077,7,1,0
+10-09-2025,Delhi,West Delhi,110018,11,3,1
+09-09-2025,Delhi,Central Delhi,110008,14,1,0
+09-09-2025,Delhi,New Delhi,110001,1,0,0
+09-09-2025,Delhi,North Delhi,110007,7,1,0
+09-09-2025,Delhi,North Delhi,110084,14,1,0
+09-09-2025,Delhi,North East,110053,5,2,0
+09-09-2025,Delhi,North West Delhi,110034,9,3,0
+09-09-2025,Delhi,North West Delhi,110081,5,2,0
+09-09-2025,Delhi,North West Delhi,110083,4,1,0
+09-09-2025,Delhi,North West Delhi,110085,13,5,0
+09-09-2025,Delhi,North West Delhi,110089,5,0,0
+09-09-2025,Delhi,Shahdara,110032,2,0,0
+09-09-2025,Delhi,South Delhi,110025,16,1,0
+09-09-2025,Delhi,South Delhi,110044,17,11,1
+09-09-2025,Delhi,South Delhi,110049,16,1,0
+09-09-2025,Delhi,South West Delhi,110070,5,1,1
+09-09-2025,Delhi,South West Delhi,110071,4,2,0
+09-09-2025,Delhi,South West Delhi,110078,7,1,0
+09-09-2025,Delhi,West Delhi,110027,3,1,0
+12-09-2025,Delhi,Central Delhi,110003,1,0,0
+12-09-2025,Delhi,Central Delhi,110060,3,1,0
+12-09-2025,Delhi,East Delhi,110031,6,1,0
+12-09-2025,Delhi,East Delhi,110032,3,0,0
+12-09-2025,Delhi,North Delhi,110007,2,1,0
+12-09-2025,Delhi,North West Delhi,110036,7,0,0
+12-09-2025,Delhi,North West Delhi,110039,8,6,0
+12-09-2025,Delhi,North West Delhi,110042,19,5,0
+12-09-2025,Delhi,Shahdara,110053,2,0,0
+12-09-2025,Delhi,South Delhi,110003,1,0,0
+12-09-2025,Delhi,South Delhi,110016,3,0,0
+12-09-2025,Delhi,South Delhi,110062,22,3,0
+12-09-2025,Delhi,South East Delhi,110025,4,0,0
+12-09-2025,Delhi,South West Delhi,110023,4,1,0
+12-09-2025,Delhi,South West Delhi,110061,2,0,0
+12-09-2025,Delhi,South West Delhi,110070,1,0,0
+12-09-2025,Delhi,South West Delhi,110071,1,4,0
+12-09-2025,Delhi,South West Delhi,110073,1,0,0
+12-09-2025,Delhi,West Delhi,110043,2,0,0
+11-09-2025,Delhi,Central Delhi,110002,5,1,0
+11-09-2025,Delhi,Central Delhi,110055,3,1,0
+11-09-2025,Delhi,East Delhi,110032,2,0,0
+11-09-2025,Delhi,East Delhi,110096,7,3,0
+11-09-2025,Delhi,North East,110094,7,3,0
+11-09-2025,Delhi,North East Delhi,110093,9,5,0
+11-09-2025,Delhi,North West Delhi,110042,14,11,1
+11-09-2025,Delhi,North West Delhi,110052,8,2,0
+11-09-2025,Delhi,North West Delhi,110085,18,4,0
+11-09-2025,Delhi,North West Delhi,110088,4,4,0
+11-09-2025,Delhi,South Delhi,110003,0,1,0
+11-09-2025,Delhi,South Delhi,110017,3,0,1
+11-09-2025,Delhi,South Delhi,110020,6,2,0
+11-09-2025,Delhi,South Delhi,110044,18,4,0
+11-09-2025,Delhi,South Delhi,110065,4,3,0
+11-09-2025,Delhi,South Delhi,110068,3,1,0
+11-09-2025,Delhi,South West Delhi,110038,2,1,0
+11-09-2025,Delhi,South West Delhi,110045,11,5,3
+11-09-2025,Delhi,South West Delhi,110057,3,0,0
+11-09-2025,Delhi,South West Delhi,110071,4,2,0
+11-09-2025,Delhi,West Delhi,110063,6,2,0
+14-09-2025,Delhi,Central Delhi,110003,1,0,0
+14-09-2025,Delhi,East Delhi,110051,1,0,0
+14-09-2025,Delhi,East Delhi,110092,10,1,0
+14-09-2025,Delhi,North West Delhi,110081,2,0,0
+14-09-2025,Delhi,North West Delhi,110082,1,0,0
+14-09-2025,Delhi,Shahdara,110093,1,0,0
+14-09-2025,Delhi,Shahdara,110095,1,0,0
+14-09-2025,Delhi,South Delhi,110044,19,6,0
+14-09-2025,Delhi,South Delhi,110076,5,3,0
+14-09-2025,Delhi,West Delhi,110015,1,0,0
+14-09-2025,Delhi,West Delhi,110041,4,1,0
+14-09-2025,Delhi,West Delhi,110059,9,4,0
+15-09-2025,Delhi,Central Delhi,110001,1,0,0
+15-09-2025,Delhi,East Delhi,110032,3,0,0
+15-09-2025,Delhi,East Delhi,110092,14,5,1
+15-09-2025,Delhi,Najafgarh,110043,1,0,0
+15-09-2025,Delhi,North Delhi,110054,0,1,0
+15-09-2025,Delhi,North East Delhi,110093,16,3,0
+15-09-2025,Delhi,North West Delhi,110033,6,2,0
+15-09-2025,Delhi,North West Delhi,110036,4,1,0
+15-09-2025,Delhi,North West Delhi,110039,5,6,0
+15-09-2025,Delhi,North West Delhi,110086,28,4,0
+15-09-2025,Delhi,Shahdara,110032,1,0,0
+15-09-2025,Delhi,South Delhi,110048,1,0,1
+15-09-2025,Delhi,South West Delhi,110023,2,0,0
+15-09-2025,Delhi,South West Delhi,110028,1,1,0
+15-09-2025,Delhi,South West Delhi,110029,3,0,0
+15-09-2025,Delhi,South West Delhi,110073,1,0,0
+15-09-2025,Delhi,West Delhi,110041,16,5,0
+15-09-2025,Delhi,West Delhi,110058,1,0,0
+13-09-2025,Delhi,Central Delhi,110008,1,1,0
+13-09-2025,Delhi,East Delhi,110031,10,2,0
+13-09-2025,Delhi,East Delhi,110092,14,7,0
+13-09-2025,Delhi,North Delhi,110006,8,4,0
+13-09-2025,Delhi,North West Delhi,110042,10,5,0
+13-09-2025,Delhi,North West Delhi,110052,8,0,0
+13-09-2025,Delhi,North West Delhi,110088,4,1,0
+13-09-2025,Delhi,South Delhi,110030,9,3,0
+13-09-2025,Delhi,South Delhi,110044,14,4,0
+13-09-2025,Delhi,South Delhi,110048,3,0,0
+13-09-2025,Delhi,South West Delhi,110021,2,0,0
+13-09-2025,Delhi,South West Delhi,110067,1,0,0
+13-09-2025,Delhi,South West Delhi,110077,5,3,0
+16-09-2025,Delhi,Central Delhi,110055,1,2,0
+16-09-2025,Delhi,North Delhi,110084,12,6,0
+16-09-2025,Delhi,North East,110094,12,6,0
+16-09-2025,Delhi,North East Delhi,110032,12,1,0
+16-09-2025,Delhi,North East Delhi,110053,20,12,0
+16-09-2025,Delhi,North East Delhi,110093,24,11,0
+16-09-2025,Delhi,North East Delhi,110094,29,11,0
+16-09-2025,Delhi,North West Delhi,110009,7,1,0
+16-09-2025,Delhi,North West Delhi,110052,2,1,0
+16-09-2025,Delhi,North West Delhi,110088,5,0,0
+16-09-2025,Delhi,Shahdara,110093,1,0,0
+16-09-2025,Delhi,South Delhi,110013,0,1,0
+16-09-2025,Delhi,South Delhi,110019,10,1,0
+16-09-2025,Delhi,South Delhi,110044,14,6,0
+16-09-2025,Delhi,South Delhi,110068,3,1,1
+16-09-2025,Delhi,South West Delhi,110016,2,0,0
+16-09-2025,Delhi,South West Delhi,110030,0,1,0
+16-09-2025,Delhi,West Delhi,110015,6,1,1
+16-09-2025,Delhi,West Delhi,110026,2,0,0
+16-09-2025,Delhi,West Delhi,110041,15,8,0
+18-09-2025,Delhi,Central Delhi,110060,2,0,1
+18-09-2025,Delhi,East Delhi,110031,2,0,0
+18-09-2025,Delhi,New Delhi,110001,0,1,0
+18-09-2025,Delhi,North West Delhi,110033,13,3,0
+18-09-2025,Delhi,North West Delhi,110034,5,2,0
+18-09-2025,Delhi,North West Delhi,110081,21,0,0
+18-09-2025,Delhi,North West Delhi,110083,2,3,0
+18-09-2025,Delhi,Shahdara,110032,0,2,0
+18-09-2025,Delhi,South Delhi,110013,1,0,0
+18-09-2025,Delhi,South Delhi,110014,2,0,0
+18-09-2025,Delhi,South Delhi,110017,2,0,1
+18-09-2025,Delhi,South Delhi,110047,9,0,0
+18-09-2025,Delhi,South Delhi,110048,0,1,0
+18-09-2025,Delhi,South Delhi,110074,5,0,0
+18-09-2025,Delhi,South West Delhi,110023,1,1,0
+18-09-2025,Delhi,South West Delhi,110037,2,4,2
+18-09-2025,Delhi,South West Delhi,110046,2,0,0
+18-09-2025,Delhi,South West Delhi,110071,3,0,0
+18-09-2025,Delhi,South West Delhi,110078,5,1,0
+18-09-2025,Delhi,West Delhi,110041,26,0,0
+18-09-2025,Delhi,West Delhi,110087,1,0,0
+17-09-2025,Delhi,East Delhi,110032,5,0,0
+17-09-2025,Delhi,East Delhi,110092,23,6,0
+17-09-2025,Delhi,North East,110093,5,2,0
+17-09-2025,Delhi,North West Delhi,110052,7,1,0
+17-09-2025,Delhi,North West Delhi,110085,17,2,1
+17-09-2025,Delhi,North West Delhi,110088,4,2,0
+17-09-2025,Delhi,South Delhi,110019,8,1,0
+17-09-2025,Delhi,South Delhi,110024,2,0,0
+17-09-2025,Delhi,South Delhi,110030,2,1,1
+17-09-2025,Delhi,South Delhi,110062,32,13,0
+17-09-2025,Delhi,South Delhi,110080,3,2,0
+17-09-2025,Delhi,South West Delhi,110070,1,0,0
+17-09-2025,Delhi,South West Delhi,110072,1,0,0
+17-09-2025,Delhi,West Delhi,110059,33,14,0
+19-09-2025,Delhi,Central Delhi,110005,2,0,3
+19-09-2025,Delhi,New Delhi,110021,4,0,0
+19-09-2025,Delhi,North West Delhi,110033,13,4,0
+19-09-2025,Delhi,North West Delhi,110034,9,0,0
+19-09-2025,Delhi,North West Delhi,110042,7,4,0
+19-09-2025,Delhi,North West Delhi,110083,2,3,0
+19-09-2025,Delhi,North West Delhi,110089,4,2,0
+19-09-2025,Delhi,Shahdara,110095,1,0,0
+19-09-2025,Delhi,South Delhi,110025,12,6,0
+19-09-2025,Delhi,South Delhi,110030,6,3,0
+19-09-2025,Delhi,South Delhi,110080,2,0,0
+19-09-2025,Delhi,South West Delhi,110077,7,0,0
+19-09-2025,Delhi,West Delhi,110059,41,4,0
+19-09-2025,Delhi,West Delhi,110087,7,0,0
+20-09-2025,Delhi,Central Delhi,110004,2,0,0
+20-09-2025,Delhi,East Delhi,110032,5,0,0
+20-09-2025,Delhi,East Delhi,110051,6,5,0
+20-09-2025,Delhi,East Delhi,110091,19,7,0
+20-09-2025,Delhi,North Delhi,110007,8,2,0
+20-09-2025,Delhi,North East,110053,2,1,0
+20-09-2025,Delhi,North West Delhi,110088,6,0,0
+20-09-2025,Delhi,Shahdara,110032,2,1,0
+20-09-2025,Delhi,Shahdara,110095,2,0,0
+20-09-2025,Delhi,South Delhi,110013,1,0,0
+20-09-2025,Delhi,South Delhi,110030,1,6,1
+20-09-2025,Delhi,South Delhi,110048,1,0,0
+20-09-2025,Delhi,South West Delhi,110021,1,0,0
+20-09-2025,Delhi,South West Delhi,110045,8,3,0
+20-09-2025,Delhi,South West Delhi,110046,4,0,0
+20-09-2025,Delhi,South West Delhi,110071,2,4,0
+20-09-2025,Delhi,South West Delhi,110078,9,0,0
+23-09-2025,Delhi,East Delhi,110053,0,1,0
+23-09-2025,Delhi,East Delhi,110091,8,1,0
+23-09-2025,Delhi,New Delhi,110021,0,1,0
+23-09-2025,Delhi,North East,110093,7,2,0
+23-09-2025,Delhi,North West Delhi,110036,2,0,0
+23-09-2025,Delhi,North West Delhi,110052,3,0,0
+23-09-2025,Delhi,North West Delhi,110083,11,1,0
+23-09-2025,Delhi,Shahdara,110093,2,0,0
+23-09-2025,Delhi,South Delhi,110017,6,0,1
+23-09-2025,Delhi,South Delhi,110020,4,0,0
+23-09-2025,Delhi,South Delhi,110025,10,4,0
+23-09-2025,Delhi,South Delhi,110080,2,0,0
+23-09-2025,Delhi,South West Delhi,110022,1,0,0
+23-09-2025,Delhi,South West Delhi,110029,0,1,0
+23-09-2025,Delhi,South West Delhi,110038,1,0,0
+23-09-2025,Delhi,South West Delhi,110070,1,0,1
+23-09-2025,Delhi,West Delhi,110027,3,3,0
+23-09-2025,Delhi,West Delhi,110041,11,3,1
+23-09-2025,Delhi,West Delhi,110043,1,1,0
+22-09-2025,Delhi,North Delhi,110007,2,0,0
+22-09-2025,Delhi,North East Delhi,110053,14,9,0
+22-09-2025,Delhi,North East Delhi,110093,11,0,0
+22-09-2025,Delhi,North East Delhi,110094,26,8,0
+22-09-2025,Delhi,North West Delhi,110082,1,0,0
+22-09-2025,Delhi,North West Delhi,110083,2,0,0
+22-09-2025,Delhi,North West Delhi,110086,20,4,0
+22-09-2025,Delhi,North West Delhi,110088,4,1,0
+22-09-2025,Delhi,South Delhi,110062,17,6,0
+22-09-2025,Delhi,South Delhi,110074,3,0,0
+22-09-2025,Delhi,South West Delhi,110022,0,1,0
+22-09-2025,Delhi,South West Delhi,110038,1,0,0
+22-09-2025,Delhi,South West Delhi,110046,7,1,0
+22-09-2025,Delhi,South West Delhi,110077,1,0,0
+22-09-2025,Delhi,West Delhi,110018,2,0,0
+22-09-2025,Delhi,West Delhi,110063,2,0,0
+21-09-2025,Delhi,Central Delhi,110003,1,0,0
+21-09-2025,Delhi,North Delhi,110054,1,0,0
+21-09-2025,Delhi,North West Delhi,110082,0,1,0
+21-09-2025,Delhi,South Delhi,110062,4,0,0
+21-09-2025,Delhi,South Delhi,110076,2,0,0
+24-09-2025,Delhi,Central Delhi,110012,1,0,0
+24-09-2025,Delhi,East Delhi,110032,2,0,0
+24-09-2025,Delhi,North Delhi,110054,4,0,0
+24-09-2025,Delhi,North Delhi,110084,9,5,0
+24-09-2025,Delhi,North East,110053,4,2,0
+24-09-2025,Delhi,North East Delhi,110053,21,8,0
+24-09-2025,Delhi,North East Delhi,110093,4,6,0
+24-09-2025,Delhi,North West Delhi,110035,5,0,0
+24-09-2025,Delhi,North West Delhi,110042,10,7,1
+24-09-2025,Delhi,North West Delhi,110085,8,1,0
+24-09-2025,Delhi,North West Delhi,110086,20,7,1
+24-09-2025,Delhi,Shahdara,110053,1,0,0
+24-09-2025,Delhi,Shahdara,110095,1,1,0
+24-09-2025,Delhi,South Delhi,110044,17,3,2
+24-09-2025,Delhi,South Delhi,110068,1,1,1
+24-09-2025,Delhi,South West Delhi,110028,2,0,0
+24-09-2025,Delhi,South West Delhi,110043,12,3,0
+24-09-2025,Delhi,South West Delhi,110073,1,0,0
+24-09-2025,Delhi,South West Delhi,110075,1,1,0
+24-09-2025,Delhi,West Delhi,110018,8,1,0
+24-09-2025,Delhi,West Delhi,110041,10,1,0
+24-09-2025,Delhi,West Delhi,110059,23,7,0
+24-09-2025,Delhi,West Delhi,110063,7,2,0
+25-09-2025,Delhi,East Delhi,110051,6,1,0
+25-09-2025,Delhi,North Delhi,110006,8,2,0
+25-09-2025,Delhi,North East,110053,3,1,0
+25-09-2025,Delhi,North East Delhi,110090,1,0,0
+25-09-2025,Delhi,North West Delhi,110036,2,1,0
+25-09-2025,Delhi,North West Delhi,110086,31,3,0
+25-09-2025,Delhi,Shahdara,110032,1,0,0
+25-09-2025,Delhi,Shahdara,110095,1,1,0
+25-09-2025,Delhi,South Delhi,110013,2,0,0
+25-09-2025,Delhi,South Delhi,110020,2,3,0
+25-09-2025,Delhi,South Delhi,110030,9,2,0
+25-09-2025,Delhi,South Delhi,110062,13,6,0
+25-09-2025,Delhi,South Delhi,110065,2,0,0
+25-09-2025,Delhi,South Delhi,110076,2,0,0
+25-09-2025,Delhi,South West Delhi,110022,8,0,0
+25-09-2025,Delhi,South West Delhi,110023,2,0,1
+25-09-2025,Delhi,South West Delhi,110029,3,0,0
+25-09-2025,Delhi,South West Delhi,110037,1,3,0
+25-09-2025,Delhi,South West Delhi,110045,6,3,0
+25-09-2025,Delhi,South West Delhi,110073,1,0,0
+25-09-2025,Delhi,South West Delhi,110078,2,0,0
+25-09-2025,Delhi,West Delhi,110015,2,1,0
+26-09-2025,Delhi,East Delhi,110092,11,2,1
+26-09-2025,Delhi,East Delhi,110096,0,3,0
+26-09-2025,Delhi,Najafgarh,110043,0,1,0
+26-09-2025,Delhi,North East,110093,2,0,0
+26-09-2025,Delhi,North East,110094,8,2,0
+26-09-2025,Delhi,North West Delhi,110056,0,1,0
+26-09-2025,Delhi,North West Delhi,110089,1,0,0
+26-09-2025,Delhi,South Delhi,110013,1,0,0
+26-09-2025,Delhi,South Delhi,110020,2,2,0
+26-09-2025,Delhi,South Delhi,110076,3,1,0
+26-09-2025,Delhi,South West Delhi,110010,1,1,0
+26-09-2025,Delhi,South West Delhi,110028,1,0,0
+26-09-2025,Delhi,South West Delhi,110046,14,0,0
+26-09-2025,Delhi,South West Delhi,110077,3,0,0
+26-09-2025,Delhi,West Delhi,110018,2,1,0
+28-09-2025,Delhi,North Delhi,110006,0,1,0
+29-09-2025,Delhi,Central Delhi,110002,2,0,0
+29-09-2025,Delhi,Central Delhi,110005,1,0,1
+29-09-2025,Delhi,South Delhi,110025,1,0,0
+29-09-2025,Delhi,West Delhi,110059,1,1,0
+27-09-2025,Delhi,East Delhi,110031,2,0,0
+27-09-2025,Delhi,East Delhi,110051,2,0,0
+27-09-2025,Delhi,East Delhi,110092,2,3,0
+27-09-2025,Delhi,East Delhi,110096,5,0,0
+27-09-2025,Delhi,North Delhi,110006,3,0,0
+27-09-2025,Delhi,North East,110053,0,1,0
+27-09-2025,Delhi,South Delhi,110014,1,0,0
+27-09-2025,Delhi,South Delhi,110016,0,1,0
+27-09-2025,Delhi,South Delhi,110065,3,0,0
+27-09-2025,Delhi,West Delhi,110018,2,1,0
+27-09-2025,Delhi,West Delhi,110041,6,0,0
+13-10-2025,Delhi,Central Delhi,110003,7,0,1
+13-10-2025,Delhi,East Delhi,110032,4,0,0
+13-10-2025,Delhi,East Delhi,110096,5,0,0
+13-10-2025,Delhi,North Delhi,110084,15,12,0
+13-10-2025,Delhi,North East,110093,9,0,0
+13-10-2025,Delhi,North East Delhi,110032,6,1,0
+13-10-2025,Delhi,North West Delhi,110056,1,0,0
+13-10-2025,Delhi,North West Delhi,110083,4,2,0
+13-10-2025,Delhi,North West Delhi,110088,4,0,0
+13-10-2025,Delhi,South Delhi,110014,2,1,0
+13-10-2025,Delhi,South Delhi,110020,4,2,0
+13-10-2025,Delhi,South Delhi,110074,7,0,0
+13-10-2025,Delhi,South West Delhi,110010,2,1,0
+13-10-2025,Delhi,South West Delhi,110016,1,0,0
+13-10-2025,Delhi,South West Delhi,110021,1,0,0
+13-10-2025,Delhi,South West Delhi,110064,4,0,0
+13-10-2025,Delhi,West Delhi,110087,6,0,0
+30-09-2025,Delhi,South Delhi,110044,0,1,1
+30-09-2025,Delhi,West Delhi,110059,0,1,1
+16-10-2025,Delhi,East Delhi,110095,11,1,0
+16-10-2025,Delhi,North Delhi,110007,3,2,0
+16-10-2025,Delhi,North East Delhi,110093,8,3,0
+16-10-2025,Delhi,South Delhi,110003,1,0,0
+16-10-2025,Delhi,South Delhi,110019,1,1,0
+16-10-2025,Delhi,South Delhi,110020,1,2,0
+16-10-2025,Delhi,South Delhi,110047,2,0,0
+16-10-2025,Delhi,South Delhi,110062,19,1,0
+16-10-2025,Delhi,South Delhi,110076,3,1,0
+16-10-2025,Delhi,South West Delhi,110028,1,0,0
+16-10-2025,Delhi,South West Delhi,110037,0,2,0
+16-10-2025,Delhi,South West Delhi,110075,1,0,0
+16-10-2025,Delhi,South West Delhi,110078,3,0,0
+16-10-2025,Delhi,West Delhi,110063,2,1,2
+15-10-2025,Delhi,Central Delhi,110002,4,0,0
+15-10-2025,Delhi,Central Delhi,110003,2,2,3
+15-10-2025,Delhi,North Delhi,110007,3,0,0
+15-10-2025,Delhi,North Delhi,110084,11,3,0
+15-10-2025,Delhi,North East,110053,6,6,0
+15-10-2025,Delhi,North East,110094,9,2,0
+15-10-2025,Delhi,North East Delhi,110032,7,0,0
+15-10-2025,Delhi,North East Delhi,110093,5,0,0
+15-10-2025,Delhi,North West Delhi,110035,4,1,0
+15-10-2025,Delhi,North West Delhi,110036,5,1,0
+15-10-2025,Delhi,Shahdara,110032,2,1,0
+15-10-2025,Delhi,South Delhi,110019,10,2,0
+15-10-2025,Delhi,South Delhi,110049,1,1,0
+15-10-2025,Delhi,South West Delhi,110029,1,0,0
+15-10-2025,Delhi,South West Delhi,110037,3,0,0
+15-10-2025,Delhi,South West Delhi,110043,23,4,0
+15-10-2025,Delhi,South West Delhi,110046,3,1,0
+15-10-2025,Delhi,South West Delhi,110075,3,0,0
+15-10-2025,Delhi,South West Delhi,110078,3,3,0
+15-10-2025,Delhi,West Delhi,110027,6,2,1
+17-10-2025,Delhi,Central Delhi,110002,11,3,0
+17-10-2025,Delhi,Central Delhi,110008,9,2,0
+17-10-2025,Delhi,New Delhi,110001,3,0,0
+17-10-2025,Delhi,North Delhi,110006,11,2,0
+17-10-2025,Delhi,North East,110093,5,1,0
+17-10-2025,Delhi,North West Delhi,110042,32,8,0
+17-10-2025,Delhi,South Delhi,110003,1,1,0
+17-10-2025,Delhi,South Delhi,110014,3,0,0
+17-10-2025,Delhi,South Delhi,110016,1,3,0
+17-10-2025,Delhi,South Delhi,110065,5,2,0
+17-10-2025,Delhi,South Delhi,110076,8,1,0
+17-10-2025,Delhi,South West Delhi,110045,15,2,0
+17-10-2025,Delhi,South West Delhi,110046,3,0,0
+17-10-2025,Delhi,South West Delhi,110073,2,0,0
+17-10-2025,Delhi,West Delhi,110041,21,8,0
+09-03-2025,Delhi,West Delhi,110018,29,11,15
+15-03-2025,Delhi,North West Delhi,110086,35,15,10
+09-03-2025,Delhi,West Delhi,110059,93,42,42
+01-04-2025,Delhi,Shahdara,110032,208,98,13
+01-04-2025,Delhi,South Delhi,110074,253,102,10
+01-05-2025,Delhi,Central Delhi,110055,155,83,10
+01-05-2025,Delhi,South West Delhi,110045,309,117,25
+01-06-2025,Delhi,West Delhi,110018,249,132,29
+01-06-2025,Delhi,North West Delhi,110034,217,96,16
+01-06-2025,Delhi,North East Delhi,110094,998,569,10
+01-07-2025,Delhi,West Delhi,110059,1538,640,122
+01-07-2025,Delhi,West Delhi,110041,961,317,11
+01-07-2025,Delhi,New Delhi,110070,106,71,20
+01-07-2025,Delhi,North Delhi,110040,284,191,16
+01-07-2025,Delhi,Shahdara,110032,545,239,15
+01-07-2025,Delhi,New Delhi,110037,173,109,22
+01-07-2025,Delhi,West Delhi,110015,304,107,12
+01-07-2025,Delhi,West Delhi,110027,243,95,12
+01-09-2025,Delhi,Central Delhi,110002,2,1,0
+01-09-2025,Delhi,Central Delhi,110012,3,2,0
+01-09-2025,Delhi,Central Delhi,110055,1,2,0
+01-09-2025,Delhi,East Delhi,110051,9,2,0
+01-09-2025,Delhi,East Delhi,110091,5,5,1
+01-09-2025,Delhi,New Delhi,110023,1,0,0
+01-09-2025,Delhi,North Delhi,110006,8,7,0
+01-09-2025,Delhi,North Delhi,110054,2,1,1
+01-09-2025,Delhi,North Delhi,110084,25,7,0
+01-09-2025,Delhi,North East,110093,6,0,0
+01-09-2025,Delhi,North East Delhi,110093,12,3,0
+01-09-2025,Delhi,North West Delhi,110033,15,4,0
+01-09-2025,Delhi,North West Delhi,110052,8,4,0
+01-09-2025,Delhi,South Delhi,110003,0,1,0
+01-09-2025,Delhi,South Delhi,110062,24,4,0
+01-09-2025,Delhi,South Delhi,110080,3,0,0
+01-09-2025,Delhi,South West Delhi,110010,2,2,1
+01-09-2025,Delhi,South West Delhi,110043,16,8,0
+01-09-2025,Delhi,South West Delhi,110046,10,2,0
+01-09-2025,Delhi,South West Delhi,110061,3,0,0
+01-09-2025,Delhi,South West Delhi,110066,2,1,0
+01-09-2025,Delhi,West Delhi,110015,7,3,1
+01-09-2025,Delhi,West Delhi,110059,29,11,1
+03-09-2025,Delhi,Central Delhi,110001,0,1,0
+03-09-2025,Delhi,East Delhi,110091,18,3,0
+03-09-2025,Delhi,North Delhi,110007,8,1,0
+03-09-2025,Delhi,North East,110093,3,1,0
+03-09-2025,Delhi,North East Delhi,110032,6,1,0
+03-09-2025,Delhi,North West Delhi,110082,1,0,0
+03-09-2025,Delhi,North West Delhi,110094,1,0,0
+03-09-2025,Delhi,Shahdara,110032,1,0,0
+03-09-2025,Delhi,South Delhi,110030,5,3,1
+03-09-2025,Delhi,South West Delhi,110022,0,0,1
+03-09-2025,Delhi,South West Delhi,110045,21,2,0
+03-09-2025,Delhi,South West Delhi,110066,1,0,0
+03-09-2025,Delhi,South West Delhi,110071,1,1,0
+03-09-2025,Delhi,West Delhi,110018,13,1,0
+03-09-2025,Delhi,West Delhi,110026,0,1,0
+03-09-2025,Delhi,West Delhi,110027,6,0,0
+03-09-2025,Delhi,West Delhi,110043,1,0,0
+04-09-2025,Delhi,Central Delhi,110005,7,1,0
+04-09-2025,Delhi,Central Delhi,110055,4,0,0
+04-09-2025,Delhi,East Delhi,110032,7,0,0
+04-09-2025,Delhi,East Delhi,110091,27,3,0
+04-09-2025,Delhi,East Delhi,110092,12,6,0
+04-09-2025,Delhi,East Delhi,110095,20,1,0
+04-09-2025,Delhi,North East,110053,5,1,0
+04-09-2025,Delhi,North East Delhi,110032,8,2,0
+04-09-2025,Delhi,North West Delhi,110009,3,1,1
+04-09-2025,Delhi,North West Delhi,110036,3,1,0
+04-09-2025,Delhi,North West Delhi,110039,11,1,0
+04-09-2025,Delhi,North West Delhi,110052,3,3,0
+04-09-2025,Delhi,South Delhi,110013,1,0,0
+04-09-2025,Delhi,South Delhi,110016,1,0,0
+04-09-2025,Delhi,South Delhi,110068,1,0,0
+04-09-2025,Delhi,South Delhi,110076,6,2,0
+04-09-2025,Delhi,South West Delhi,110043,8,12,0
+04-09-2025,Delhi,South West Delhi,110067,2,0,0
+04-09-2025,Delhi,South West Delhi,110070,2,1,1
+04-09-2025,Delhi,South West Delhi,110071,5,3,0
+04-09-2025,Delhi,West Delhi,110043,6,2,0
+02-09-2025,Delhi,Central Delhi,110002,1,0,0
+02-09-2025,Delhi,Central Delhi,110003,2,5,0
+02-09-2025,Delhi,Central Delhi,110055,4,5,1
+02-09-2025,Delhi,East Delhi,110053,2,2,0
+02-09-2025,Delhi,New Delhi,110021,2,0,0
+02-09-2025,Delhi,North Delhi,110054,2,1,1
+02-09-2025,Delhi,North East Delhi,110093,7,2,0
+02-09-2025,Delhi,North West Delhi,110034,5,5,1
+02-09-2025,Delhi,North West Delhi,110036,8,0,0
+02-09-2025,Delhi,North West Delhi,110042,17,10,0
+02-09-2025,Delhi,North West Delhi,110089,1,0,0
+02-09-2025,Delhi,South Delhi,110003,1,0,0
+02-09-2025,Delhi,South Delhi,110014,2,0,0
+02-09-2025,Delhi,South Delhi,110062,20,8,0
+02-09-2025,Delhi,South Delhi,110065,5,0,0
+02-09-2025,Delhi,South Delhi,110080,5,1,0
+02-09-2025,Delhi,South West Delhi,110010,2,2,0
+02-09-2025,Delhi,South West Delhi,110043,19,5,0
+02-09-2025,Delhi,South West Delhi,110046,3,1,0
+02-09-2025,Delhi,South West Delhi,110057,4,0,1
+02-09-2025,Delhi,South West Delhi,110067,2,0,0
+02-09-2025,Delhi,South West Delhi,110073,1,0,0
+02-09-2025,Delhi,West Delhi,110018,8,5,1
+02-09-2025,Delhi,West Delhi,110043,2,0,0
+02-09-2025,Delhi,West Delhi,110059,34,13,0
+02-09-2025,Delhi,West Delhi,110063,2,2,0
+05-09-2025,Delhi,East Delhi,110095,8,1,0
+05-09-2025,Delhi,North East Delhi,110032,1,0,0
+05-09-2025,Delhi,North East Delhi,110094,7,4,0
+05-09-2025,Delhi,North West Delhi,110034,4,0,0
+05-09-2025,Delhi,North West Delhi,110035,1,1,0
+05-09-2025,Delhi,North West Delhi,110042,6,1,0
+05-09-2025,Delhi,North West Delhi,110083,2,0,0
+05-09-2025,Delhi,South Delhi,110017,1,0,0
+05-09-2025,Delhi,South Delhi,110076,3,3,0
+05-09-2025,Delhi,South West Delhi,110030,0,1,0
+05-09-2025,Delhi,South West Delhi,110043,2,2,0
+05-09-2025,Delhi,South West Delhi,110045,4,2,0
+05-09-2025,Delhi,South West Delhi,110078,2,1,0
+06-09-2025,Delhi,Central Delhi,110003,1,0,0
+06-09-2025,Delhi,Central Delhi,110008,11,0,0
+06-09-2025,Delhi,East Delhi,110031,3,3,0
+06-09-2025,Delhi,East Delhi,110091,16,2,0
+06-09-2025,Delhi,North Delhi,110054,2,0,1
+06-09-2025,Delhi,North West Delhi,110009,4,1,0
+06-09-2025,Delhi,North West Delhi,110034,15,3,11
+06-09-2025,Delhi,North West Delhi,110082,4,0,0
+06-09-2025,Delhi,North West Delhi,110085,13,3,1
+06-09-2025,Delhi,North West Delhi,110086,44,15,0
+06-09-2025,Delhi,South Delhi,110024,5,1,0
+06-09-2025,Delhi,South Delhi,110025,6,3,0
+06-09-2025,Delhi,South Delhi,110048,2,1,0
+06-09-2025,Delhi,South Delhi,110062,21,6,0
+06-09-2025,Delhi,South West Delhi,110010,1,1,0
+06-09-2025,Delhi,South West Delhi,110046,8,0,0
+06-09-2025,Delhi,South West Delhi,110057,2,0,0
+06-09-2025,Delhi,South West Delhi,110066,0,1,0
+06-09-2025,Delhi,South West Delhi,110073,4,0,0
+06-09-2025,Delhi,South West Delhi,110077,7,1,0
+06-09-2025,Delhi,West Delhi,110015,5,0,0
+06-09-2025,Delhi,West Delhi,110018,14,4,0
+07-09-2025,Delhi,Central Delhi,110012,1,0,0
+07-09-2025,Delhi,East Delhi,110031,1,1,0
+07-09-2025,Delhi,East Delhi,110032,3,0,0
+07-09-2025,Delhi,East Delhi,110091,7,2,0
+07-09-2025,Delhi,North Delhi,110084,8,2,0
+07-09-2025,Delhi,North East,110093,0,1,0
+07-09-2025,Delhi,North East Delhi,110032,1,0,0
+07-09-2025,Delhi,North East Delhi,110094,12,8,0
+07-09-2025,Delhi,North West Delhi,110034,1,0,0
+07-09-2025,Delhi,North West Delhi,110036,1,0,0
+07-09-2025,Delhi,North West Delhi,110042,6,1,0
+07-09-2025,Delhi,North West Delhi,110085,3,0,0
+07-09-2025,Delhi,North West Delhi,110086,11,1,0
+07-09-2025,Delhi,South Delhi,110014,1,0,0
+07-09-2025,Delhi,South Delhi,110020,4,1,0
+07-09-2025,Delhi,South Delhi,110025,2,2,0
+07-09-2025,Delhi,South Delhi,110065,1,0,0
+07-09-2025,Delhi,South Delhi,110068,1,0,0
+07-09-2025,Delhi,South Delhi,110074,0,1,0
+07-09-2025,Delhi,South West Delhi,110029,1,0,0
+07-09-2025,Delhi,South West Delhi,110045,3,2,0
+07-09-2025,Delhi,South West Delhi,110064,3,0,0
+07-09-2025,Delhi,West Delhi,110026,1,0,0
+10-09-2025,Delhi,Central Delhi,110055,1,0,0
+10-09-2025,Delhi,East Delhi,110091,15,7,2
+10-09-2025,Delhi,North Delhi,110006,13,4,0
+10-09-2025,Delhi,North Delhi,110054,4,1,0
+10-09-2025,Delhi,North East,110093,9,2,0
+10-09-2025,Delhi,North West Delhi,110034,6,5,0
+10-09-2025,Delhi,North West Delhi,110039,4,1,1
+10-09-2025,Delhi,North West Delhi,110089,2,0,0
+10-09-2025,Delhi,Shahdara,110095,3,0,0
+10-09-2025,Delhi,South Delhi,110062,23,8,0
+10-09-2025,Delhi,South Delhi,110076,4,3,0
+10-09-2025,Delhi,South West Delhi,110021,2,0,1
+10-09-2025,Delhi,West Delhi,110043,3,0,0
+10-09-2025,Delhi,West Delhi,110063,5,0,0
+08-09-2025,Delhi,East Delhi,110092,15,8,3
+08-09-2025,Delhi,East Delhi,110095,11,2,0
+08-09-2025,Delhi,North Delhi,110007,3,1,0
+08-09-2025,Delhi,North East,110094,12,3,0
+08-09-2025,Delhi,North East Delhi,110053,27,9,0
+08-09-2025,Delhi,North East Delhi,110093,18,4,0
+08-09-2025,Delhi,North West Delhi,110036,6,1,0
+08-09-2025,Delhi,North West Delhi,110085,12,6,1
+08-09-2025,Delhi,North West Delhi,110089,3,0,0
+08-09-2025,Delhi,Shahdara,110032,4,3,0
+08-09-2025,Delhi,Shahdara,110095,1,2,0
+08-09-2025,Delhi,South Delhi,110062,31,8,0
+08-09-2025,Delhi,South Delhi,110068,3,1,0
+08-09-2025,Delhi,South West Delhi,110022,1,1,1
+08-09-2025,Delhi,South West Delhi,110043,26,7,0
+08-09-2025,Delhi,South West Delhi,110046,2,0,0
+08-09-2025,Delhi,South West Delhi,110057,2,0,0
+08-09-2025,Delhi,South West Delhi,110064,1,0,0
+08-09-2025,Delhi,South West Delhi,110073,1,0,0
+08-09-2025,Delhi,West Delhi,110027,3,0,0
+09-09-2025,Delhi,Central Delhi,110005,3,3,0
+09-09-2025,Delhi,East Delhi,110091,18,4,0
+09-09-2025,Delhi,East Delhi,110095,9,2,0
+09-09-2025,Delhi,North Delhi,110006,9,4,0
+09-09-2025,Delhi,North Delhi,110054,5,1,0
+09-09-2025,Delhi,North East,110093,14,0,0
+09-09-2025,Delhi,North East Delhi,110053,15,5,0
+09-09-2025,Delhi,North West Delhi,110009,4,0,0
+09-09-2025,Delhi,North West Delhi,110033,11,3,0
+09-09-2025,Delhi,North West Delhi,110035,3,0,0
+09-09-2025,Delhi,North West Delhi,110052,6,1,0
+09-09-2025,Delhi,North West Delhi,110056,1,0,0
+09-09-2025,Delhi,North West Delhi,110082,3,0,0
+09-09-2025,Delhi,Shahdara,110095,1,0,0
+09-09-2025,Delhi,South Delhi,110020,3,2,0
+09-09-2025,Delhi,South Delhi,110024,3,0,0
+09-09-2025,Delhi,South Delhi,110068,2,3,0
+09-09-2025,Delhi,South Delhi,110076,3,1,0
+09-09-2025,Delhi,South Delhi,110080,3,5,0
+09-09-2025,Delhi,South West Delhi,110023,3,0,1
+09-09-2025,Delhi,South West Delhi,110061,4,0,0
+09-09-2025,Delhi,South West Delhi,110067,1,1,0
+12-09-2025,Delhi,Central Delhi,110004,1,0,0
+12-09-2025,Delhi,Central Delhi,110055,3,1,0
+12-09-2025,Delhi,Najafgarh,110043,0,2,0
+12-09-2025,Delhi,New Delhi,110021,1,2,0
+12-09-2025,Delhi,North Delhi,110084,11,5,0
+12-09-2025,Delhi,North East Delhi,110093,15,2,0
+12-09-2025,Delhi,North East Delhi,110094,25,14,0
+12-09-2025,Delhi,North West Delhi,110009,5,4,0
+12-09-2025,Delhi,North West Delhi,110035,4,0,0
+12-09-2025,Delhi,North West Delhi,110081,6,0,0
+12-09-2025,Delhi,North West Delhi,110082,0,1,0
+12-09-2025,Delhi,North West Delhi,110086,24,7,0
+12-09-2025,Delhi,North West Delhi,110089,2,0,0
+12-09-2025,Delhi,South Delhi,110025,9,4,0
+12-09-2025,Delhi,South Delhi,110030,6,2,0
+12-09-2025,Delhi,South Delhi,110049,2,0,0
+12-09-2025,Delhi,South Delhi,110068,2,0,0
+12-09-2025,Delhi,South West Delhi,110010,3,1,0
+12-09-2025,Delhi,South West Delhi,110038,0,1,0
+12-09-2025,Delhi,South West Delhi,110043,26,11,0
+12-09-2025,Delhi,South West Delhi,110046,5,1,2
+12-09-2025,Delhi,South West Delhi,110078,9,5,0
+12-09-2025,Delhi,West Delhi,110041,12,4,0
+11-09-2025,Delhi,Central Delhi,110001,1,0,0
+11-09-2025,Delhi,Central Delhi,110005,2,1,0
+11-09-2025,Delhi,Central Delhi,110008,3,0,0
+11-09-2025,Delhi,Central Delhi,110060,1,0,0
+11-09-2025,Delhi,North Delhi,110006,10,5,0
+11-09-2025,Delhi,North East,110093,6,0,0
+11-09-2025,Delhi,North East Delhi,110094,33,12,0
+11-09-2025,Delhi,North West Delhi,110035,4,0,0
+11-09-2025,Delhi,North West Delhi,110036,6,2,0
+11-09-2025,Delhi,North West Delhi,110039,12,11,0
+11-09-2025,Delhi,North West Delhi,110082,1,1,0
+11-09-2025,Delhi,North West Delhi,110083,11,1,1
+11-09-2025,Delhi,Shahdara,110032,1,2,0
+11-09-2025,Delhi,South Delhi,110016,1,0,0
+11-09-2025,Delhi,South Delhi,110019,7,4,0
+11-09-2025,Delhi,South Delhi,110025,4,8,0
+11-09-2025,Delhi,South Delhi,110049,3,0,0
+11-09-2025,Delhi,South Delhi,110080,2,2,0
+11-09-2025,Delhi,South East Delhi,110025,0,1,0
+11-09-2025,Delhi,South West Delhi,110010,5,3,0
+11-09-2025,Delhi,South West Delhi,110061,4,1,0
+11-09-2025,Delhi,West Delhi,110018,15,1,0
+11-09-2025,Delhi,West Delhi,110027,5,1,1
+14-09-2025,Delhi,East Delhi,110032,0,1,0
+14-09-2025,Delhi,East Delhi,110095,9,0,0
+14-09-2025,Delhi,North Delhi,110006,2,1,0
+14-09-2025,Delhi,North Delhi,110007,1,0,0
+14-09-2025,Delhi,North West Delhi,110042,5,2,0
+14-09-2025,Delhi,North West Delhi,110052,4,2,0
+14-09-2025,Delhi,North West Delhi,110086,3,0,0
+14-09-2025,Delhi,North West Delhi,110094,1,0,0
+14-09-2025,Delhi,South Delhi,110025,3,4,0
+14-09-2025,Delhi,South Delhi,110065,3,0,0
+14-09-2025,Delhi,South West Delhi,110021,1,0,0
+14-09-2025,Delhi,West Delhi,110027,2,0,0
+15-09-2025,Delhi,Central Delhi,110005,6,2,3
+15-09-2025,Delhi,Central Delhi,110011,1,0,0
+15-09-2025,Delhi,East Delhi,110091,14,4,1
+15-09-2025,Delhi,East Delhi,110094,0,1,0
+15-09-2025,Delhi,East Delhi,110095,7,2,0
+15-09-2025,Delhi,East Delhi,110096,5,2,0
+15-09-2025,Delhi,North Delhi,110007,5,1,0
+15-09-2025,Delhi,North Delhi,110084,8,4,0
+15-09-2025,Delhi,North East,110053,8,0,0
+15-09-2025,Delhi,North East Delhi,110094,22,22,0
+15-09-2025,Delhi,North West Delhi,110034,4,2,0
+15-09-2025,Delhi,North West Delhi,110040,5,4,0
+15-09-2025,Delhi,North West Delhi,110085,12,5,1
+15-09-2025,Delhi,South Delhi,110025,12,4,0
+15-09-2025,Delhi,South Delhi,110047,2,0,0
+15-09-2025,Delhi,South Delhi,110080,3,0,0
+15-09-2025,Delhi,South West Delhi,110010,3,1,0
+15-09-2025,Delhi,South West Delhi,110070,0,2,1
+15-09-2025,Delhi,West Delhi,110027,3,0,0
+13-09-2025,Delhi,East Delhi,110051,12,1,0
+13-09-2025,Delhi,North East Delhi,110093,10,0,0
+13-09-2025,Delhi,North West Delhi,110036,4,1,0
+13-09-2025,Delhi,North West Delhi,110039,10,2,2
+13-09-2025,Delhi,North West Delhi,110040,3,1,0
+13-09-2025,Delhi,North West Delhi,110081,4,1,0
+13-09-2025,Delhi,North West Delhi,110082,4,0,0
+13-09-2025,Delhi,South Delhi,110016,2,1,0
+13-09-2025,Delhi,South Delhi,110047,2,0,1
+13-09-2025,Delhi,South West Delhi,110010,3,0,0
+13-09-2025,Delhi,South West Delhi,110043,17,2,0
+13-09-2025,Delhi,South West Delhi,110045,15,1,0
+13-09-2025,Delhi,South West Delhi,110057,1,0,0
+13-09-2025,Delhi,South West Delhi,110064,1,1,0
+13-09-2025,Delhi,South West Delhi,110071,6,1,0
+13-09-2025,Delhi,West Delhi,110027,1,3,0
+13-09-2025,Delhi,West Delhi,110087,1,0,0
+16-09-2025,Delhi,Central Delhi,110012,3,2,0
+16-09-2025,Delhi,Central Delhi,110060,1,0,1
+16-09-2025,Delhi,East Delhi,110051,9,2,0
+16-09-2025,Delhi,East Delhi,110053,0,1,0
+16-09-2025,Delhi,East Delhi,110095,7,4,0
+16-09-2025,Delhi,North Delhi,110006,9,3,0
+16-09-2025,Delhi,North West Delhi,110034,11,1,0
+16-09-2025,Delhi,North West Delhi,110040,7,1,0
+16-09-2025,Delhi,North West Delhi,110081,3,1,0
+16-09-2025,Delhi,North West Delhi,110085,21,5,2
+16-09-2025,Delhi,North West Delhi,110089,5,0,0
+16-09-2025,Delhi,Shahdara,110032,4,0,0
+16-09-2025,Delhi,Shahdara,110095,1,0,0
+16-09-2025,Delhi,South Delhi,110020,2,0,0
+16-09-2025,Delhi,South Delhi,110062,24,4,0
+16-09-2025,Delhi,South Delhi,110065,14,0,0
+16-09-2025,Delhi,South Delhi,110074,2,1,0
+16-09-2025,Delhi,South Delhi,110080,4,1,0
+16-09-2025,Delhi,South West Delhi,110038,1,0,0
+16-09-2025,Delhi,South West Delhi,110046,4,0,0
+16-09-2025,Delhi,South West Delhi,110061,3,0,0
+16-09-2025,Delhi,South West Delhi,110064,1,0,0
+16-09-2025,Delhi,South West Delhi,110078,7,0,1
+16-09-2025,Delhi,West Delhi,110027,8,0,1
+16-09-2025,Delhi,West Delhi,110058,1,0,0
+18-09-2025,Delhi,East Delhi,110051,4,1,0
+18-09-2025,Delhi,East Delhi,110091,17,2,0
+18-09-2025,Delhi,North East,110053,11,2,0
+18-09-2025,Delhi,North East Delhi,110094,30,15,1
+18-09-2025,Delhi,South Delhi,110020,0,2,0
+18-09-2025,Delhi,South Delhi,110044,16,5,0
+18-09-2025,Delhi,South Delhi,110068,2,2,0
+18-09-2025,Delhi,South West Delhi,110022,1,1,0
+18-09-2025,Delhi,South West Delhi,110038,1,1,0
+18-09-2025,Delhi,South West Delhi,110067,2,1,0
+18-09-2025,Delhi,South West Delhi,110070,2,1,1
+18-09-2025,Delhi,West Delhi,110018,9,2,0
+18-09-2025,Delhi,West Delhi,110026,1,0,0
+17-09-2025,Delhi,Central Delhi,110003,0,2,0
+17-09-2025,Delhi,Central Delhi,110012,4,1,0
+17-09-2025,Delhi,Central Delhi,110055,0,1,0
+17-09-2025,Delhi,Central Delhi,110060,1,1,0
+17-09-2025,Delhi,East Delhi,110031,10,2,0
+17-09-2025,Delhi,East Delhi,110051,6,4,0
+17-09-2025,Delhi,East Delhi,110053,1,0,0
+17-09-2025,Delhi,East Delhi,110091,8,4,0
+17-09-2025,Delhi,New Delhi,110001,1,0,0
+17-09-2025,Delhi,North East Delhi,110093,18,6,0
+17-09-2025,Delhi,North West Delhi,110009,5,1,0
+17-09-2025,Delhi,North West Delhi,110033,15,5,0
+17-09-2025,Delhi,North West Delhi,110035,2,1,0
+17-09-2025,Delhi,North West Delhi,110056,1,0,0
+17-09-2025,Delhi,North West Delhi,110082,2,1,0
+17-09-2025,Delhi,North West Delhi,110089,4,0,0
+17-09-2025,Delhi,Shahdara,110093,3,0,0
+17-09-2025,Delhi,Shahdara,110095,3,1,0
+17-09-2025,Delhi,South Delhi,110014,5,0,0
+17-09-2025,Delhi,South Delhi,110048,1,1,0
+17-09-2025,Delhi,South Delhi,110049,4,2,0
+17-09-2025,Delhi,South Delhi,110074,4,0,0
+17-09-2025,Delhi,South East Delhi,110025,1,0,0
+17-09-2025,Delhi,South West Delhi,110022,0,1,1
+17-09-2025,Delhi,South West Delhi,110046,5,0,0
+17-09-2025,Delhi,South West Delhi,110071,5,2,0
+17-09-2025,Delhi,South West Delhi,110077,1,1,0
+17-09-2025,Delhi,West Delhi,110015,11,1,0
+17-09-2025,Delhi,West Delhi,110026,2,0,0
+17-09-2025,Delhi,West Delhi,110087,6,0,0
+20-09-2025,Delhi,Central Delhi,110008,8,1,0
+20-09-2025,Delhi,East Delhi,110031,4,2,0
+20-09-2025,Delhi,East Delhi,110092,13,2,0
+20-09-2025,Delhi,East Delhi,110095,6,2,0
+20-09-2025,Delhi,East Delhi,110096,7,3,0
+20-09-2025,Delhi,New Delhi,110001,0,0,1
+20-09-2025,Delhi,New Delhi,110021,0,1,1
+20-09-2025,Delhi,North East Delhi,110032,9,4,0
+20-09-2025,Delhi,North East Delhi,110093,8,2,0
+20-09-2025,Delhi,North East Delhi,110094,18,9,0
+20-09-2025,Delhi,North West Delhi,110033,5,0,0
+20-09-2025,Delhi,North West Delhi,110034,4,2,0
+20-09-2025,Delhi,North West Delhi,110036,5,1,0
+20-09-2025,Delhi,North West Delhi,110040,7,3,0
+20-09-2025,Delhi,North West Delhi,110082,2,1,0
+20-09-2025,Delhi,North West Delhi,110085,15,2,0
+20-09-2025,Delhi,North West Delhi,110089,1,3,0
+20-09-2025,Delhi,South Delhi,110017,3,1,0
+20-09-2025,Delhi,South Delhi,110020,5,0,0
+20-09-2025,Delhi,South Delhi,110076,3,1,0
+20-09-2025,Delhi,South West Delhi,110022,1,1,0
+20-09-2025,Delhi,South West Delhi,110023,1,0,0
+20-09-2025,Delhi,West Delhi,110026,0,2,0
+19-09-2025,Delhi,East Delhi,110096,7,6,0
+19-09-2025,Delhi,North East,110094,13,8,0
+19-09-2025,Delhi,North West Delhi,110009,1,1,0
+19-09-2025,Delhi,North West Delhi,110035,1,0,0
+19-09-2025,Delhi,North West Delhi,110040,1,2,0
+19-09-2025,Delhi,North West Delhi,110085,11,5,0
+19-09-2025,Delhi,South Delhi,110049,1,0,0
+19-09-2025,Delhi,South West Delhi,110010,1,0,0
+19-09-2025,Delhi,South West Delhi,110021,1,0,0
+19-09-2025,Delhi,South West Delhi,110075,3,0,0
+19-09-2025,Delhi,South West Delhi,110078,7,2,0
+19-09-2025,Delhi,West Delhi,110015,2,0,0
+19-09-2025,Delhi,West Delhi,110063,2,0,0
+23-09-2025,Delhi,Central Delhi,110005,1,0,0
+23-09-2025,Delhi,Central Delhi,110060,0,2,0
+23-09-2025,Delhi,East Delhi,110031,7,1,0
+23-09-2025,Delhi,East Delhi,110096,6,3,0
+23-09-2025,Delhi,North East,110094,7,2,0
+23-09-2025,Delhi,North West Delhi,110033,8,1,0
+23-09-2025,Delhi,North West Delhi,110034,4,0,0
+23-09-2025,Delhi,North West Delhi,110035,2,1,0
+23-09-2025,Delhi,North West Delhi,110039,7,4,1
+23-09-2025,Delhi,North West Delhi,110081,24,2,0
+23-09-2025,Delhi,North West Delhi,110085,13,2,0
+23-09-2025,Delhi,North West Delhi,110089,2,0,0
+23-09-2025,Delhi,South Delhi,110068,1,0,0
+23-09-2025,Delhi,South Delhi,110076,6,1,0
+23-09-2025,Delhi,South West Delhi,110037,5,0,0
+23-09-2025,Delhi,South West Delhi,110057,4,0,0
+23-09-2025,Delhi,South West Delhi,110078,6,1,0
+23-09-2025,Delhi,West Delhi,110026,1,0,0
+22-09-2025,Delhi,East Delhi,110091,9,2,0
+22-09-2025,Delhi,East Delhi,110096,1,2,0
+22-09-2025,Delhi,North Delhi,110006,6,3,1
+22-09-2025,Delhi,North East,110093,4,0,0
+22-09-2025,Delhi,North East Delhi,110032,2,1,0
+22-09-2025,Delhi,North West Delhi,110081,10,1,0
+22-09-2025,Delhi,North West Delhi,110085,8,0,0
+22-09-2025,Delhi,North West Delhi,110089,1,1,0
+22-09-2025,Delhi,South Delhi,110017,3,3,2
+22-09-2025,Delhi,South Delhi,110044,16,2,0
+22-09-2025,Delhi,South Delhi,110065,3,0,0
+22-09-2025,Delhi,South Delhi,110068,2,0,0
+22-09-2025,Delhi,South Delhi,110076,1,2,0
+22-09-2025,Delhi,South West Delhi,110043,8,6,0
+22-09-2025,Delhi,South West Delhi,110057,1,1,0
+22-09-2025,Delhi,South West Delhi,110066,0,0,1
+22-09-2025,Delhi,South West Delhi,110070,3,1,0
+22-09-2025,Delhi,South West Delhi,110073,1,0,0
+22-09-2025,Delhi,South West Delhi,110078,2,0,0
+22-09-2025,Delhi,West Delhi,110027,3,3,0
+22-09-2025,Delhi,West Delhi,110041,4,5,0
+22-09-2025,Delhi,West Delhi,110058,1,0,0
+22-09-2025,Delhi,West Delhi,110059,28,4,0
+21-09-2025,Delhi,New Delhi,110021,0,1,0
+21-09-2025,Delhi,North East Delhi,110053,1,2,0
+21-09-2025,Delhi,North East Delhi,110094,2,0,0
+21-09-2025,Delhi,North West Delhi,110089,2,0,0
+21-09-2025,Delhi,South West Delhi,110037,0,1,0
+21-09-2025,Delhi,South West Delhi,110043,1,0,0
+21-09-2025,Delhi,South West Delhi,110077,1,0,0
+21-09-2025,Delhi,South West Delhi,110078,1,0,0
+21-09-2025,Delhi,West Delhi,110041,3,0,0
+21-09-2025,Delhi,West Delhi,110063,1,1,0
+21-09-2025,Delhi,West Delhi,110087,1,0,0
+26-09-2025,Delhi,Central Delhi,110008,4,2,0
+26-09-2025,Delhi,Central Delhi,110012,0,1,0
+26-09-2025,Delhi,North East,110053,5,2,0
+26-09-2025,Delhi,North East Delhi,110053,8,5,0
+26-09-2025,Delhi,North West Delhi,110009,6,1,0
+26-09-2025,Delhi,North West Delhi,110035,1,0,0
+26-09-2025,Delhi,North West Delhi,110042,7,8,0
+26-09-2025,Delhi,Shahdara,110032,2,0,0
+26-09-2025,Delhi,South West Delhi,110029,3,0,0
+26-09-2025,Delhi,South West Delhi,110043,4,1,0
+26-09-2025,Delhi,South West Delhi,110070,2,0,0
+26-09-2025,Delhi,West Delhi,110058,1,0,0
+25-09-2025,Delhi,Central Delhi,110002,1,1,0
+25-09-2025,Delhi,Central Delhi,110004,0,1,0
+25-09-2025,Delhi,East Delhi,110032,1,0,0
+25-09-2025,Delhi,East Delhi,110053,1,0,0
+25-09-2025,Delhi,East Delhi,110095,15,0,0
+25-09-2025,Delhi,East Delhi,110096,4,7,0
+25-09-2025,Delhi,North East,110094,5,3,0
+25-09-2025,Delhi,North East Delhi,110053,14,5,0
+25-09-2025,Delhi,North West Delhi,110081,4,1,0
+25-09-2025,Delhi,North West Delhi,110085,9,0,0
+25-09-2025,Delhi,North West Delhi,110088,1,2,0
+25-09-2025,Delhi,Shahdara,110093,1,0,0
+25-09-2025,Delhi,South Delhi,110068,1,1,0
+25-09-2025,Delhi,South West Delhi,110057,0,1,0
+25-09-2025,Delhi,West Delhi,110018,9,5,2
+25-09-2025,Delhi,West Delhi,110059,33,6,9
+24-09-2025,Delhi,Central Delhi,110055,1,1,0
+24-09-2025,Delhi,Najafgarh,110043,2,0,0
+24-09-2025,Delhi,North East,110093,3,0,0
+24-09-2025,Delhi,North East Delhi,110032,5,1,0
+24-09-2025,Delhi,North West Delhi,110039,9,2,0
+24-09-2025,Delhi,North West Delhi,110040,6,1,0
+24-09-2025,Delhi,North West Delhi,110082,3,0,0
+24-09-2025,Delhi,North West Delhi,110083,3,2,0
+24-09-2025,Delhi,South Delhi,110003,1,0,0
+24-09-2025,Delhi,South Delhi,110014,1,1,2
+24-09-2025,Delhi,South Delhi,110020,2,3,0
+24-09-2025,Delhi,South Delhi,110065,4,1,0
+24-09-2025,Delhi,South West Delhi,110022,2,0,0
+24-09-2025,Delhi,South West Delhi,110023,1,0,0
+24-09-2025,Delhi,South West Delhi,110029,0,1,0
+24-09-2025,Delhi,West Delhi,110026,0,1,0
+24-09-2025,Delhi,West Delhi,110027,4,0,2
+24-09-2025,Delhi,West Delhi,110043,3,0,0
+29-09-2025,Delhi,Central Delhi,110003,1,1,0
+29-09-2025,Delhi,East Delhi,110053,1,1,0
+29-09-2025,Delhi,North Delhi,110007,1,1,0
+29-09-2025,Delhi,North West Delhi,110042,1,2,0
+29-09-2025,Delhi,South Delhi,110062,2,1,0
+29-09-2025,Delhi,South Delhi,110074,2,0,0
+29-09-2025,Delhi,South West Delhi,110045,1,0,0
+29-09-2025,Delhi,South West Delhi,110057,0,1,0
+29-09-2025,Delhi,West Delhi,110018,0,2,0
+28-09-2025,Delhi,East Delhi,110092,0,2,0
+28-09-2025,Delhi,East Delhi,110096,1,0,0
+28-09-2025,Delhi,North East Delhi,110093,1,0,0
+28-09-2025,Delhi,North West Delhi,110042,1,1,0
+28-09-2025,Delhi,South Delhi,110076,0,1,0
+27-09-2025,Delhi,Central Delhi,110055,1,0,0
+27-09-2025,Delhi,North East Delhi,110093,4,1,0
+27-09-2025,Delhi,North West Delhi,110009,0,1,0
+27-09-2025,Delhi,North West Delhi,110033,2,0,0
+27-09-2025,Delhi,North West Delhi,110036,2,0,0
+27-09-2025,Delhi,North West Delhi,110081,2,1,0
+27-09-2025,Delhi,North West Delhi,110082,1,0,0
+27-09-2025,Delhi,North West Delhi,110086,8,3,0
+27-09-2025,Delhi,South Delhi,110017,3,0,0
+27-09-2025,Delhi,South Delhi,110025,3,2,0
+27-09-2025,Delhi,South Delhi,110048,1,1,0
+27-09-2025,Delhi,South Delhi,110076,4,1,0
+27-09-2025,Delhi,South West Delhi,110064,0,1,0
+27-09-2025,Delhi,South West Delhi,110077,1,0,0
+27-09-2025,Delhi,South West Delhi,110078,0,1,0
+27-09-2025,Delhi,West Delhi,110015,2,0,0
+30-09-2025,Delhi,North West Delhi,110040,0,0,2
+30-09-2025,Delhi,North West Delhi,110081,0,2,0
+30-09-2025,Delhi,South Delhi,110017,0,1,0
+30-09-2025,Delhi,South Delhi,110074,0,1,0
+30-09-2025,Delhi,South West Delhi,110029,0,1,0
+13-10-2025,Delhi,Central Delhi,110005,5,1,0
+13-10-2025,Delhi,East Delhi,110031,4,4,0
+13-10-2025,Delhi,East Delhi,110051,8,4,0
+13-10-2025,Delhi,East Delhi,110095,21,3,0
+13-10-2025,Delhi,North Delhi,110007,3,2,0
+13-10-2025,Delhi,North Delhi,110054,1,0,1
+13-10-2025,Delhi,North East Delhi,110094,25,13,0
+13-10-2025,Delhi,North West Delhi,110009,4,0,1
+13-10-2025,Delhi,North West Delhi,110034,8,2,1
+13-10-2025,Delhi,North West Delhi,110039,7,4,1
+13-10-2025,Delhi,North West Delhi,110081,8,0,0
+13-10-2025,Delhi,North West Delhi,110086,31,4,0
+13-10-2025,Delhi,Shahdara,110032,0,1,0
+13-10-2025,Delhi,Shahdara,110095,4,0,0
+13-10-2025,Delhi,South Delhi,110017,6,2,0
+13-10-2025,Delhi,South Delhi,110030,6,1,0
+13-10-2025,Delhi,South Delhi,110068,1,0,0
+13-10-2025,Delhi,South West Delhi,110028,3,0,0
+13-10-2025,Delhi,South West Delhi,110037,3,4,0
+13-10-2025,Delhi,South West Delhi,110046,7,1,0
+13-10-2025,Delhi,South West Delhi,110066,0,0,1
+13-10-2025,Delhi,South West Delhi,110067,1,0,1
+13-10-2025,Delhi,South West Delhi,110077,4,1,0
+13-10-2025,Delhi,West Delhi,110015,2,1,0
+13-10-2025,Delhi,West Delhi,110043,1,0,0
+16-10-2025,Delhi,Central Delhi,110003,1,1,2
+16-10-2025,Delhi,Central Delhi,110005,2,0,0
+16-10-2025,Delhi,Central Delhi,110008,1,2,0
+16-10-2025,Delhi,Central Delhi,110055,0,2,1
+16-10-2025,Delhi,East Delhi,110031,2,1,0
+16-10-2025,Delhi,East Delhi,110032,2,0,0
+16-10-2025,Delhi,East Delhi,110051,4,2,0
+16-10-2025,Delhi,East Delhi,110091,11,3,0
+16-10-2025,Delhi,North East Delhi,110094,17,9,0
+16-10-2025,Delhi,North West Delhi,110036,0,1,0
+16-10-2025,Delhi,North West Delhi,110039,4,3,1
+16-10-2025,Delhi,North West Delhi,110042,5,5,0
+16-10-2025,Delhi,North West Delhi,110082,2,1,0
+16-10-2025,Delhi,North West Delhi,110086,25,6,1
+16-10-2025,Delhi,South Delhi,110017,5,2,2
+16-10-2025,Delhi,South Delhi,110025,10,2,0
+16-10-2025,Delhi,South West Delhi,110021,1,0,0
+16-10-2025,Delhi,South West Delhi,110023,1,1,0
+16-10-2025,Delhi,South West Delhi,110046,5,0,0
+16-10-2025,Delhi,West Delhi,110015,2,0,0
+16-10-2025,Delhi,West Delhi,110018,3,0,1
+16-10-2025,Delhi,West Delhi,110027,2,5,0
+16-10-2025,Delhi,West Delhi,110041,13,5,0
+15-10-2025,Delhi,Central Delhi,110008,7,2,1
+15-10-2025,Delhi,Central Delhi,110055,4,1,0
+15-10-2025,Delhi,East Delhi,110051,7,2,0
+15-10-2025,Delhi,East Delhi,110053,2,0,0
+15-10-2025,Delhi,East Delhi,110092,13,1,0
+15-10-2025,Delhi,North East Delhi,110094,29,14,0
+15-10-2025,Delhi,North West Delhi,110009,2,2,2
+15-10-2025,Delhi,North West Delhi,110082,3,1,0
+15-10-2025,Delhi,Shahdara,110093,1,0,0
+15-10-2025,Delhi,South Delhi,110016,2,0,0
+15-10-2025,Delhi,South Delhi,110017,9,1,1
+15-10-2025,Delhi,South Delhi,110025,16,4,0
+15-10-2025,Delhi,South Delhi,110048,1,0,0
+15-10-2025,Delhi,South Delhi,110076,4,3,0
+15-10-2025,Delhi,South West Delhi,110047,1,0,0
+15-10-2025,Delhi,South West Delhi,110070,1,1,0
+15-10-2025,Delhi,West Delhi,110043,1,0,0
+15-10-2025,Delhi,West Delhi,110058,1,1,0
+15-10-2025,Delhi,West Delhi,110087,2,0,0
+17-10-2025,Delhi,Central Delhi,110012,5,0,0
+17-10-2025,Delhi,East Delhi,110031,12,3,0
+17-10-2025,Delhi,East Delhi,110053,2,2,0
+17-10-2025,Delhi,North Delhi,110007,4,1,0
+17-10-2025,Delhi,North East,110053,11,3,0
+17-10-2025,Delhi,North East Delhi,110053,27,14,0
+17-10-2025,Delhi,North East Delhi,110093,21,9,0
+17-10-2025,Delhi,North East Delhi,110094,70,20,0
+17-10-2025,Delhi,North West Delhi,110009,6,2,0
+17-10-2025,Delhi,North West Delhi,110034,12,1,0
+17-10-2025,Delhi,North West Delhi,110040,14,0,0
+17-10-2025,Delhi,North West Delhi,110082,4,1,0
+17-10-2025,Delhi,North West Delhi,110086,42,11,0
+17-10-2025,Delhi,South Delhi,110048,3,0,1
+17-10-2025,Delhi,South Delhi,110074,10,3,0
+17-10-2025,Delhi,South East Delhi,110025,0,1,0
+17-10-2025,Delhi,South West Delhi,110064,5,1,0
+17-10-2025,Delhi,South West Delhi,110070,7,0,0
+17-10-2025,Delhi,South West Delhi,110078,19,1,0
+17-10-2025,Delhi,West Delhi,110026,3,1,0
+17-10-2025,Delhi,West Delhi,110027,8,1,0
+17-10-2025,Delhi,West Delhi,110043,2,1,0
+17-10-2025,Delhi,West Delhi,110063,5,0,0
+01-09-2025,Delhi,Central Delhi,110003,1,1,3
+01-09-2025,Delhi,East Delhi,110095,12,6,0
+01-09-2025,Delhi,North East,110053,6,2,0
+01-09-2025,Delhi,North East Delhi,110094,31,16,0
+01-09-2025,Delhi,North West Delhi,110035,2,1,0
+01-09-2025,Delhi,North West Delhi,110036,6,1,0
+01-09-2025,Delhi,North West Delhi,110056,1,0,0
+01-09-2025,Delhi,North West Delhi,110081,3,2,0
+01-09-2025,Delhi,South Delhi,110014,2,3,0
+01-09-2025,Delhi,South Delhi,110020,5,5,0
+01-09-2025,Delhi,South Delhi,110025,13,6,0
+01-09-2025,Delhi,South Delhi,110065,2,0,1
+01-09-2025,Delhi,South Delhi,110076,8,3,1
+01-09-2025,Delhi,South West Delhi,110023,1,0,1
+01-09-2025,Delhi,South West Delhi,110037,9,2,0
+01-09-2025,Delhi,South West Delhi,110067,2,0,0
+01-09-2025,Delhi,West Delhi,110018,12,4,1
+01-05-2025,Delhi,North West Delhi,110040,170,141,12
+01-05-2025,Delhi,West Delhi,110059,1094,373,140
+01-05-2025,Delhi,Shahdara,110032,66,47,20
+01-05-2025,Delhi,West Delhi,110018,317,120,32
+01-06-2025,Delhi,New Delhi,110003,78,30,16
+01-06-2025,Delhi,South Delhi,110024,41,16,13
+01-06-2025,Delhi,North West Delhi,110085,371,88,10
+01-06-2025,Delhi,South Delhi,110017,126,45,20
+01-07-2025,Delhi,Central Delhi,110005,200,80,17
+01-07-2025,Delhi,South Delhi,110048,50,17,16
+01-07-2025,Delhi,Central Delhi,110055,185,126,10
+01-07-2025,Delhi,North East Delhi,110053,1042,554,12
+01-04-2025,Delhi,South West Delhi,110070,68,29,14
+03-09-2025,Delhi,Central Delhi,110012,1,0,0
+03-09-2025,Delhi,East Delhi,110032,1,1,0
+03-09-2025,Delhi,East Delhi,110051,3,1,0
+03-09-2025,Delhi,East Delhi,110095,17,2,0
+03-09-2025,Delhi,North Delhi,110006,4,4,0
+03-09-2025,Delhi,North Delhi,110084,8,11,0
+03-09-2025,Delhi,North East Delhi,110093,10,2,0
+03-09-2025,Delhi,North West Delhi,110039,7,2,0
+03-09-2025,Delhi,North West Delhi,110089,2,0,0
+03-09-2025,Delhi,South Delhi,110024,0,1,2
+03-09-2025,Delhi,South Delhi,110062,24,7,0
+03-09-2025,Delhi,South West Delhi,110029,1,0,0
+03-09-2025,Delhi,South West Delhi,110067,1,0,1
+03-09-2025,Delhi,South West Delhi,110075,6,0,0
+03-09-2025,Delhi,South West Delhi,110077,4,1,0
+03-09-2025,Delhi,South West Delhi,110078,4,2,0
+03-09-2025,Delhi,West Delhi,110058,0,1,0
+03-09-2025,Delhi,West Delhi,110064,0,1,0
+02-09-2025,Delhi,Central Delhi,110005,8,3,0
+02-09-2025,Delhi,Central Delhi,110012,0,0,1
+02-09-2025,Delhi,Central Delhi,110060,0,1,0
+02-09-2025,Delhi,North Delhi,110007,3,2,0
+02-09-2025,Delhi,North East,110093,3,1,0
+02-09-2025,Delhi,North East Delhi,110032,4,2,0
+02-09-2025,Delhi,North West Delhi,110033,23,2,0
+02-09-2025,Delhi,North West Delhi,110081,6,0,0
+02-09-2025,Delhi,North West Delhi,110082,3,0,0
+02-09-2025,Delhi,Shahdara,110093,2,3,0
+02-09-2025,Delhi,South Delhi,110020,2,2,0
+02-09-2025,Delhi,South Delhi,110024,3,0,2
+02-09-2025,Delhi,South Delhi,110049,5,3,0
+02-09-2025,Delhi,South West Delhi,110064,1,1,0
+02-09-2025,Delhi,South West Delhi,110075,6,0,0
+02-09-2025,Delhi,South West Delhi,110078,6,0,0
+02-09-2025,Delhi,West Delhi,110026,1,0,0
+02-09-2025,Delhi,West Delhi,110058,3,1,0
+07-09-2025,Delhi,Central Delhi,110005,0,1,0
+07-09-2025,Delhi,Central Delhi,110055,1,0,0
+07-09-2025,Delhi,East Delhi,110095,6,0,0
+07-09-2025,Delhi,East Delhi,110096,10,1,0
+07-09-2025,Delhi,North Delhi,110006,3,1,0
+07-09-2025,Delhi,North East,110053,0,1,0
+07-09-2025,Delhi,North West Delhi,110039,0,1,0
+07-09-2025,Delhi,North West Delhi,110089,0,1,0
+07-09-2025,Delhi,South Delhi,110019,1,1,0
+07-09-2025,Delhi,South Delhi,110030,2,1,0
+07-09-2025,Delhi,South Delhi,110048,0,1,0
+07-09-2025,Delhi,South Delhi,110076,4,1,0
+07-09-2025,Delhi,South Delhi,110080,2,0,0
+07-09-2025,Delhi,South West Delhi,110037,1,0,0
+07-09-2025,Delhi,West Delhi,110027,1,0,0
+04-09-2025,Delhi,Central Delhi,110003,2,2,0
+04-09-2025,Delhi,Central Delhi,110008,2,3,0
+04-09-2025,Delhi,East Delhi,110031,4,1,0
+04-09-2025,Delhi,East Delhi,110051,5,0,0
+04-09-2025,Delhi,North Delhi,110084,8,9,0
+04-09-2025,Delhi,North East Delhi,110053,14,7,0
+04-09-2025,Delhi,North West Delhi,110033,9,3,0
+04-09-2025,Delhi,North West Delhi,110034,11,2,0
+04-09-2025,Delhi,North West Delhi,110081,11,5,0
+04-09-2025,Delhi,North West Delhi,110082,5,1,0
+04-09-2025,Delhi,North West Delhi,110083,4,1,0
+04-09-2025,Delhi,North West Delhi,110085,12,5,0
+04-09-2025,Delhi,North West Delhi,110086,49,18,0
+04-09-2025,Delhi,Shahdara,110032,1,0,0
+04-09-2025,Delhi,Shahdara,110093,1,0,0
+04-09-2025,Delhi,South Delhi,110014,0,1,0
+04-09-2025,Delhi,South Delhi,110024,1,3,0
+04-09-2025,Delhi,South Delhi,110025,9,12,0
+04-09-2025,Delhi,South Delhi,110044,32,1,1
+04-09-2025,Delhi,South Delhi,110065,3,1,0
+04-09-2025,Delhi,South West Delhi,110057,3,2,0
+04-09-2025,Delhi,West Delhi,110015,7,1,0
+06-09-2025,Delhi,Central Delhi,110002,4,2,0
+06-09-2025,Delhi,Central Delhi,110005,1,2,1
+06-09-2025,Delhi,East Delhi,110053,1,0,0
+06-09-2025,Delhi,East Delhi,110095,16,1,0
+06-09-2025,Delhi,New Delhi,110001,0,2,0
+06-09-2025,Delhi,North Delhi,110007,5,0,1
+06-09-2025,Delhi,North Delhi,110084,31,11,0
+06-09-2025,Delhi,North East,110053,14,8,0
+06-09-2025,Delhi,North East Delhi,110032,4,2,0
+06-09-2025,Delhi,North East Delhi,110093,8,0,0
+06-09-2025,Delhi,North West Delhi,110052,5,4,0
+06-09-2025,Delhi,North West Delhi,110089,1,3,0
+06-09-2025,Delhi,Shahdara,110053,1,2,0
+06-09-2025,Delhi,Shahdara,110095,1,0,0
+06-09-2025,Delhi,South Delhi,110017,8,2,0
+06-09-2025,Delhi,South Delhi,110019,9,4,0
+06-09-2025,Delhi,South Delhi,110047,4,3,0
+06-09-2025,Delhi,South Delhi,110065,2,2,0
+06-09-2025,Delhi,South Delhi,110074,6,2,0
+06-09-2025,Delhi,South Delhi,110076,3,1,0
+06-09-2025,Delhi,South West Delhi,110021,1,0,0
+06-09-2025,Delhi,South West Delhi,110023,1,0,0
+06-09-2025,Delhi,South West Delhi,110029,4,0,0
+06-09-2025,Delhi,West Delhi,110041,39,5,0
+06-09-2025,Delhi,West Delhi,110043,4,1,0
+06-09-2025,Delhi,West Delhi,110063,8,1,1
+05-09-2025,Delhi,East Delhi,110091,15,6,0
+05-09-2025,Delhi,North Delhi,110084,1,0,0
+05-09-2025,Delhi,North West Delhi,110033,1,0,0
+05-09-2025,Delhi,North West Delhi,110088,1,0,0
+05-09-2025,Delhi,North West Delhi,110089,2,0,0
+05-09-2025,Delhi,North West Delhi,110094,1,0,0
+05-09-2025,Delhi,South Delhi,110065,1,0,0
+05-09-2025,Delhi,South Delhi,110080,1,0,0
+05-09-2025,Delhi,South West Delhi,110022,0,1,0
+05-09-2025,Delhi,West Delhi,110063,1,0,0
+10-09-2025,Delhi,Central Delhi,110002,4,2,0
+10-09-2025,Delhi,East Delhi,110051,8,5,0
+10-09-2025,Delhi,East Delhi,110053,1,0,0
+10-09-2025,Delhi,East Delhi,110092,16,4,0
+10-09-2025,Delhi,East Delhi,110096,9,4,0
+10-09-2025,Delhi,North Delhi,110007,1,0,1
+10-09-2025,Delhi,North Delhi,110084,15,10,0
+10-09-2025,Delhi,North East,110053,5,1,0
+10-09-2025,Delhi,North East,110094,6,3,0
+10-09-2025,Delhi,North East Delhi,110032,5,3,0
+10-09-2025,Delhi,North East Delhi,110093,18,2,0
+10-09-2025,Delhi,North West Delhi,110033,14,2,0
+10-09-2025,Delhi,North West Delhi,110042,20,11,0
+10-09-2025,Delhi,North West Delhi,110086,38,5,0
+10-09-2025,Delhi,North West Delhi,110088,6,1,0
+10-09-2025,Delhi,South Delhi,110014,1,1,0
+10-09-2025,Delhi,South Delhi,110024,1,1,0
+10-09-2025,Delhi,South Delhi,110080,4,0,0
+10-09-2025,Delhi,South West Delhi,110010,1,0,0
+10-09-2025,Delhi,South West Delhi,110016,2,0,0
+10-09-2025,Delhi,South West Delhi,110067,2,0,0
+10-09-2025,Delhi,South West Delhi,110071,2,0,0
+10-09-2025,Delhi,West Delhi,110058,2,0,0
+08-09-2025,Delhi,Central Delhi,110004,1,0,0
+08-09-2025,Delhi,Central Delhi,110008,9,2,0
+08-09-2025,Delhi,Central Delhi,110012,3,2,0
+08-09-2025,Delhi,East Delhi,110031,6,8,0
+08-09-2025,Delhi,North Delhi,110006,4,0,0
+08-09-2025,Delhi,North Delhi,110054,0,1,0
+08-09-2025,Delhi,North Delhi,110084,8,6,0
+08-09-2025,Delhi,North East,110093,9,4,0
+08-09-2025,Delhi,North East Delhi,110094,38,16,0
+08-09-2025,Delhi,North West Delhi,110009,5,3,1
+08-09-2025,Delhi,North West Delhi,110033,11,0,0
+08-09-2025,Delhi,North West Delhi,110052,10,1,0
+08-09-2025,Delhi,Shahdara,110093,7,0,0
+08-09-2025,Delhi,South Delhi,110017,7,0,1
+08-09-2025,Delhi,South Delhi,110025,10,2,0
+08-09-2025,Delhi,South Delhi,110044,32,4,0
+08-09-2025,Delhi,South Delhi,110047,3,1,1
+08-09-2025,Delhi,South Delhi,110049,1,2,2
+08-09-2025,Delhi,South Delhi,110074,6,4,0
+08-09-2025,Delhi,South Delhi,110080,6,0,0
+08-09-2025,Delhi,South West Delhi,110066,0,0,1
+08-09-2025,Delhi,South West Delhi,110072,1,0,0
+08-09-2025,Delhi,West Delhi,110015,6,1,0
+08-09-2025,Delhi,West Delhi,110041,28,8,1
+09-09-2025,Delhi,Central Delhi,110003,3,2,1
+09-09-2025,Delhi,East Delhi,110031,5,1,0
+09-09-2025,Delhi,East Delhi,110032,6,1,0
+09-09-2025,Delhi,East Delhi,110096,13,5,0
+09-09-2025,Delhi,New Delhi,110021,3,0,0
+09-09-2025,Delhi,North East Delhi,110094,31,23,0
+09-09-2025,Delhi,North West Delhi,110039,6,1,0
+09-09-2025,Delhi,North West Delhi,110088,7,2,0
+09-09-2025,Delhi,South Delhi,110014,4,0,0
+09-09-2025,Delhi,South Delhi,110017,5,2,1
+09-09-2025,Delhi,South West Delhi,110021,1,0,0
+09-09-2025,Delhi,South West Delhi,110028,2,0,0
+09-09-2025,Delhi,South West Delhi,110030,1,0,0
+09-09-2025,Delhi,South West Delhi,110037,1,1,0
+09-09-2025,Delhi,South West Delhi,110045,19,5,1
+09-09-2025,Delhi,South West Delhi,110057,1,0,0
+09-09-2025,Delhi,South West Delhi,110075,6,0,0
+09-09-2025,Delhi,West Delhi,110015,7,2,0
+09-09-2025,Delhi,West Delhi,110018,11,3,0
+09-09-2025,Delhi,West Delhi,110041,43,8,0
+09-09-2025,Delhi,West Delhi,110063,7,0,0
+09-09-2025,Delhi,West Delhi,110064,1,1,0
+12-09-2025,Delhi,Central Delhi,110002,7,1,0
+12-09-2025,Delhi,Central Delhi,110005,6,4,0
+12-09-2025,Delhi,Central Delhi,110012,3,0,0
+12-09-2025,Delhi,East Delhi,110096,11,1,0
+12-09-2025,Delhi,North East,110053,5,0,0
+12-09-2025,Delhi,North West Delhi,110034,10,5,5
+12-09-2025,Delhi,North West Delhi,110040,11,1,0
+12-09-2025,Delhi,North West Delhi,110083,6,1,0
+12-09-2025,Delhi,North West Delhi,110088,7,0,0
+12-09-2025,Delhi,Shahdara,110032,2,1,0
+12-09-2025,Delhi,Shahdara,110093,1,2,0
+12-09-2025,Delhi,South Delhi,110014,1,0,0
+12-09-2025,Delhi,South Delhi,110020,6,2,0
+12-09-2025,Delhi,South Delhi,110047,1,3,0
+12-09-2025,Delhi,South Delhi,110048,0,0,1
+12-09-2025,Delhi,South Delhi,110074,8,3,1
+12-09-2025,Delhi,South Delhi,110076,7,2,0
+12-09-2025,Delhi,South West Delhi,110045,18,6,0
+12-09-2025,Delhi,West Delhi,110027,8,4,0
+12-09-2025,Delhi,West Delhi,110063,3,3,2
+11-09-2025,Delhi,East Delhi,110051,4,2,0
+11-09-2025,Delhi,East Delhi,110095,21,0,0
+11-09-2025,Delhi,North West Delhi,110033,9,5,0
+11-09-2025,Delhi,North West Delhi,110089,0,1,0
+11-09-2025,Delhi,North West Delhi,110094,1,0,0
+11-09-2025,Delhi,Shahdara,110095,5,0,0
+11-09-2025,Delhi,South Delhi,110076,2,1,0
+11-09-2025,Delhi,South West Delhi,110037,6,2,0
+11-09-2025,Delhi,South West Delhi,110046,6,2,0
+11-09-2025,Delhi,South West Delhi,110075,5,1,0
+11-09-2025,Delhi,West Delhi,110087,3,0,0
+14-09-2025,Delhi,Central Delhi,110008,1,1,0
+14-09-2025,Delhi,East Delhi,110091,7,0,0
+14-09-2025,Delhi,North Delhi,110084,3,1,0
+14-09-2025,Delhi,North East,110053,4,0,0
+14-09-2025,Delhi,North East Delhi,110094,11,6,0
+14-09-2025,Delhi,North West Delhi,110034,1,0,0
+14-09-2025,Delhi,South Delhi,110003,0,1,0
+14-09-2025,Delhi,South Delhi,110019,2,0,0
+14-09-2025,Delhi,South Delhi,110062,7,3,0
+14-09-2025,Delhi,South West Delhi,110045,9,4,0
+14-09-2025,Delhi,South West Delhi,110046,1,1,0
+14-09-2025,Delhi,South West Delhi,110078,2,0,0
+14-09-2025,Delhi,West Delhi,110087,0,1,0
+15-09-2025,Delhi,East Delhi,110031,11,3,0
+15-09-2025,Delhi,East Delhi,110051,7,4,0
+15-09-2025,Delhi,North East,110093,4,0,0
+15-09-2025,Delhi,North East Delhi,110032,6,2,0
+15-09-2025,Delhi,North West Delhi,110094,0,1,0
+15-09-2025,Delhi,Shahdara,110093,2,2,0
+15-09-2025,Delhi,South Delhi,110017,8,2,0
+15-09-2025,Delhi,South Delhi,110030,1,1,0
+15-09-2025,Delhi,South West Delhi,110021,4,2,0
+15-09-2025,Delhi,South West Delhi,110037,4,0,1
+15-09-2025,Delhi,South West Delhi,110045,17,2,0
+15-09-2025,Delhi,South West Delhi,110046,3,1,0
+15-09-2025,Delhi,West Delhi,110018,3,2,0
+15-09-2025,Delhi,West Delhi,110087,2,0,0
+13-09-2025,Delhi,Central Delhi,110003,3,0,0
+13-09-2025,Delhi,East Delhi,110095,18,2,0
+13-09-2025,Delhi,New Delhi,110001,4,1,0
+13-09-2025,Delhi,North Delhi,110007,9,1,0
+13-09-2025,Delhi,North Delhi,110054,1,1,0
+13-09-2025,Delhi,North East Delhi,110053,17,2,0
+13-09-2025,Delhi,North East Delhi,110094,20,10,0
+13-09-2025,Delhi,North West Delhi,110009,8,2,0
+13-09-2025,Delhi,North West Delhi,110033,11,3,0
+13-09-2025,Delhi,North West Delhi,110034,7,0,0
+13-09-2025,Delhi,Shahdara,110095,5,3,0
+13-09-2025,Delhi,South Delhi,110013,4,1,0
+13-09-2025,Delhi,South Delhi,110014,1,0,0
+13-09-2025,Delhi,South Delhi,110017,4,1,0
+13-09-2025,Delhi,South Delhi,110020,2,1,0
+13-09-2025,Delhi,South Delhi,110068,6,3,0
+13-09-2025,Delhi,South West Delhi,110023,0,1,0
+13-09-2025,Delhi,South West Delhi,110028,2,1,0
+13-09-2025,Delhi,South West Delhi,110046,4,5,0
+13-09-2025,Delhi,South West Delhi,110066,2,0,0
+13-09-2025,Delhi,South West Delhi,110070,3,3,0
+13-09-2025,Delhi,West Delhi,110015,6,1,0
+13-09-2025,Delhi,West Delhi,110063,11,2,0
+16-09-2025,Delhi,East Delhi,110031,4,4,0
+16-09-2025,Delhi,East Delhi,110092,11,5,1
+16-09-2025,Delhi,East Delhi,110094,1,0,0
+16-09-2025,Delhi,North East,110053,7,3,0
+16-09-2025,Delhi,North East,110093,5,2,0
+16-09-2025,Delhi,North West Delhi,110035,6,2,0
+16-09-2025,Delhi,North West Delhi,110042,19,5,0
+16-09-2025,Delhi,North West Delhi,110082,5,0,0
+16-09-2025,Delhi,North West Delhi,110083,3,1,0
+16-09-2025,Delhi,South Delhi,110003,1,0,0
+16-09-2025,Delhi,South Delhi,110016,2,0,1
+16-09-2025,Delhi,South Delhi,110024,1,0,1
+16-09-2025,Delhi,South Delhi,110047,2,1,0
+16-09-2025,Delhi,South Delhi,110049,4,0,1
+16-09-2025,Delhi,South West Delhi,110071,3,0,0
+16-09-2025,Delhi,South West Delhi,110072,2,0,0
+16-09-2025,Delhi,West Delhi,110018,15,11,0
+16-09-2025,Delhi,West Delhi,110043,2,1,0
+16-09-2025,Delhi,West Delhi,110063,3,2,0
+16-09-2025,Delhi,West Delhi,110087,4,3,1
+18-09-2025,Delhi,Central Delhi,110001,1,0,0
+18-09-2025,Delhi,Central Delhi,110005,2,5,0
+18-09-2025,Delhi,East Delhi,110092,8,3,2
+18-09-2025,Delhi,East Delhi,110095,8,6,0
+18-09-2025,Delhi,East Delhi,110096,7,5,0
+18-09-2025,Delhi,North Delhi,110007,2,1,0
+18-09-2025,Delhi,North Delhi,110084,15,5,0
+18-09-2025,Delhi,North East Delhi,110053,26,3,0
+18-09-2025,Delhi,North West Delhi,110036,4,2,0
+18-09-2025,Delhi,North West Delhi,110039,8,3,0
+18-09-2025,Delhi,North West Delhi,110040,10,0,0
+18-09-2025,Delhi,North West Delhi,110042,15,7,0
+18-09-2025,Delhi,North West Delhi,110052,13,1,0
+18-09-2025,Delhi,South Delhi,110024,0,0,1
+18-09-2025,Delhi,South Delhi,110049,2,1,0
+18-09-2025,Delhi,South Delhi,110062,19,7,1
+18-09-2025,Delhi,South Delhi,110065,1,1,0
+18-09-2025,Delhi,South Delhi,110080,5,1,0
+18-09-2025,Delhi,South West Delhi,110043,13,2,0
+18-09-2025,Delhi,South West Delhi,110077,3,1,0
+18-09-2025,Delhi,West Delhi,110015,3,0,0
+18-09-2025,Delhi,West Delhi,110043,2,2,0
+18-09-2025,Delhi,West Delhi,110059,27,11,0
+17-09-2025,Delhi,Central Delhi,110001,0,1,0
+17-09-2025,Delhi,Central Delhi,110005,5,2,0
+17-09-2025,Delhi,New Delhi,110021,0,1,0
+17-09-2025,Delhi,North Delhi,110006,16,3,1
+17-09-2025,Delhi,North East,110094,14,4,0
+17-09-2025,Delhi,North West Delhi,110040,7,4,1
+17-09-2025,Delhi,North West Delhi,110081,8,4,0
+17-09-2025,Delhi,North West Delhi,110086,17,9,1
+17-09-2025,Delhi,South Delhi,110017,7,1,0
+17-09-2025,Delhi,South Delhi,110020,3,0,0
+17-09-2025,Delhi,South West Delhi,110010,2,1,0
+17-09-2025,Delhi,South West Delhi,110016,1,0,0
+17-09-2025,Delhi,South West Delhi,110028,0,1,0
+17-09-2025,Delhi,South West Delhi,110057,2,0,0
+17-09-2025,Delhi,South West Delhi,110064,2,3,0
+17-09-2025,Delhi,South West Delhi,110067,2,0,0
+17-09-2025,Delhi,South West Delhi,110075,3,1,0
+17-09-2025,Delhi,West Delhi,110027,5,1,0
+17-09-2025,Delhi,West Delhi,110041,25,13,1
+17-09-2025,Delhi,West Delhi,110063,2,1,0
+19-09-2025,Delhi,Central Delhi,110003,3,0,1
+19-09-2025,Delhi,Central Delhi,110055,3,2,0
+19-09-2025,Delhi,East Delhi,110092,20,5,0
+19-09-2025,Delhi,Najafgarh,110043,1,0,0
+19-09-2025,Delhi,North East,110053,4,1,0
+19-09-2025,Delhi,North East Delhi,110093,19,0,0
+19-09-2025,Delhi,North West Delhi,110056,1,0,0
+19-09-2025,Delhi,South Delhi,110016,1,1,0
+19-09-2025,Delhi,South Delhi,110044,11,4,0
+19-09-2025,Delhi,South Delhi,110062,14,2,0
+19-09-2025,Delhi,South Delhi,110065,1,0,0
+19-09-2025,Delhi,South Delhi,110074,4,1,0
+19-09-2025,Delhi,South East Delhi,110025,1,0,0
+19-09-2025,Delhi,South West Delhi,110022,1,0,0
+19-09-2025,Delhi,South West Delhi,110037,2,0,0
+19-09-2025,Delhi,South West Delhi,110043,17,0,0
+19-09-2025,Delhi,South West Delhi,110067,1,0,0
+19-09-2025,Delhi,South West Delhi,110072,4,0,0
+19-09-2025,Delhi,West Delhi,110018,4,2,0
+19-09-2025,Delhi,West Delhi,110027,4,1,2
+19-09-2025,Delhi,West Delhi,110041,19,7,0
+19-09-2025,Delhi,West Delhi,110043,3,2,0
+20-09-2025,Delhi,East Delhi,110053,1,1,0
+20-09-2025,Delhi,East Delhi,110094,2,0,0
+20-09-2025,Delhi,North West Delhi,110039,13,3,1
+20-09-2025,Delhi,North West Delhi,110042,14,8,0
+20-09-2025,Delhi,North West Delhi,110081,8,0,0
+20-09-2025,Delhi,Shahdara,110053,0,2,0
+20-09-2025,Delhi,South Delhi,110016,1,2,0
+20-09-2025,Delhi,South Delhi,110049,4,2,0
+20-09-2025,Delhi,South Delhi,110074,3,1,0
+20-09-2025,Delhi,South West Delhi,110037,4,0,0
+20-09-2025,Delhi,South West Delhi,110038,1,1,0
+20-09-2025,Delhi,South West Delhi,110073,1,0,0
+20-09-2025,Delhi,South West Delhi,110077,8,1,0
+20-09-2025,Delhi,West Delhi,110015,6,0,0
+20-09-2025,Delhi,West Delhi,110058,2,1,0
+22-09-2025,Delhi,Central Delhi,110002,3,3,0
+22-09-2025,Delhi,Central Delhi,110005,7,1,0
+22-09-2025,Delhi,Central Delhi,110012,2,0,0
+22-09-2025,Delhi,Central Delhi,110055,2,4,2
+22-09-2025,Delhi,East Delhi,110092,13,2,0
+22-09-2025,Delhi,East Delhi,110095,11,1,0
+22-09-2025,Delhi,North East   *,110053,2,0,0
+22-09-2025,Delhi,North West Delhi,110040,9,4,0
+22-09-2025,Delhi,North West Delhi,110042,10,4,0
+22-09-2025,Delhi,Shahdara,110032,2,0,0
+22-09-2025,Delhi,South Delhi,110003,1,0,0
+22-09-2025,Delhi,South Delhi,110047,2,0,0
+22-09-2025,Delhi,South Delhi,110048,1,0,2
+22-09-2025,Delhi,South West Delhi,110045,5,0,1
+22-09-2025,Delhi,South West Delhi,110075,4,2,0
+22-09-2025,Delhi,West Delhi,110015,0,1,0
+23-09-2025,Delhi,Central Delhi,110002,1,2,0
+23-09-2025,Delhi,Central Delhi,110003,1,0,0
+23-09-2025,Delhi,Central Delhi,110055,2,2,0
+23-09-2025,Delhi,East Delhi,110032,6,0,0
+23-09-2025,Delhi,East Delhi,110095,9,3,0
+23-09-2025,Delhi,New Delhi,110001,1,1,0
+23-09-2025,Delhi,North Delhi,110006,8,1,0
+23-09-2025,Delhi,North East Delhi,110053,18,7,0
+23-09-2025,Delhi,North East Delhi,110094,30,12,0
+23-09-2025,Delhi,North West Delhi,110009,3,0,2
+23-09-2025,Delhi,North West Delhi,110040,3,8,0
+23-09-2025,Delhi,North West Delhi,110042,10,5,0
+23-09-2025,Delhi,North West Delhi,110086,20,3,0
+23-09-2025,Delhi,North West Delhi,110094,1,0,0
+23-09-2025,Delhi,Shahdara,110053,0,1,0
+23-09-2025,Delhi,South Delhi,110003,3,0,0
+23-09-2025,Delhi,South Delhi,110016,0,1,0
+23-09-2025,Delhi,South Delhi,110044,24,2,0
+23-09-2025,Delhi,South Delhi,110062,11,3,0
+23-09-2025,Delhi,South Delhi,110065,4,1,0
+23-09-2025,Delhi,South West Delhi,110021,2,0,0
+23-09-2025,Delhi,South West Delhi,110073,4,1,0
+23-09-2025,Delhi,South West Delhi,110077,2,2,0
+23-09-2025,Delhi,West Delhi,110015,2,1,0
+23-09-2025,Delhi,West Delhi,110063,8,0,0
+23-09-2025,Delhi,West Delhi,110064,1,0,0
+21-09-2025,Delhi,East Delhi,110092,1,0,0
+21-09-2025,Delhi,North East,110094,2,1,0
+21-09-2025,Delhi,North West Delhi,110083,1,0,0
+21-09-2025,Delhi,North West Delhi,110085,3,2,0
+21-09-2025,Delhi,North West Delhi,110086,1,0,0
+21-09-2025,Delhi,South Delhi,110020,1,2,0
+21-09-2025,Delhi,West Delhi,110058,0,1,0
+21-09-2025,Delhi,West Delhi,110059,2,1,0
+25-09-2025,Delhi,Central Delhi,110003,1,0,0
+25-09-2025,Delhi,Central Delhi,110005,4,1,0
+25-09-2025,Delhi,East Delhi,110091,12,3,0
+25-09-2025,Delhi,East Delhi,110092,7,6,0
+25-09-2025,Delhi,Najafgarh,110043,1,0,0
+25-09-2025,Delhi,North Delhi,110007,3,1,0
+25-09-2025,Delhi,North East,110093,7,0,0
+25-09-2025,Delhi,North East Delhi,110094,26,11,0
+25-09-2025,Delhi,North West Delhi,110009,2,3,0
+25-09-2025,Delhi,North West Delhi,110034,11,1,0
+25-09-2025,Delhi,North West Delhi,110039,6,3,0
+25-09-2025,Delhi,North West Delhi,110042,13,0,0
+25-09-2025,Delhi,North West Delhi,110052,2,4,0
+25-09-2025,Delhi,North West Delhi,110083,11,1,0
+25-09-2025,Delhi,North West Delhi,110089,6,0,0
+25-09-2025,Delhi,Shahdara,110090,1,0,0
+25-09-2025,Delhi,South Delhi,110044,20,7,0
+25-09-2025,Delhi,South Delhi,110048,1,0,0
+25-09-2025,Delhi,South Delhi,110049,5,0,0
+25-09-2025,Delhi,South East Delhi,110025,0,0,1
+25-09-2025,Delhi,South West Delhi,110016,0,1,0
+25-09-2025,Delhi,South West Delhi,110028,1,0,0
+25-09-2025,Delhi,South West Delhi,110061,2,2,0
+25-09-2025,Delhi,South West Delhi,110064,2,0,0
+25-09-2025,Delhi,South West Delhi,110070,1,0,0
+25-09-2025,Delhi,West Delhi,110027,3,0,0
+25-09-2025,Delhi,West Delhi,110041,16,5,0
+25-09-2025,Delhi,West Delhi,110063,3,0,0
+24-09-2025,Delhi,East Delhi,110031,9,1,1
+24-09-2025,Delhi,East Delhi,110092,14,5,0
+24-09-2025,Delhi,East Delhi,110096,5,0,0
+24-09-2025,Delhi,New Delhi,110001,2,0,0
+24-09-2025,Delhi,North Delhi,110007,9,1,0
+24-09-2025,Delhi,North East,110094,10,2,0
+24-09-2025,Delhi,North East Delhi,110094,25,15,1
+24-09-2025,Delhi,North West Delhi,110034,7,3,6
+24-09-2025,Delhi,North West Delhi,110052,3,2,0
+24-09-2025,Delhi,South Delhi,110016,1,0,0
+24-09-2025,Delhi,South Delhi,110024,1,1,0
+24-09-2025,Delhi,South Delhi,110030,10,1,0
+24-09-2025,Delhi,South Delhi,110047,3,2,0
+24-09-2025,Delhi,South Delhi,110048,1,0,0
+24-09-2025,Delhi,South Delhi,110062,17,6,0
+24-09-2025,Delhi,South Delhi,110080,5,0,0
+24-09-2025,Delhi,South West Delhi,110010,3,0,0
+24-09-2025,Delhi,South West Delhi,110021,0,1,0
+24-09-2025,Delhi,South West Delhi,110037,2,3,0
+24-09-2025,Delhi,South West Delhi,110045,8,0,0
+24-09-2025,Delhi,South West Delhi,110067,1,0,0
+24-09-2025,Delhi,South West Delhi,110071,1,0,0
+24-09-2025,Delhi,West Delhi,110058,3,0,0
+26-09-2025,Delhi,Central Delhi,110055,2,8,1
+26-09-2025,Delhi,East Delhi,110031,2,0,0
+26-09-2025,Delhi,East Delhi,110032,0,1,0
+26-09-2025,Delhi,North Delhi,110007,0,1,0
+26-09-2025,Delhi,North Delhi,110084,5,2,0
+26-09-2025,Delhi,North East Delhi,110093,9,0,0
+26-09-2025,Delhi,North West Delhi,110039,1,0,0
+26-09-2025,Delhi,North West Delhi,110081,4,1,0
+26-09-2025,Delhi,North West Delhi,110083,4,0,0
+26-09-2025,Delhi,North West Delhi,110086,21,7,0
+26-09-2025,Delhi,North West Delhi,110088,5,0,0
+26-09-2025,Delhi,South Delhi,110014,2,0,0
+26-09-2025,Delhi,South Delhi,110016,2,0,0
+26-09-2025,Delhi,South Delhi,110019,3,1,0
+26-09-2025,Delhi,South Delhi,110030,4,2,2
+26-09-2025,Delhi,South West Delhi,110022,3,0,0
+26-09-2025,Delhi,South West Delhi,110045,4,2,0
+26-09-2025,Delhi,South West Delhi,110075,1,3,0
+26-09-2025,Delhi,West Delhi,110015,5,2,0
+26-09-2025,Delhi,West Delhi,110027,1,1,0
+26-09-2025,Delhi,West Delhi,110087,1,0,0
+30-09-2025,Delhi,Central Delhi,110005,0,0,2
+30-09-2025,Delhi,North Delhi,110006,0,2,0
+30-09-2025,Delhi,North East Delhi,110094,0,2,0
+30-09-2025,Delhi,West Delhi,110087,0,1,0
+27-09-2025,Delhi,Central Delhi,110008,1,0,0
+27-09-2025,Delhi,North East Delhi,110094,5,0,0
+27-09-2025,Delhi,North West Delhi,110040,1,0,0
+27-09-2025,Delhi,South Delhi,110024,0,2,0
+27-09-2025,Delhi,South Delhi,110030,3,0,0
+27-09-2025,Delhi,South Delhi,110049,1,0,0
+27-09-2025,Delhi,South West Delhi,110010,0,1,0
+27-09-2025,Delhi,South West Delhi,110022,0,1,0
+27-09-2025,Delhi,South West Delhi,110023,3,1,0
+27-09-2025,Delhi,South West Delhi,110043,5,2,0
+27-09-2025,Delhi,South West Delhi,110046,2,1,0
+27-09-2025,Delhi,South West Delhi,110057,0,1,0
+28-09-2025,Delhi,East Delhi,110095,0,1,0
+28-09-2025,Delhi,North West Delhi,110034,1,0,0
+28-09-2025,Delhi,North West Delhi,110052,1,2,0
+28-09-2025,Delhi,North West Delhi,110085,0,1,0
+28-09-2025,Delhi,South Delhi,110017,0,1,0
+28-09-2025,Delhi,South Delhi,110044,2,3,0
+28-09-2025,Delhi,South Delhi,110047,0,1,0
+28-09-2025,Delhi,South Delhi,110062,0,1,0
+28-09-2025,Delhi,West Delhi,110018,1,0,0
+28-09-2025,Delhi,West Delhi,110058,1,0,0
+29-09-2025,Delhi,North East,110053,1,0,0
+29-09-2025,Delhi,North East Delhi,110094,1,6,0
+29-09-2025,Delhi,North West Delhi,110009,1,0,0
+29-09-2025,Delhi,North West Delhi,110083,1,0,0
+29-09-2025,Delhi,South Delhi,110030,1,0,2
+29-09-2025,Delhi,South Delhi,110068,1,0,0
+29-09-2025,Delhi,South West Delhi,110061,1,0,1
+29-09-2025,Delhi,West Delhi,110041,3,0,0
+13-10-2025,Delhi,Central Delhi,110002,3,2,0
+13-10-2025,Delhi,Central Delhi,110055,0,2,0
+13-10-2025,Delhi,East Delhi,110092,17,5,2
+13-10-2025,Delhi,North East,110053,7,2,0
+13-10-2025,Delhi,North East Delhi,110093,9,4,0
+13-10-2025,Delhi,North West Delhi,110042,13,5,0
+13-10-2025,Delhi,Shahdara,110093,1,0,0
+13-10-2025,Delhi,South Delhi,110013,2,0,0
+13-10-2025,Delhi,South Delhi,110047,1,2,0
+13-10-2025,Delhi,South Delhi,110048,1,0,1
+13-10-2025,Delhi,South Delhi,110062,28,4,0
+13-10-2025,Delhi,South Delhi,110065,2,0,0
+13-10-2025,Delhi,South Delhi,110080,6,1,0
+13-10-2025,Delhi,South West Delhi,110023,1,0,1
+13-10-2025,Delhi,South West Delhi,110038,0,1,0
+13-10-2025,Delhi,South West Delhi,110071,3,0,0
+13-10-2025,Delhi,South West Delhi,110073,1,0,0
+13-10-2025,Delhi,South West Delhi,110075,3,0,0
+15-10-2025,Delhi,East Delhi,110032,0,1,0
+15-10-2025,Delhi,East Delhi,110091,7,1,0
+15-10-2025,Delhi,East Delhi,110095,10,1,0
+15-10-2025,Delhi,North Delhi,110006,7,2,0
+15-10-2025,Delhi,North Delhi,110054,1,0,0
+15-10-2025,Delhi,North East,110093,3,1,0
+15-10-2025,Delhi,North West Delhi,110034,7,1,2
+15-10-2025,Delhi,South Delhi,110020,2,0,0
+15-10-2025,Delhi,South West Delhi,110022,1,0,0
+15-10-2025,Delhi,South West Delhi,110061,3,0,0
+15-10-2025,Delhi,South West Delhi,110067,2,0,0
+15-10-2025,Delhi,West Delhi,110015,2,2,0
+15-10-2025,Delhi,West Delhi,110018,13,2,0
+15-10-2025,Delhi,West Delhi,110041,5,2,0
+15-10-2025,Delhi,West Delhi,110063,4,0,0
+16-10-2025,Delhi,Central Delhi,110001,1,0,0
+16-10-2025,Delhi,Central Delhi,110002,4,0,0
+16-10-2025,Delhi,East Delhi,110096,5,4,0
+16-10-2025,Delhi,Najafgarh,110043,1,0,0
+16-10-2025,Delhi,North Delhi,110054,0,2,0
+16-10-2025,Delhi,North Delhi,110084,7,4,0
+16-10-2025,Delhi,North East,110053,3,2,0
+16-10-2025,Delhi,North West Delhi,110083,2,1,0
+16-10-2025,Delhi,North West Delhi,110088,1,0,0
+16-10-2025,Delhi,South Delhi,110016,0,1,0
+16-10-2025,Delhi,South Delhi,110044,10,6,0
+16-10-2025,Delhi,South Delhi,110068,5,1,0
+16-10-2025,Delhi,South Delhi,110080,5,0,0
+16-10-2025,Delhi,South West Delhi,110010,1,2,0
+16-10-2025,Delhi,South West Delhi,110043,8,2,1
+16-10-2025,Delhi,South West Delhi,110064,1,0,0
+16-10-2025,Delhi,South West Delhi,110067,3,0,0
+16-10-2025,Delhi,South West Delhi,110072,2,0,0
+16-10-2025,Delhi,West Delhi,110043,1,1,0
+16-10-2025,Delhi,West Delhi,110059,12,4,1
+17-10-2025,Delhi,Central Delhi,110005,8,1,0
+17-10-2025,Delhi,Central Delhi,110060,0,1,0
+17-10-2025,Delhi,East Delhi,110092,24,7,1
+17-10-2025,Delhi,East Delhi,110096,20,8,0
+17-10-2025,Delhi,New Delhi,110021,2,0,0
+17-10-2025,Delhi,North Delhi,110084,17,13,0
+17-10-2025,Delhi,North West Delhi,110035,4,2,0
+17-10-2025,Delhi,North West Delhi,110036,7,1,0
+17-10-2025,Delhi,North West Delhi,110039,13,6,0
+17-10-2025,Delhi,North West Delhi,110089,0,2,0
+17-10-2025,Delhi,Shahdara,110095,1,0,0
+17-10-2025,Delhi,South Delhi,110062,66,12,0
+17-10-2025,Delhi,South West Delhi,110021,1,1,0
+17-10-2025,Delhi,South West Delhi,110028,4,0,0
+17-10-2025,Delhi,South West Delhi,110061,3,1,2
+17-10-2025,Delhi,South West Delhi,110071,2,1,0
+17-10-2025,Delhi,South West Delhi,110072,2,0,0
+17-10-2025,Delhi,South West Delhi,110075,3,0,0
+17-10-2025,Delhi,South West Delhi,110077,8,1,0
+17-10-2025,Delhi,West Delhi,110018,14,3,0
+17-10-2025,Delhi,West Delhi,110058,3,1,0
+17-10-2025,Delhi,West Delhi,110059,55,12,0
