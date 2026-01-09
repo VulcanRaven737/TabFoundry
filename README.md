@@ -174,16 +174,6 @@ Deep learning approach using transformer architecture for tabular data.
 
 Prior-fitted network comparison with AutoGluon baseline.
 
-## Results
-
-Results are evaluated using task-specific metrics:
-
-| Task | Model | Primary Metric | Performance |
-|------|-------|---------------|-------------|
-| Anomaly Detection | AutoGluon | AUC-ROC | TBD |
-| Forecasting | AutoGluon | RMSE | TBD |
-| Inequality Analysis | AutoGluon | F1-Score | TBD |
-
 ## Contributing
 
 Contributions are welcome! Please follow these guidelines:
